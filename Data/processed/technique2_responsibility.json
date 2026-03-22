@@ -1,0 +1,227 @@
+{
+  "eu_ai_act": {
+    "voice": {
+      "active": 376,
+      "passive": 326,
+      "indeterminate": 8
+    },
+    "total_obligation": 710,
+    "category_counts": {
+      "unclassified": 144,
+      "government": 148,
+      "regulated_entity": 59,
+      "generic": 25
+    },
+    "hhi": 0.14134958382877527,
+    "coverage": 0.6170212765957447,
+    "total_active": 376,
+    "classified_real_actors": 232,
+    "top_actors": {
+      "commission": 54,
+      "authority": 43,
+      "provider": 36,
+      "office": 22,
+      "state": 21
+    }
+  },
+  "china_genai": {
+    "voice": {
+      "active": 12,
+      "passive": 4,
+      "indeterminate": 0
+    },
+    "total_obligation": 16,
+    "category_counts": {
+      "regulated_entity": 9,
+      "unclassified": 3
+    },
+    "hhi": 1.0,
+    "coverage": 0.75,
+    "total_active": 12,
+    "classified_real_actors": 9,
+    "top_actors": {
+      "provider": 9
+    }
+  },
+  "south_korea": {
+    "voice": {
+      "active": 59,
+      "passive": 43,
+      "indeterminate": 0
+    },
+    "total_obligation": 102,
+    "category_counts": {
+      "government": 34,
+      "unclassified": 18,
+      "regulated_entity": 5,
+      "generic": 2
+    },
+    "hhi": 0.3111243307555027,
+    "coverage": 0.6949152542372882,
+    "total_active": 59,
+    "classified_real_actors": 41,
+    "top_actors": {
+      "minister": 16,
+      "government": 16,
+      "ai business operator": 2,
+      "ai industry": 1,
+      "affected person": 1
+    }
+  },
+  "ca_sb1047": {
+    "voice": {
+      "active": 27,
+      "passive": 29,
+      "indeterminate": 0
+    },
+    "total_obligation": 56,
+    "category_counts": {
+      "regulated_entity": 16,
+      "unclassified": 7,
+      "government": 4
+    },
+    "hhi": 0.28,
+    "coverage": 0.7407407407407407,
+    "total_active": 27,
+    "classified_real_actors": 20,
+    "top_actors": {
+      "developer": 9,
+      "covered model": 4,
+      "agency": 3,
+      "computing cluster": 2,
+      "board": 1
+    }
+  },
+  "ca_sb53": {
+    "voice": {
+      "active": 21,
+      "passive": 33,
+      "indeterminate": 0
+    },
+    "total_obligation": 54,
+    "category_counts": {
+      "unclassified": 7,
+      "regulated_entity": 8,
+      "government": 6
+    },
+    "hhi": 0.25510204081632654,
+    "coverage": 0.6666666666666666,
+    "total_active": 21,
+    "classified_real_actors": 14,
+    "top_actors": {
+      "frontier developer": 6,
+      "department": 3,
+      "frontier model": 1,
+      "office": 1,
+      "attorney general": 1
+    }
+  },
+  "ca_sb942": {
+    "voice": {
+      "active": 7,
+      "passive": 6,
+      "indeterminate": 0
+    },
+    "total_obligation": 13,
+    "category_counts": {
+      "regulated_entity": 4,
+      "unclassified": 2,
+      "government": 1
+    },
+    "hhi": 0.6800000000000002,
+    "coverage": 0.7142857142857143,
+    "total_active": 7,
+    "classified_real_actors": 5,
+    "top_actors": {
+      "covered provider": 4,
+      "attorney general": 1
+    }
+  },
+  "ca_ab2013": {
+    "voice": {
+      "active": 1,
+      "passive": 2,
+      "indeterminate": 0
+    },
+    "total_obligation": 3,
+    "category_counts": {
+      "regulated_entity": 1
+    },
+    "hhi": 1.0,
+    "coverage": 1.0,
+    "total_active": 1,
+    "classified_real_actors": 1,
+    "top_actors": {
+      "developer": 1
+    }
+  },
+  "co_sb205": {
+    "voice": {
+      "active": 14,
+      "passive": 11,
+      "indeterminate": 0
+    },
+    "total_obligation": 25,
+    "category_counts": {
+      "unclassified": 2,
+      "government": 4,
+      "regulated_entity": 8
+    },
+    "hhi": 0.375,
+    "coverage": 0.8571428571428571,
+    "total_active": 14,
+    "classified_real_actors": 12,
+    "top_actors": {
+      "deployer": 6,
+      "attorney general": 4,
+      "developer": 1,
+      "artificial intelligence system": 1
+    }
+  },
+  "tx_traiga": {
+    "voice": {
+      "active": 26,
+      "passive": 17,
+      "indeterminate": 0
+    },
+    "total_obligation": 43,
+    "category_counts": {
+      "regulated_entity": 11,
+      "generic": 3,
+      "unclassified": 11,
+      "government": 1
+    },
+    "hhi": 0.2533333333333334,
+    "coverage": 0.5769230769230769,
+    "total_active": 26,
+    "classified_real_actors": 15,
+    "top_actors": {
+      "council": 6,
+      "person": 3,
+      "department": 3,
+      "artificial intelligence system": 1,
+      "attorney general": 1
+    }
+  },
+  "il_hb3773": {
+    "voice": {
+      "active": 9,
+      "passive": 7,
+      "indeterminate": 0
+    },
+    "total_obligation": 16,
+    "category_counts": {
+      "regulated_entity": 5,
+      "unclassified": 2,
+      "government": 2
+    },
+    "hhi": 0.5918367346938775,
+    "coverage": 0.7777777777777778,
+    "total_active": 9,
+    "classified_real_actors": 7,
+    "top_actors": {
+      "employer": 5,
+      "department": 2
+    }
+  }
+}

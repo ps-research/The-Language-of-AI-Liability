@@ -1,0 +1,268 @@
+{
+  "eu_ai_act.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 90044,
+      "line_count": 7233,
+      "non_empty_lines": 2768,
+      "character_count": 598603,
+      "rough_sentence_count": 2545
+    },
+    "section_markers": {
+      "Article": 576,
+      "Chapter": 69,
+      "Annex": 130,
+      "Recital": 254
+    },
+    "deontic_counts": {
+      "shall": 868,
+      "shall not": 51,
+      "must": 3,
+      "must not": 0,
+      "may": 268,
+      "should": 519,
+      "is required to": 1,
+      "is prohibited": 0
+    }
+  },
+  "china_genai_measures.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 1991,
+      "line_count": 119,
+      "non_empty_lines": 60,
+      "character_count": 14037,
+      "rough_sentence_count": 43
+    },
+    "section_markers": {
+      "Article": 24,
+      "Chapter": 5
+    },
+    "deontic_counts": {
+      "shall": 22,
+      "shall not": 0,
+      "must": 9,
+      "must not": 9,
+      "may": 0,
+      "should": 0,
+      "is required to": 0,
+      "is prohibited": 1
+    }
+  },
+  "south_korea_ai_basic_act.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 10166,
+      "line_count": 1020,
+      "non_empty_lines": 570,
+      "character_count": 69475,
+      "rough_sentence_count": 504
+    },
+    "section_markers": {
+      "Article": 141,
+      "Chapter": 6,
+      "Section": 2
+    },
+    "deontic_counts": {
+      "shall": 123,
+      "shall not": 4,
+      "must": 1,
+      "must not": 0,
+      "may": 75,
+      "should": 0,
+      "is required to": 0,
+      "is prohibited": 0
+    }
+  },
+  "ca_sb1047.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 8223,
+      "line_count": 582,
+      "non_empty_lines": 287,
+      "character_count": 53846,
+      "rough_sentence_count": 259
+    },
+    "section_markers": {
+      "SEC.": 43,
+      "Section_ref": 36,
+      "Subdivision": 29
+    },
+    "deontic_counts": {
+      "shall": 75,
+      "shall not": 9,
+      "must": 0,
+      "must not": 0,
+      "may": 17,
+      "should": 0,
+      "is required to": 0,
+      "is prohibited": 0
+    }
+  },
+  "ca_sb53.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 5881,
+      "line_count": 450,
+      "non_empty_lines": 225,
+      "character_count": 38911,
+      "rough_sentence_count": 205
+    },
+    "section_markers": {
+      "SEC.": 34,
+      "Section_ref": 29,
+      "Subdivision": 23
+    },
+    "deontic_counts": {
+      "shall": 68,
+      "shall not": 13,
+      "must": 0,
+      "must not": 0,
+      "may": 15,
+      "should": 1,
+      "is required to": 1,
+      "is prohibited": 0
+    }
+  },
+  "ca_sb942.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 1199,
+      "line_count": 134,
+      "non_empty_lines": 67,
+      "character_count": 7713,
+      "rough_sentence_count": 55
+    },
+    "section_markers": {
+      "SEC.": 4,
+      "Section_ref": 4
+    },
+    "deontic_counts": {
+      "shall": 14,
+      "shall not": 1,
+      "must": 0,
+      "must not": 0,
+      "may": 3,
+      "should": 0,
+      "is required to": 0,
+      "is prohibited": 0
+    }
+  },
+  "ca_ab2013.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 829,
+      "line_count": 68,
+      "non_empty_lines": 34,
+      "character_count": 5510,
+      "rough_sentence_count": 30
+    },
+    "section_markers": {
+      "SEC.": 6,
+      "Section_ref": 6
+    },
+    "deontic_counts": {
+      "shall": 3,
+      "shall not": 1,
+      "must": 0,
+      "must not": 0,
+      "may": 2,
+      "should": 0,
+      "is required to": 0,
+      "is prohibited": 0
+    }
+  },
+  "co_sb205.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 6106,
+      "line_count": 765,
+      "non_empty_lines": 765,
+      "character_count": 40936,
+      "rough_sentence_count": 110
+    },
+    "section_markers": {
+      "SECTION": 29,
+      "CRS_ref": 39
+    },
+    "deontic_counts": {
+      "shall": 21,
+      "shall not": 0,
+      "must": 7,
+      "must not": 0,
+      "may": 16,
+      "should": 1,
+      "is required to": 0,
+      "is prohibited": 0
+    }
+  },
+  "tx_traiga.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 5706,
+      "line_count": 3012,
+      "non_empty_lines": 752,
+      "character_count": 43982,
+      "rough_sentence_count": 234
+    },
+    "section_markers": {
+      "Sec.": 35,
+      "SECTION": 42,
+      "Chapter": 11
+    },
+    "deontic_counts": {
+      "shall": 27,
+      "shall not": 0,
+      "must": 6,
+      "must not": 0,
+      "may": 37,
+      "should": 0,
+      "is required to": 1,
+      "is prohibited": 0
+    }
+  },
+  "il_hb3773.txt": {
+    "status": "OK",
+    "encoding_issues": [],
+    "html_issues": [],
+    "stats": {
+      "word_count": 3887,
+      "line_count": 1035,
+      "non_empty_lines": 518,
+      "character_count": 27517,
+      "rough_sentence_count": 72
+    },
+    "section_markers": {
+      "Section": 5,
+      "Article": 0
+    },
+    "deontic_counts": {
+      "shall": 7,
+      "shall not": 0,
+      "must": 0,
+      "must not": 0,
+      "may": 11,
+      "should": 0,
+      "is required to": 0,
+      "is prohibited": 0
+    }
+  }
+}

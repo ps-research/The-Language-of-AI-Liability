@@ -1,0 +1,1020 @@
+Purpose of Enactment
+--------------------
+
+#### Key Provisions
+
+
+This Act aims to establish a new framework for artificial intelligence (AI) in the Republic of Korea by prescribing the fundamental matters necessary to support the sound development of AI and to establish a foundation for trustworthiness in AI society, thereby protecting the Rights and Interests of the People and their dignity, contributing to improving the quality of life of the people, and enhancing national competitiveness.
+
+*   A. Act defines Artificial Intelligence, High-Impact AI, Generative AI, AI Ethics, AI Business Operators, and other related terms (Article 2).
+*   B. The Minister of Science and ICT shall establish and implement the AI Basic Plan every three years to promote AI technology and the AI industry and to strengthen national competitiveness, and the Plan shall be deliberated and resolved by the National AI Committee and include matters concerning the basic directions of AI policy, the cultivation of professional talent, and the establishment of a foundation for trustworthiness (Article 6).
+*   C. To deliberate and resolve matters concerning major policies for the promotion of the AI industry and the establishment of a foundation for trustworthiness, a National AI Committee shall be established under the President, and the National AI Committee shall deliberate and resolve matters concerning the establishment of the AI Basic Plan, the promotion of AI utilization, the regulation of High-Impact AI, and other related matters (Articles 7 and 8).
+*   D. The Minister of Science and ICT may designate an AI Policy Center for the development of AI-related policies and the establishment and dissemination of international norms, and may operate an AI Safety Institute to ensure AI safety (Articles 11 and 12).
+*   E. The Act provides the (legal) basis for supporting research and development for the promotion of the AI industry, standardization, the establishment of policies for training data, and support for the adoption and utilization of AI, and further provides the basis for promoting AI data center policies and the promotion of AI convergence to support the innovative development of the AI ecosystem, while also stipulating matters concerning special support for small and medium-sized enterprises, startup promotion, and the nurturing of human capital to lead the AI era and the promotion of growth of SMEs and startups (Articles 13 through 18 and Article 25).
+*   F. The Minister of Science and ICT shall cultivate professional talent related to AI and may promote various policies to secure foreign experts in order to develop AI technology and promote the AI industry (Article 21).
+*   G. National and local governments may promote the functional, physical, and regional clustering of enterprises, institutions, and organizations conducting research and development of AI and AI technology in order to promote the AI industry and to strengthen competitiveness in AI development and utilization (Article 23).
+*   H. To promote the dissemination of AI ethics, the government may formulate and announce AI Ethics Principles, which may include matters such as safety and trustworthiness, accessibility, and contribution to human life and well-being, and the Minister of Science and ICT shall establish implementation measures for the AI Ethics Principles and make them public and promote awareness and education (Article 27).
+*   I. The Act provides the (legal) basis for government support of voluntary safety and trustworthiness verification and certification and AI impact assessments conducted by the private sector (Articles 30 and 35).
+*   J. The Act stipulates the duty to ensure AI transparency and the duty to ensure AI safety, and sets forth the duties of business operators related to High-Impact AI where such systems may significantly affect, or pose risks to, life, physical safety, and basic rights (Articles 31, 32, and 34).
+
+Chapter 1: General Provisions
+-----------------------------
+
+#### Article 1 (Purpose)
+
+
+The Korean Basic Act emphasizes a balanced pursuit of technological advancement and social values by linking the protection of citizens’ rights and dignity with national competitiveness, whereas the EU AI Act focuses on market harmonization and the protection of safety and fundamental rights as its primary regulatory objectives.
+
+The purpose of this Act is to protect the Rights and Interests of the People and the dignity of the People, to improve the quality of life of the people, and to strengthen national competitiveness by prescribing the basic matters necessary for the sound development of AI and the establishment of a foundation for trustworthiness.
+
+#### Article 2 (Definition)
+
+The Korean Basic Act Article 2 adopts a broad policy- and industry-oriented set of definitions—such as “artificial intelligence,” “AI technology,” and “AI industry”—and explicitly enumerates domains classified as “high-impact AI,” whereas the EU AI Act Article 3 provides functional and actor-based technical definitions, including “AI system,” “provider,” and “user,” with detailed criteria delegated to Annex I and related guidance.
+
+The terms used in this Act shall have the following meanings:
+
+1.
+
+“Artificial intelligence” refers to the electronic implementation of human intellectual abilities such as learning, reasoning, perception, judgment, and language comprehension.
+
+2.
+
+“Artificial intelligence system” refers to an artificial intelligence-based system that infers results such as predictions, recommendations, and decisions that affect real and virtual environments for given goals with various levels of autonomy and adaptability.
+
+3.
+
+“Artificial intelligence technology” refers to hardware, software technology, or its utilization technology required to implement artificial intelligence.
+
+4.
+
+“High-Impact AI” means an artificial intelligence system that may significantly affect, or pose risks to, life, physical safety, or basic rights, and that is utilized in any of the following domains:
+
+*   **a.** Energy supply pursuant to Article 2, Paragraph 1 of the “**Energy Act**”
+*   **b.** Drinking water production processes pursuant to Article 3, Paragraph 1 of the “**Drinking Water Management Act**”
+*   **c.** Provision and operation of the healthcare service system pursuant to Article 3, Paragraph 1 of the “**Framework Act on Health and Medical Services**”
+*   **d.** Development and use of medical devices pursuant to Article 2, Paragraph 1 of the “**Medical Devices Act**”, and of digital medical devices pursuant to Article 2, Paragraph 2 of the “**Digital Medical Products Act**”
+*   **e.** Safe management and operation of nuclear materials pursuant to Article 2, Paragraph 1, Subparagraph 1 of the “**Act on Physical Protection and Radiological Emergency**”, and of nuclear facilities pursuant to Subparagraph 2 of the same Paragraph
+*   **f.** Criminal investigation or apprehension requiring the analysis or use of biometric information (personal data concerning physical, physiological, or behavioral characteristics such as face, fingerprints, iris, or palm veins that can identify an individual)
+*   **g.** Judgments or evaluations that significantly affect an individual’s rights or obligations, including employment or loan decisions
+*   **h.** Core operations and management of means of transport, transport facilities, and transport systems pursuant to Article 2, Paragraphs 1 through 3 of the “**Road Traffic Act**”
+*   **i.** Decision-making by the State, local governments, or public institutions under Article 4 of the “**Act on the Management of Public Institutions**” (hereinafter “National Institutions”), including eligibility verification or cost assessments for the provision of public services, that directly affects the public interest
+*   **j.** Student evaluation in early childhood, elementary, or secondary education pursuant to Article 9, Paragraph 1 of the “**Framework Act on Education**”
+*   **k.** Other domains designated by Presidential Decree as having significant impact on the protection of life, physical safety, or basic rights
+
+5.
+
+“Generative AI” means an AI system that generates text, sound, images, video, or other content by mimicking the structures and characteristics of input data (referring to “data” as defined in Article 2, Paragraph 1 of the “**Basic Act on the Promotion of the Data Industry and Utilization**”; hereinafter the same).
+
+6.
+
+“AI Industry” means industries engaged in the development, manufacturing, production, or distribution of AI products (hereinafter referred to as “AI Products”), or in the provision of related services utilizing AI or AI technology (hereinafter referred to as “AI Services”).
+
+7.
+
+“AI Business Operator” means a corporation, organization, individual, or National Institution engaged in the AI industry, including:
+
+*   **a.** AI Developer: an entity that develops and provides AI;
+*   **b.** AI-Using Business Operator: an entity that provides AI Products or AI Services by utilizing AI developed by an AI Developer under item **a.**.
+
+8.
+
+“User” means any person who receives AI Products or AI Services.
+
+9.
+
+“Affected Person” means an individual whose life, physical safety, or basic rights are significantly affected by AI Products or AI Services.
+
+10.
+
+“AI Society” means a society in which AI creates value and drives development across all sectors, including industry, economy, society, culture, and administration.
+
+11.
+
+“AI Ethics” means ethical standards that all members of society must observe in all areas of AI development, provision, and utilization, based on respect for the dignity of the People, in order to protect the Rights and Interests of the People as well as their life and property, and to realize a safe and trustworthy AI society.
+
+#### Article 3 (Basic Principles and Duties of the State, etc.)
+
+
+The Korean Basic Act Article 3 centers on social inclusiveness—emphasizing quality of life, the right to explanation, and adaptive support—while assigning both promotional and protective responsibilities to national and local governments, whereas the EU AI Act Article 4 highlights the obligation for AI systems to comply with Union values and fundamental rights, underscoring accountability in AI governance.
+
+1.
+
+AI technology and the AI industry shall develop in a direction that enhances safety and trustworthiness, thereby improving the quality of life of the people.
+
+2.
+
+An Affected Person shall have the right to receive, to the extent technically and reasonably possible, a clear and meaningful explanation regarding the key criteria and principles used in deriving the final outcome of AI.
+
+3.
+
+The national and local governments shall respect the creative autonomy of AI business operators and strive to foster a safe environment for the use of AI.
+
+4.
+
+The State and local governments shall respect the creative autonomy of AI Business Operators and shall strive to foster a safe environment for the use of AI.
+
+#### Article 4 (Scope of Application)
+
+
+The Korean Basic Act Article 4 extends its application to acts conducted abroad that affect the domestic market or users and excludes AI developed solely for national defense or security, with detailed criteria delegated to presidential decrees, whereas the EU AI Act Article 2 explicitly establishes extraterritorial applicability to AI systems placed on or used within the EU market and similarly exempts those developed for military or national security purposes.
+
+1.
+
+This Act shall apply to any conduct that takes place outside the territory of the Republic of Korea if it affects the domestic market or Users within the Republic of Korea.
+
+2.
+
+This Act shall not apply to AI that is developed and used solely for purposes of national defense or national security, as prescribed by Presidential Decree.
+
+#### Article 5 (Relationship with Other Laws)
+
+
+The Korean Basic Act Article 5 establishes its status as a fundamental framework law by declaring normative precedence and providing legislative guidance for future AI-related laws, whereas the EU AI Act Articles 102–110 ensure systemic coherence through detailed cross-references, amendments, and alignment with existing EU legislation such as the GDPR, Machinery Regulation, and Product Safety rules.
+
+1.
+
+Except as otherwise provided by special provisions in other laws concerning Artificial Intelligence, AI Technology, the AI Industry, or AI Society (hereinafter collectively referred to as “AI and related matters”), this Act shall apply.
+
+2.
+
+In enacting or amending other laws concerning AI and related matters, such legislation shall conform to the purpose of this Act.
+
+Chapter 2: Promotion System for the Sound Development of AI and the Establishment of a Foundation for Trustworthiness
+---------------------------------------------------------------------------------------------------------------------
+
+#### Article 6 (Formulation of the AI Basic Plan)
+
+1.
+
+The Minister of Science and ICT shall, every three years, formulate, amend, and implement a Basic Plan for Artificial Intelligence (hereinafter referred to as the “AI Basic Plan”) to promote AI technology and the AI industry and to strengthen national competitiveness, after hearing the opinions of the heads of relevant central administrative agencies and local governments and upon deliberation and resolution by the National AI Committee under Article 7. However, minor amendments prescribed by Presidential Decree may be made without such deliberation and resolution.
+
+2.
+
+The AI Basic Plan shall include the following:
+
+1.  The basic policy directions and strategic objectives concerning AI and related matters;
+2.  Nurturing of professional talent and the establishment of a foundation to promote the development and utilization of AI and to systematically foster the AI industry;
+3.  Legal, institutional, and cultural measures for realizing a sound AI society, including the dissemination of AI ethics;
+4.  Securing financial resources and setting investment directions for AI technology R&D and the promotion of the AI industry;
+5.  Measures for establishing a foundation for trust, including ensuring the fairness, transparency, accountability, and safety of AI;
+6.  Strategic directions for the advancement of AI technology and for responses to changes across various sectors of society, including education, labor, the economy, and culture;
+7.  Other necessary matters recognized by the Minister of Science and ICT as necessary for the promotion of AI technology and the AI industry, the strengthening of national competitiveness, and international cooperation.
+
+3.
+
+In formulating the AI Basic Plan, the Minister of Science and ICT shall take into account the Comprehensive Plan and the Implementation Plan under Article 6, Paragraph 1 and Article 7, Paragraph 1 of the “**Basic Act on Intelligent Informatization**”.
+
+4.
+
+For the formulation of the AI Basic Plan, the Minister of Science and ICT may request the heads of relevant central administrative agencies, local governments, and public institutions (as defined in Article 2, Paragraph 16 of the “**Basic Act on Intelligent Informatization**”; hereinafter the same shall apply) to submit necessary data, and the requested entities shall comply unless there are exceptional circumstances.
+
+5.
+
+The AI Basic Plan shall be deemed the sectoral implementation plan for AI and the AI industry pursuant to Article 13, Paragraph 1 of the “**Basic Act on Intelligent Informatization**”.
+
+6.
+
+The heads of relevant central administrative agencies and local governments shall take the AI Basic Plan into consideration when formulating and implementing major policies under their jurisdiction.
+
+7.
+
+Matters necessary for the formulation, amendment, and implementation of the AI Basic Plan shall be prescribed by Presidential Decree.
+
+#### Article 7 (National AI Committee)
+
+
+The Korean Basic Act Article 7 establishes the National Artificial Intelligence Committee under the President as a policy deliberation body that coordinates government ministries while incorporating private-sector expertise, whereas the EU AI Act Article 65 creates the European Artificial Intelligence Board (EAIB) as an implementation and coordination body composed of national supervisory authorities and the European Commission.
+
+1.
+
+A National AI Committee (hereinafter referred to as the “Committee”) shall be established under the President to deliberate and resolve matters concerning major policies for the development of AI and the establishment of a foundation for trustworthiness.
+
+2.
+
+The Committee shall be composed of up to 45 members, including one Chairperson and one Vice Chairperson. In this case, a majority of the members shall be experts appointed under Paragraph 4, Subparagraph 4, and the Committee shall not be composed entirely of one gender.
+
+3.
+
+The President shall serve as the Chairperson of the Committee, and the Vice Chairperson shall be designated by the President from among the members under Paragraph 4, Subparagraph 4.
+
+4.
+
+The members of the Committee shall be as follows:
+
+1.  The heads of central administrative agencies as prescribed by Presidential Decree
+2.  A Deputy Director of the Office of National Security in charge of AI affairs
+3.  A Senior Presidential Secretary assisting with AI affairs at the Office of the President
+4.  Persons with extensive professional knowledge and experience in AI, appointed by the President
+
+5.
+
+The Chairperson shall represent the Committee and have overall responsibility for its affairs.
+
+6.
+
+The Chairperson may, if necessary, delegate duties to the Vice Chairperson.
+
+7.
+
+The term of office of the members under Paragraph 4, Subparagraph 4 shall be two years, and they may be reappointed once.
+
+8.
+
+The Committee shall have one Secretary, who shall be the member under Paragraph 4, Subparagraph 3.
+
+9.
+
+No member of the Committee shall divulge any confidential information obtained in the course of performing their duties or use such information for purposes other than the performance of their duties: Provided, That this shall not apply where otherwise prescribed by law.
+
+10.
+
+The Chairperson shall convene and preside over the meetings of the Committee.
+
+11.
+
+The meetings of the Committee shall be opened with the attendance of a majority of the members, and resolutions shall be adopted with the approval of a majority of the members present.
+
+12.
+
+A Support Team shall be established under the Committee to assist its affairs and operations.
+
+13.
+
+The Committee shall continue to exist for five years from the effective date of this Act.
+
+14.
+
+Other matters necessary for the composition and operation of the Committee and the Support Team under Paragraph 12 shall be prescribed by Presidential Decree.
+
+#### Article 8 (Functions of the Committee)
+
+
+The Korean Basic Act Article 8 authorizes the National Artificial Intelligence Committee to deliberate and decide comprehensively on policy, research, investment, regulatory improvement, international cooperation, and high-impact AI governance, including issuing recommendations and requiring corrective action from public institutions, whereas the EU AI Act Article 66 defines the EAIB’s role in ensuring cross-member-state coordination, developing technical guidelines, and supporting the supervision of high-risk AI systems.
+
+1.
+
+The Committee shall deliberate and resolve the following matters:
+
+1.  Formulation, amendment, and implementation of the AI Basic Plan, and review and analysis thereof
+2.  Policies related to AI and related matters at the national level
+3.  Establishment of strategies for AI-related R&D
+4.  Establishment of investment strategies concerning AI
+5.  Identification of regulations that impede the development and competitiveness of the AI industry, and improvement thereof
+6.  Expansion of AI infrastructure, including AI data centers (as defined in Article 40, Paragraph 1 of the Basic Act on Intelligent Informatization; hereinafter the same shall apply)
+7.  Promotion of AI adoption in sectors such as manufacturing, services, and the public sector
+8.  International cooperation for the establishment of AI norms;
+9.  Recommendations or expressions of opinion under Paragraph 2
+10.  Regulation of high-impact AI
+11.  Social responses and policy measures relating to changes caused by high-impact AI
+12.  Other matters stipulated by this Act or other laws as subject to deliberation by the Committee
+13.  Other matters deemed necessary by the Chairperson to be referred to the Committee
+
+2.
+
+The Committee may issue recommendations or opinions to national institutions, AI business operators, or other parties on the proper use of AI, the implementation of AI ethics, and the safety and reliability of AI technology.
+
+3.
+
+When issuing recommendations under Paragraph 2 concerning legal or institutional improvements, or practical measures, to national institutions, the heads of those institutions shall take appropriate follow-up measures.
+
+#### Article 9 (Disqualification, Challenge, and Recusal of Members)
+
+1.
+
+A member of the Committee shall be disqualified from deliberation and resolution on a specific matter in order to ensure fairness in the performance of duties, in any of the following cases:
+
+1.  Where the member, or a corporation, organization, or other entity to which the member belongs, has a direct interest in the matter
+2.  Where the member’s family (meaning family under Article 779 of the “**Civil Act**”) is an interested party
+
+2.
+
+A party to the matter under deliberation (including executives or employees where the party is a corporation, organization, or other entity) may file a challenge against a member if circumstances exist making it difficult to expect fair performance of duties. If the Committee recognizes the challenge as valid, it shall decide on the challenge by resolution.
+
+3.
+
+Where a member falls under the grounds set forth in Paragraphs 1 or 2, the member shall voluntarily recuse themself from deliberation on the matter concerned.
+
+#### Article 10 (Subcommittees, etc.)
+
+The Korean Basic Act Article 10 broadly authorizes the establishment of subcommittees, special committees, and advisory panels under the National AI Committee, delegating their composition and operation to presidential decrees, whereas the EU AI Act Articles 67–69 specify the creation of specialized subgroups, working groups, and advisory bodies within the EAIB to support technical standardization, risk assessment, and data quality management.
+
+1.
+
+The Committee may establish subcommittees as necessary to carry out the Committee's work by specialized field.
+
+2.
+
+The Committee may, when necessary, establish subcommittees by area of expertise in order to carry out its functions.
+
+3.
+
+The Committee may establish an advisory group composed of experts and other persons concerned for the specialized review of matters related to AI and related matters.
+
+4.
+
+Other matters necessary for the composition and operation of subcommittees, special committees, and advisory groups shall be prescribed by Presidential Decree.
+
+#### Article 11 (AI Policy Center)
+
+The Korean Basic Act Article 11 designates the AI Policy Center under the Ministry of Science and ICT to conduct policy research, impact analysis, future forecasting, and international standards studies as an administrative and analytical support body, whereas the EU AI Act Article 70 establishes the European AI Office to oversee regulatory implementation, coordinate standardization, facilitate international cooperation, and support risk assessment at the EU level.
+
+1.
+
+The Minister of Science and ICT may designate an AI Policy Center (hereinafter referred to as the “Center”) to comprehensively carry out activities necessary for the development of AI-related policies and the establishment and dissemination of international norms.
+
+2.
+
+The Center shall perform the following functions:
+
+1.  Provision of technical support necessary for the formulation and implementation of the AI Basic Plan
+2.  Provision of technical support for the development and implementation of AI-related policies and related projects
+3.  Research and analysis on the impact of the spread of AI utilization on society, the economy, culture, and daily life of the people
+4.  Trend analysis, foresight studies on social and cultural changes, and legal and institutional research to support the development of AI and AI technology policies
+5.  Projects prescribed by other laws as the duties of the Center or entrusted to the Center
+6.  Other projects entrusted by the heads of national institutions
+
+3.
+
+Other matters necessary for the designation and operation of the Center shall be prescribed by Presidential Decree.
+
+#### Article 12 (AI Safety Institute)
+
+
+The Korean Basic Act Article 12 establishes the AI Safety Institute under the Ministry of Science and ICT to conduct research and policy support on risk definition, evaluation standards, standardization, and international cooperation, whereas the EU AI Act Article 64 outlines a cooperative framework between the AI Office’s Technical Expert Group on AI Safety and national Market Surveillance Authorities for the supervision, assessment, and risk monitoring of high-risk AI systems.
+
+1.
+
+The Minister of Science and ICT may establish and operate the AI Safety Institute (hereinafter referred to as “AISI”) to professionally and efficiently perform tasks to secure the state of protecting the people’s lives, physical well-being, and property from risks arising in relation to AI and maintaining a foundation for trustworthiness in AI society (hereinafter referred to as “AI safety”).
+
+2.
+
+AISI shall perform the following projects:
+
+1.  Definition and analysis of risks related to AI safety
+2.  Research on AI safety policies.
+3.  Development of criteria and methods for AI safety evaluation
+4.  Research on AI safety technologies and standardization
+5.  International exchange and cooperation related to AI safety
+6.  Support for ensuring the safety of AI systems pursuant to Article 32
+7.  Other projects concerning AI safety as prescribed by Presidential Decree
+
+3.
+
+The Government may subsidize or support the expenses necessary for the operation of AISI and the promotion of its projects within the budget.
+
+4.
+
+Other matters necessary for the operation of AISI shall be prescribed by Presidential Decree.
+
+Chapter 3: Development of AI Technology and Fostering of the AI Industry
+------------------------------------------------------------------------
+
+### Section 1: Establishment of the Foundation for the AI Industry
+
+#### Article 13 (Support for Development and Safe Use of AI Technology)
+
+The Korean Basic Act Article 13 stipulates government support for AI research, development, commercialization, and safe utilization while explicitly incorporating ethical and human rights considerations such as privacy protection, social impact assessment, and respect for human dignity, whereas the EU AI Act Articles 57–61, under its innovation-promotion provisions (Title IX), focus on regulatory sandboxes, SME and startup support, standardization, testing infrastructure, and the development of technical guidelines.
+
+1.
+
+To promote the development of AI technology, the Government may support the following projects:
+
+1.  Research on domestic and international trends, technical levels, and related systems concerning AI
+2.  Research and development, testing and evaluation, or utilization of developed AI technologies, including the application of cutting-edge technologies
+3.  Support for the dissemination, transfer, and commercialization of AI technology
+4.  Promotion of information exchange and industry-academia cooperation for the implementation of AI technology
+5.  Other projects related to AI technology development and research or investigation as prescribed by Presidential Decree
+
+2.
+
+To ensure the safe and convenient use of AI, the Government may support the following projects:
+
+1.  Research and development of AI technologies implementing the safety measures under Article 60, Paragraph 1 of the “**Basic Act on Intelligent Informatization**”
+2.  Research on, and dissemination of, emergency shutdown functionalities in AI products or services pursuant to Article 60, Paragraph 3 of the “**Basic Act on Intelligent Informatization**”
+3.  Research, development, and dissemination of design standards and technologies suitable for the protection of privacy, etc., in accordance with Article 61, Paragraph 2네 of the “**Basic Act on Intelligent Informatization**”
+4.  Research and development of technologies for conducting and applying social impact assessments of AI under Article 56, Paragraph 1 of the “**Basic Act on Intelligent Informatization**”
+5.  Research, development, and dissemination of technologies or standards to ensure that AI is developed and used in a manner that respects human dignity and fundamental rights
+6.  Education and public awareness projects to improve understanding of safe AI practices and to foster an environment of trustworthiness in AI development and use
+7.  Other necessary projects to protect the fundamental rights of the people and to ensure their physical and property safety in the development and use of AI
+
+3.
+
+The Government shall make the results of the projects under paragraph 2 publicly accessible to ensure that anyone can readily use them. However, in order to protect developers, the Government may set a protection period during which the collection of technology usage fees or other protective measures may be allowed.
+
+#### Article 14 (Standardization of AI Technology)
+
+The Korean Basic Act Article 14 establishes a government-led framework for AI standardization that encourages private-sector participation and international collaboration but maintains a non-binding, recommendation-based approach, whereas the EU AI Act Articles 40–41 provide the legal basis for binding technical standards and common specifications used to define conformity assessment and detailed risk management requirements.
+
+1.
+
+The Government may promote the following projects to standardize AI technology, 1, and the safety and trustworthiness of AI:
+
+1.  Establishment, revision, and abolition of standards related to AI technology, and their dissemination
+2.  Investigation, Research and Development on domestic and international standards related to AI technology
+3.  Other standardization projects related to AI technology
+
+2.
+
+The Government may publicly announce the standards established under Paragraph 1, Subparagraph 1 and recommend their adoption by AI business operators.
+
+3.
+
+The Government may provide support necessary for standardization projects related to AI technology that are led by the private sector.
+
+4.
+
+The Government shall maintain and strengthen cooperative frameworks with international standardization organizations and institutions concerning AI technology standards.
+
+5.
+
+Other matters necessary for the promotion and support of standardization projects under Paragraphs 1 and 3 shall be prescribed by Presidential Decree.
+
+#### Article 15 (Establishment of Policies for AI Learning Data, etc.)
+
+1.
+
+The Minister of Science and ICT, in consultation with the heads of relevant central administrative agencies, shall establish policies necessary to promote the production, collection, management, distribution, and utilization of data used for the development and utilization of AI (hereinafter referred to as “learning data”).
+
+2.
+
+The Government may, within the budget, select and support projects to efficiently promote policies concerning the production, collection, management, distribution, and utilization of learning data.
+
+3.
+
+The Government may implement projects to produce and provide diverse learning datasets in order to vitalize the production, collection, management, distribution, and utilization of learning data (hereinafter referred to as “learning data establishment projects”).
+
+4.
+
+The Minister of Science and ICT shall establish and operate a system to provide and manage learning data in an integrated manner (hereinafter referred to as the “Integrated Provision System”) in order to ensure the efficient execution of learning data establishment projects and to make such data freely available to the private sector.
+
+5.
+
+The Minister of Science and ICT may, as necessary, collect fees from users of the Integrated Provision System.
+
+6.
+
+Other matters necessary for the selection and support of projects under Paragraph 2, the implementation of learning data establishment projects, the establishment and management of the Integrated Provision System, and the collection of fees under Paragraph 5, shall be prescribed by Presidential Decree.
+
+### Section 2: Development of AI Technology and Promotion of the AI Industry
+
+#### Article 16 (Support for AI Technology Introduction and Utilization)
+
+1.
+
+National and local governments may, when necessary, provide the following support to promote the introduction and expansion of the utilization of AI technology by enterprises and public institutions:
+
+1.  Support for the development of AI technologies, products, or services, and the dissemination of R&D outcomes
+2.  Consulting support for enterprises and public institutions intending to adopt and utilize AI technology
+3.  Education for executives and employees of small and medium enterprises under Article 2, Paragraph 1 of the “**Basic Act on Small and Medium Enterprises**”, venture businesses under Article 2, Paragraph 1 of the “**Special Act on the Promotion of Venture Businesses**”, and micro-enterprises under Article 2, Paragraph 1 of the “**Basic Act on Micro Enterprises**” (hereinafter referred to as “SMEs, etc.”), regarding the introduction and utilization of AI technology
+4.  Financial support for funds used by SMEs, etc., to introduce and utilize AI technology
+5.  Other support measures necessary to promote the introduction and utilization of AI technology by enterprises and public institutions, as prescribed by Presidential Decree
+
+2.
+
+Matters necessary for the support under Paragraph 1 shall be prescribed by Presidential Decree.
+
+#### Article 17 (Special Support for SMEs, etc.)
+
+The Korean Basic Act Article 17 requires that support policies prioritize SMEs and mandates their inclusion in national AI plans, while also providing assistance for safety measures and impact assessments, whereas the EU AI Act Article 62 promotes SME and startup participation through regulatory sandboxes, reduced administrative burdens, and targeted technical and financial support.
+
+1.
+
+In implementing support policies related to AI technology and the AI industry under this Act, SMEs, etc., shall be given priority consideration.
+
+2.
+
+The Government shall endeavor to actively promote the participation of SMEs, etc., in the AI industry, and shall reflect such matters in the implementation of the AI Basic Plan.
+
+3.
+
+The Minister of Science and ICT may support SMEs, etc., in implementing measures under Article 34 to ensure AI safety and trustworthiness, and in conducting impact assessments under Article 35.
+
+#### Article 18 (Promotion of AI Startups)
+
+1.
+
+The Government may promote the following projects to vitalize startups in the AI industry sector:
+
+1.  Projects for the discovery, incubation, and support of AI startups, etc.
+2.  Education and training projects for the promotion of startups in the AI industry sector
+3.  Support for the commercialization of high-quality AI technologies developed by professionals under Article 21
+4.  Evaluation of AI technologies and financial support for startup capital
+5.  Provision and dissemination of outcomes of AI-related research and technology development
+6.  Fostering of institutions and organizations that support AI startups
+7.  Other projects necessary to vitalize startups in the AI industry sector
+
+2.
+
+Local governments may contribute funds to, or invest in, public institutions and organizations that support AI startups.
+
+#### Article 19 (Promotion of AI Convergence)
+
+1.
+
+The Government shall establish and implement policies necessary to promote convergence between the AI industry and other industries, and to vitalize the utilization of AI across all sectors.
+
+2.
+
+To support the development of AI convergence products and services, the Government may, when necessary, designate research and development projects concerning AI convergence products and services as priority national R&D projects under the “**National R&D Innovation Act**”.
+
+3.
+
+The government shall actively support the smooth implementation of temporary permits under Article 37 of the “**Special Act on Promotion of Information and Communications Networks and Vitalization of Convergence**” and regulatory exceptions for verification under Article 38-2 of the same Act for AI convergence products and services developed pursuant to Paragraph 2.
+
+#### Article 20 (Institutional Improvements, etc.)
+
+1.
+
+The Government shall endeavor to pursue institutional improvements, including the maintenance and revision of laws and regulations, to promote the development of the AI industry and to establish a foundation for trustworthiness.
+
+2.
+
+The Government may provide administrative and financial support necessary for research on relevant laws and institutions and for the collection of opinions from various sectors of society in order to facilitate institutional improvements under Paragraph 1.
+
+#### Article 21 (Securing Expert Human Resources, etc.)
+
+1.
+
+The Minister of Science and ICT shall cultivate and support expert human resources related to AI and AI technology, in accordance with the policies under Article 23, Paragraph 1 of the “**Basic Act on Intelligent Informatization**”, to promote the development of AI technology and the advancement of the AI industry.
+
+2.
+
+The Government may implement the following measures to secure overseas expert human resources related to AI and AI technology:
+
+1.  Research and analysis on overseas expert human resources in universities, research institutes, and enterprises related to AI and AI technology
+2.  Establishment of international networks for the recruitment of overseas expert human resources
+3.  Support for the domestic employment of overseas experts
+4.  Support for the international expansion of domestic AI research institutes and the attraction of overseas AI research institutes to Korea
+5.  Support for hosting international organizations and events related to AI and AI technology in Korea
+6.  Other necessary measures to secure overseas expert human resources
+
+#### Article 22 (Support for International Cooperation and Overseas Market Expansion)
+
+1.
+
+The Government shall identify international trends related to AI and promote international cooperation.
+
+2.
+
+To strengthen the competitiveness of the AI industry and to promote overseas market entry, the Government may provide the following support to individuals, enterprises, or organizations engaged in the AI industry:
+
+1.  International exchanges of information, technology, and talent related to the AI industry
+2.  Collection, analysis, and provision of information on overseas expansion of the AI industry
+3.  Joint international research and development and standardization of AI technologies, products, or services
+4.  Attraction of foreign investment in the AI industry;
+5.  Promotion, overseas marketing, and participation in international academic conferences and exhibitions related to AI and related matters
+6.  Establishment of sales, distribution, and cooperation networks necessary for the export of AI products or services
+7.  Identification of international trends and promotion of international cooperation concerning AI ethics
+8.  Other necessary matters to strengthen the competitiveness of the AI industry and to promote overseas market entry
+
+3.
+
+The Government may, as prescribed by Presidential Decree, delegate or entrust the support under Paragraph 2 to public institutions or other organizations, and may subsidize the expenses necessary for such delegation.
+
+#### Article 23 (Designation of AI Clusters, etc.)
+
+1.
+
+To promote the AI industry and to strengthen competitiveness in AI development and utilization, national and local governments may promote the functional, physical, and regional clustering of enterprises, institutions, or organizations engaged in the research and development of AI and AI technology.
+
+2.
+
+For the purpose of clustering under Paragraph 1, national and local governments may, when necessary, designate AI Clusters (hereinafter referred to as “AI Clusters”) as prescribed by Presidential Decree, and may provide administrative, financial, and technical support.
+
+3.
+
+National and local governments may revoke the designation of an AI Cluster in any of the following cases; provided, that in the case of subparagraph 1, such designation shall be revoked:
+
+1.  Where designation was obtained by fraud or other improper means
+2.  Where the head of the national or local government that designated the AI Cluster recognizes that it is difficult to achieve the purposes of such designation
+
+4.
+
+The Government may establish or designate a dedicated institution to comprehensively support tasks necessary for effectively implementing clustering at the regional level pursuant to Paragraph 1.
+
+5.
+
+The Government may contribute or subsidize all or part of the expenses necessary for the operation and activities of the dedicated institution under Paragraph 4.
+
+6.
+
+Other matters necessary for the designation or revocation of AI Clusters and for the establishment or designation of the dedicated institution under Paragraph 4 shall be prescribed by Presidential Decree.
+
+#### Article 24 (Establishment of AI Demonstration Infrastructure, etc.)
+
+1.
+
+National and local governments may establish and operate facilities, equipment, and installations necessary for testing and evaluation (hereinafter referred to as “demonstration infrastructure, etc.”) in order to support the demonstration, performance testing, and verification and certification under Article 30 (hereinafter referred to as “demonstration tests, etc.”) of AI technologies developed or acquired by AI business operators.
+
+2.
+
+National and local governments may, as prescribed by Presidential Decree, make demonstration infrastructure, etc., held by designated institutions available to AI business operators, in order to promote demonstration tests, etc.
+
+3.
+
+Other matters necessary for the establishment, operation, and opening of demonstration infrastructure, etc., shall be prescribed by Presidential Decree.
+
+#### Article 25 (Promotion of Policies for AI Data Centers, etc.)
+
+1.
+
+The Government shall promote policies necessary to facilitate the establishment and operation of data centers used for AI development and utilization (hereinafter referred to as “AI Data Centers”).
+
+2.
+
+To implement the policies under Paragraph 1, the Government may perform the following tasks:
+
+1.  Administrative and financial support necessary for the establishment and operation of AI Data Centers
+2.  Support for the use of AI Data Centers by SMEs, research institutes, etc.
+3.  Support for balanced regional development of AI Data Centers and other AI-related infrastructure facilities
+
+#### Article 26 (Establishment of the Korea AI Promotion Association)
+
+1.
+
+Persons engaged in research or work related to AI and related matters may, in accordance with Presidential Decree and with the approval of the Minister of Science and ICT, establish the Korea AI Promotion Association (hereinafter referred to as “the Association”) or be designated as such, for the purposes of promoting the development and utilization of AI, fostering the AI industry and AI technology, and providing education and publicity regarding AI and related matters.
+
+2.
+
+The Association shall be a legal entity.
+
+3.
+
+The Association shall perform the following tasks:
+
+1.  Promotion and dissemination of the utilization of AI technologies, AI products, or AI services
+2.  Surveys and statistics on AI and related matters
+3.  Establishment and operation of shared facilities for AI business operators, and education for the cultivation of professional talent
+4.  Support for the overseas expansion of AI business operators and AI-related professional talent
+5.  Education and publicity for the safe and trustworthy development and utilization of AI
+6.  Projects entrusted to the Association under this Act or other laws
+7.  Other projects prescribed by the Articles of Incorporation as necessary to achieve the purposes of the Association
+
+4.
+
+National and local governments may, within budgetary limits, provide funds necessary for the Association’s activities or subsidize its operating expenses, when deemed necessary for the development of the AI industry and the establishment of a foundation for trustworthiness.
+
+5.
+
+The qualifications of members, matters concerning executives, and the operations of the Association shall be prescribed by its Articles of Incorporation, and other matters required to be included in the Articles of Incorporation shall be prescribed by Presidential Decree.
+
+6.
+
+When granting approval under Paragraph 1, the Minister of Science and ICT shall make such approval publicly known.
+
+7.
+
+Except as otherwise provided in this Act, the provisions of the Civil Act concerning incorporated associations shall apply mutatis mutandis to the Association.
+
+Chapter 4: Ensuring AI Ethics and Trustworthiness
+-------------------------------------------------
+
+#### Article 27 (AI Ethical Principles, etc.)
+
+1.
+
+The Government may, as prescribed by Presidential Decree, establish and publish AI Ethical Principles (hereinafter referred to as “ethical principles”) to promote the dissemination of AI ethics, which shall include the following matters:
+
+1.  Matters concerning safety and trustworthiness of AI to ensure that the development and utilization of AI does not cause harm to human life, physical well-being, or mental health
+2.  Matters concerning accessibility to ensure that all people may freely and conveniently use products and services powered by AI technology
+3.  Matters concerning the development and utilization of AI that contribute to human well-being and prosperity
+
+2.
+
+The Minister of Science and ICT shall collect opinions from diverse sectors of society and establish practical implementation measures so that the ethical principles may be realized by all persons involved in the development and utilization of AI, and shall make such measures public, and promote and integrate them into education.
+
+3.
+
+Where the head of a central administrative agency or a local government enacts or amends AI ethical standards (referring to laws, standards, guidelines, or other rules relating to AI ethics, regardless of their name or form), the Minister of Science and ICT may provide recommendations or express opinions concerning their linkage and consistency with the ethical principles and the implementation measures under Paragraph 2.
+
+#### Article 28 (Establishment of Private Autonomous AI Ethics Committees, etc.)
+
+1.
+
+The following institutions or organizations may, to ensure compliance with the ethical principles, establish Private Autonomous AI Ethics Committees (hereinafter referred to as “private autonomous committees”):
+
+1.  Educational and research institutions to which persons engaged in AI technology research and development belong
+2.  AI business operators
+3.  Other institutions related to AI technology as prescribed by Presidential Decree
+
+2.
+
+Private autonomous committees shall independently carry out the following functions:
+
+1.  Ensure ethical compliance in AI R&D and application;
+2.  Investigate and research methods to secure safety in AI R&D and prevent human rights violations;
+3.  Review and monitor the processes and outcomes of AI technology development and utilization;
+4.  Provide ethics education for researchers and personnel affiliated with the institution;
+5.  Develop sector-specific AI ethics guidelines tailored to the institution’s field of work;
+6.  Perform other tasks necessary for the realization of ethical principles.
+
+3.
+
+Matters necessary for the composition and operation of a private autonomous committee shall be determined autonomously by the relevant institution or organization. Provided, that its composition shall not consist solely of one gender, and it shall include, respectively, persons with experience and knowledge capable of assessing ethical and social validity, and persons who are not affiliated with the institution or organization.
+
+4.
+
+The Minister of Science and ICT may prepare and disseminate standard guidelines to ensure the fair and neutral composition and operation of private autonomous committees.
+
+#### Article 29 (Formulation of Policies for Establishing a Foundation for Trustworthiness for AI)
+
+The Government shall formulate and implement the following policies to minimize potential risks of AI to the lives of the people and to establish a foundation for trustworthiness for the safe utilization of AI:
+
+1.
+
+Creation of a safe and trustworthy environment for AI utilization
+
+2.
+
+Forecasting and assessment of the impacts of AI utilization on the daily lives of the people, and maintenance and revision of related laws and institutions.
+
+3.
+
+Support for the development and dissemination of AI safety technologies and certification technologies to ensure AI safety and trustworthiness.
+
+4.
+
+Education and publicity to realize a safe and trustworthy AI society and to promote the practice of AI ethics.
+
+5.
+
+Support for AI business operators in establishing and implementing autonomous regulations concerning safety and trustworthiness.
+
+6.
+
+Support for and dissemination of private-sector activities—such as autonomous cooperation and the establishment of ethical guidelines—by AI-related organizations composed of AI business operators, users, etc. (hereinafter referred to as “organizations, etc.”).
+
+7.
+
+Other matters prescribed by Presidential Decree to ensure AI safety and trustworthiness.
+
+#### Article 30 (Support for Verification and Certification, etc. of AI Safety and Trustworthiness)
+
+1.
+
+The Minister of Science and ICT may promote the following projects to support verification and certification, etc. (hereinafter referred to as “verification and certification, etc.”) voluntarily undertaken by organizations, etc. to ensure AI safety and trustworthiness:
+
+1.  Dissemination of guidelines for AI development
+2.  Support for research related to verification and certification, etc.
+3.  Support for the establishment and operation of equipment and systems used for verification and certification, etc.
+4.  Training and support for professionals required for verification and certification, etc.
+5.  Other matters prescribed by Presidential Decree to support verification and certification, etc.
+
+2.
+
+The Minister of Science and ICT may, as prescribed by Presidential Decree, provide relevant information as well as administrative and financial support to SMEs seeking verification and certification, etc.
+
+3.
+
+AI business operators shall endeavor to obtain verification and certification, etc. in advance when providing high-impact AI.
+
+4.
+
+When national institutions procure or deploy high-impact AI, they shall give priority to AI-based products or services that have received verification and certification, etc.
+
+#### Article 31 (Obligation to Ensure AI Transparency)
+
+The Korean Basic Act Article 31 mirrors the EU’s transparency requirements by mandating disclosure when products or services use “high-impact” or “generative” AI, while adding explicit exceptions for artistic expression, whereas the EU AI Act Article 50 requires users to be clearly informed when interacting with AI systems and mandates labeling for deepfakes and artificially generated content.
+
+1.
+
+AI business operators who intend to provide products or services utilizing high-impact AI or generative AI (hereinafter referred to as “GenAI”) shall notify users in advance that such products or services are operated based on the relevant AI.
+
+2.
+
+Where providing GenAI or products or services utilizing GenAI, AI business operators shall clearly indicate to users that the outputs are generated by GenAI.
+
+3.
+
+Where AI systems generate virtual audio, images, or video that are difficult to distinguish from real content, AI business operators shall notify or indicate to users, in a manner that allows clear recognition, that such content has been generated by an AI system. Provided, that where such outputs constitute, or form part of, artistic or creative works, such notification or indication may be made in a manner that does not interfere with their exhibition or enjoyment.
+
+4.
+
+Matters necessary for methods of prior notification under Paragraph 1, indication under Paragraph 2, and notification or indication under Paragraph 3, and for exceptions thereto, shall be prescribed by Presidential Decree.
+
+#### Article 32 (Obligation to Ensure AI Safety)
+
+
+The Korean Basic Act Article 32 requires AI developers operating models above a specified computational threshold to conduct risk management and submit compliance reports, whereas the EU AI Act Articles 51–55 and 73 collectively impose obligations on GPAI providers for risk assessment, technical documentation, and the reporting of serious incidents.
+
+1.
+
+AI business operators shall, with respect to AI systems whose cumulative computing capacity used for training meets or exceeds the threshold prescribed by Presidential Decree, implement the following safety measures:
+
+1.  Identification, assessment, and mitigation of risks throughout the entire lifecycle of the AI system
+2.  Establishment and maintenance of a risk management framework capable of monitoring and responding to AI safety incidents
+
+2.
+
+AI business operators shall submit to the Minister of Science and ICT the results of implementing the safety measures under the subparagraphs of Paragraph 1.
+
+3.
+
+The Minister of Science and ICT shall establish and publicly announce detailed guidelines concerning the implementation of the safety measures under the subparagraphs of Paragraph 1, and the submission of the results under Paragraph 2.
+
+#### Article 33 (Confirmation of High-Impact AI)
+
+
+The Korean Basic Act Article 33 introduces a self-assessment and government confirmation mechanism for determining whether an AI system qualifies as “high-impact,” a policy-driven concept referring to domains that significantly affect life, safety, or fundamental rights, whereas the EU AI Act Articles 6–7 define “high-risk” AI as a legally designated risk category based on potential societal harm and regulatory relevance, outlining classification criteria and designation procedures linked to Annex III.
+
+1.
+
+AI business operators shall, in advance, review whether an AI system, or products or services utilizing such system, that they intend to provide qualifies as high-impact AI. Where necessary, they may request confirmation from the Minister of Science and ICT as to whether it constitutes high-impact AI.
+
+2.
+
+Upon receiving such a request under Paragraph 1, the Minister of Science and ICT shall confirm whether the AI qualifies as high-impact AI, and may, if necessary, establish an expert committee to seek advice.
+
+3.
+
+The Minister of Science and ICT may establish and disseminate guidelines concerning the criteria and illustrative examples of high-impact AI.
+
+4.
+
+Other necessary matters concerning the confirmation procedures under Paragraph 1 shall be prescribed by Presidential Decree.
+
+#### Article 34 (Obligations of High-Impact AI Business Operators)
+
+
+The Korean Basic Act Article 34 streamlines the governance of high-impact AI by consolidating requirements for risk management, explanation, user protection, human oversight, and documentation into a unified framework implemented through administrative guidelines, whereas the EU AI Act Articles 8–21, 23–26, and 72 impose detailed, binding obligations on high-risk AI concerning risk management, data governance, technical documentation, human oversight, transparency, quality control, and post-market monitoring.
+
+1.
+
+AI business operators that provide high-impact AI systems, or products or services utilizing such systems, shall, as prescribed by Presidential Decree, implement measures including the following to ensure the safety and trustworthiness of such systems:
+
+1.  Establishment and operation of a risk management plan
+2.  Formulation and implementation of measures to provide explanations, to the extent technically feasible, regarding the final outputs generated by AI, the principal criteria used in deriving such outputs, and an overview of the learning data used in the development and utilization of AI.
+3.  Establishment and operation of measures for user protection
+4.  Human oversight of the operation of high-impact AI
+5.  Preparation and retention of documentation demonstrating the measures taken to ensure safety and trustworthiness
+6.  Other measures, as deliberated and resolved by the Committee, for ensuring safety and trustworthiness of high-impact AI
+
+2.
+
+The Minister of Science and ICT may establish and publicly announce detailed guidelines concerning the measures under the subparagraphs of Paragraph 1, and may recommend compliance by AI business operators.
+
+3.
+
+Where an AI business operator has, in accordance with other laws or regulations as prescribed by Presidential Decree, implemented measures equivalent to those under the subparagraphs of Paragraph 1, such operator shall be deemed to have fulfilled the obligations under Paragraph 1.
+
+#### Article 35 (Impact Assessment of High-Impact AI)
+
+The Korean Basic Act Article 35 softens the requirement into a best-effort obligation, encouraging providers to conduct impact assessments and mandating public institutions to prioritize products or services that have undergone such evaluations, whereas the EU AI Act Article 27 mandates a Fundamental Rights Impact Assessment before deploying high-risk AI and requires public-sector users to submit the results.
+
+1.
+
+AI business operators that provide products or services utilizing high-impact AI shall endeavor, in advance, to conduct an assessment of the potential impact on fundamental human rights (hereinafter referred to as “impact assessment”).
+
+2.
+
+When national institutions adopt products or services utilizing high-impact AI, they shall give priority consideration to those that have undergone an impact assessment.
+
+3.
+
+Specific matters concerning the content and methods of the impact assessment shall be prescribed by Presidential Decree.
+
+#### Article 36 (Designation of Domestic Representative)
+
+
+The Korean Basic Act Article 36 similarly requires foreign AI providers without a domestic presence to appoint a local representative responsible for compliance reporting, high-impact verification, and safety-related support, assigning full liability to the provider for any violations, whereas the EU AI Act Articles 22 and 54 mandate non-EU providers to designate an authorized representative within the EU to handle regulatory compliance, documentation, and communication with supervisory authorities.
+
+1.
+
+AI business operators without a domestic address or place of business in the Republic of Korea, whose number of users, revenue, etc. meet the criteria prescribed by Presidential Decree, shall designate in writing a person to act as their domestic representative (hereinafter referred to as the “domestic representative”) for the following matters, and shall report such designation to the Minister of Science and ICT.
+
+1.  Submission of the results of implementation under Article 32, Paragraph 2.
+2.  Request for confirmation as to whether an AI system qualifies as high-impact AI under Article 33, Paragraph 1.
+3.  Support necessary for the implementation of safety and reliability measures under each Subparagraph of Article 34, Paragraph 1 (including verification of the currency and accuracy of the documents under Subparagraph 5 of the same Paragraph)
+
+2.
+
+The Domestic Representative shall have an address or place of business within the Republic of Korea.
+
+3.
+
+Where a Domestic Representative violates this Act in relation to the subparagraphs of Paragraph 1, the AI business operator that designated such representative shall be deemed to have committed the violation.
+
+Chapter 5: Supplementary Provisions
+-----------------------------------
+
+#### Article 37 (Expansion of Financial Resources for the Promotion of the AI Industry, etc.)
+
+1.
+
+The State shall formulate and implement measures to secure stable and continuous financial resources necessary for effectively promoting the AI Basic Plan and other policies under this Act.
+
+2.
+
+The Minister of Science and ICT may, when deemed necessary, recommend that public institutions provide support for projects related to the promotion of the AI industry.
+
+3.
+
+The national and local governments shall take necessary measures to encourage investment by the private sector, including corporations, in projects related to the promotion of the AI industry.
+
+4.
+
+The national and local governments shall endeavor to efficiently utilize investment resources, taking into account the development stages of the AI industry.
+
+#### Article 38 (Preparation of Fact-Finding Surveys, Statistics, and Indicators)
+
+1.
+
+The Minister of Science and ICT, in consultation with the Commissioner of Statistics Korea, shall prepare, manage, and publish fact-finding surveys, statistics, and indicators on domestic and international trends concerning AI and related matters, in connection with national statistics under Article 26-2 of the “**Basic Act on Science and Technology**”, for the planning, formulation, and implementation of the AI Basic Plan and policies under this Act.
+
+2.
+
+For the preparation of such statistics and indicators, the Minister may request cooperation, including the submission of data, from the heads of relevant central administrative agencies, local governments, and public institutions. The requested entities shall comply, absent exceptional circumstances.
+
+3.
+
+Other matters necessary for the preparation, management, and publication of fact-finding surveys, statistics, and indicators under Paragraph (1) shall be prescribed by Presidential Decree.
+
+#### Article 39 (Delegation and Entrustment of Authority and Duties)
+
+
+The Korean Basic Act Article 39 specifies a tiered delegation system in which administrative authority is transferred from the central government to local governments and relevant institutions or organizations, whereas the EU AI Act Article 97 allows Member States to assign supervisory, inspection, and enforcement powers to designated or other public authorities for implementing the regulation.
+
+1.
+
+The Minister of Science and ICT or the head of a relevant central administrative agency may delegate part of their authority under this Act, as prescribed by Presidential Decree, to the head of an affiliated agency or to the Mayor of a Special Metropolitan City, the Mayor of a Metropolitan City, the Mayor of a Special Self-Governing City, the Governor of a Province, or the Governor of a Special Self-Governing Province (hereinafter in this Article referred to as “Mayor/Provincial Governor”). In such cases, the Mayor/Provincial Governor may re-delegate part of the delegated authority to a City Mayor (including an Administrative City Mayor under Article 11, Paragraph 2 of the “**Special Act on the Establishment of Jeju Special Self-Governing Province and the Development of Free International City**”), a County Head, or a District Head (referring to the head of an autonomous District).
+
+2.
+
+The Government may entrust the following tasks to relevant institutions or organizations, as prescribed by Presidential Decree:
+
+1.  Support for projects related to the development and utilization of AI technology under Article 13
+2.  Selection and support of projects eligible under Article 15, Paragraph 2 and Paragraph 3 concerning the production, collection, management, distribution, and utilization of AI learning data, and the implementation of AI learning data construction projects
+3.  Establishment, operation, and management of the Integrated Provision System
+4.  Matters recognized as necessary by the Minister of Science and ICT for the facilitation of startups under Article 18
+5.  Support related to verification and certification under Article 30, Paragraph 2
+6.  Preparation of fact-finding surveys, statistics, and indicators under Article 38
+7.  Other tasks prescribed by Presidential Decree for the development of the AI industry and the dissemination of AI ethics
+
+#### Article 40 (Fact-Finding Investigations, etc.)
+
+
+The Korean Basic Act Article 40 authorizes the Minister of Science and ICT to request information, conduct on-site inspections, and issue corrective orders, following the procedures set out in the Administrative Investigation Framework Act, whereas the EU AI Act Articles 74–75, 79–83, and 88–93 provide detailed provisions on national supervisory authorities’ powers of investigation, inspection, information requests, on-site access, corrective actions, and sanction procedures.
+
+1.
+
+The Minister of Science and ICT may require AI business operators to submit relevant data or may direct public officials under his or her jurisdiction to conduct necessary investigations in any of the following cases:
+
+1.  Where a violation of Article 31, Paragraph 2 or Paragraph 3, Article 32, Paragraph 1 or Paragraph 2, or Article 34, Paragraph 1 is discovered or suspected;
+2.  Where a report or complaint is received concerning a violation of Article 31, Paragraph 2 or Paragraph 3, Article 32, Paragraph 1 or Paragraph 2, or Article 34, Paragraph 1.
+
+2.
+
+The Minister of Science and ICT may, if necessary for an investigation under Paragraph 1, direct public officials under his or her jurisdiction to enter the offices or business sites of AI business operators and to inspect books, documents, and other materials or items. In such cases, except as otherwise provided in this Act, the content, methods, and procedures of the investigation shall be governed by the “**Administrative Investigation Basic Act**”.
+
+3.
+
+Where the Minister of Science and ICT finds, as a result of an investigation under Paragraphs (1) and (2), that an AI business operator has violated this Act, the Minister may order the operator to take necessary measures to suspend or correct the violation.
+
+#### Article 41 (Deeming of Public Officials in Application of Penal Provisions)
+
+1.
+
+Committee members who are not public officials shall be deemed public officials when applying Articles 129 through 132 of the “**Criminal Act**”.
+
+2.
+
+Executives and employees of institutions or organizations entrusted with duties pursuant to Article 39, Paragraph 2 shall be deemed public officials when applying Article 127 and Articles 129 through 132 of the “**Criminal Act**”.
+
+Chapter 6: Penal Provisions
+---------------------------
+
+#### Article 42 (Criminal Penalties)
+
+Any person who violates Article 7, Paragraph 9 and leaks to others or uses for purposes other than official purposes any secret learned in the course of his or her duties shall be punished by imprisonment for not more than three years or a fine not exceeding 30 million won.
+
+#### Article 43 (Administrative Fines)
+
+
+The Korean Basic Act Article 43 sets a relatively low ceiling of administrative fines—up to 30 million KRW—imposed and collected directly by the Minister of Science and ICT, whereas the EU AI Act Articles 99–101 establish a far stricter penalty regime, allowing fines of up to 35 million euros or 7% of global annual turnover, enforced by national supervisory authorities.
+
+1.
+
+An administrative fine not exceeding 30 million Korean won shall be imposed on any person who falls under any of the following subparagraphs:
+
+1.  A person who fails to provide prior notification in violation of Article 31, Paragraph 1
+2.  A person who fails to designate a domestic representative in violation of Article 36, Paragraph 1
+3.  A person who fails to comply with a suspension order or corrective order pursuant to Article 40, Paragraph 3
+
+2.
+
+Administrative fines under Paragraph 1 shall be imposed and collected by the Minister of Science and ICT, as prescribed by Presidential Decree.
+
+Addenda (as enacted under Law No. 20676, January 21, 2025)
+----------------------------------------------------------
+
+#### Article 1 (Effective Date)
+
+This Act shall enter into force one year after the date of its promulgation. However, the provision of Article 2(4)(d) concerning digital medical devices shall enter into force on January 24, 2026.
+
+#### Article 2 (Preparatory Measures for Enforcement)
+
+To ensure the smooth enforcement of this Act, the appointment of committee members and the formation of subcommittees, special committees, advisory groups, and support teams may take place prior to the enforcement date.
+
+#### Article 3 (Special Provisions for Existing Dedicated Institutions)
+
+If, at the time of enforcement of this Act, any institution is receiving government budgetary support for the purpose of regional cluster development under Article 23(1), and meets the organizational and personnel requirements prescribed by Presidential Decree, it shall be deemed designated as a dedicated institution under Article 23(4).

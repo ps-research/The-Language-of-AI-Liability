@@ -1,0 +1,182 @@
+{
+  "eu_ai_act": {
+    "depth": {
+      "mean": 9.37887323943662,
+      "median": 8.0,
+      "std": 5.39523565235988,
+      "n": 710
+    },
+    "conditional": {
+      "total": 418,
+      "n_obligation": 710,
+      "density": 0.5887323943661972
+    },
+    "crossref": {
+      "total": 871,
+      "total_sentences": 833,
+      "density": 1.0456182472989195
+    }
+  },
+  "china_genai": {
+    "depth": {
+      "mean": 9.8125,
+      "median": 8.5,
+      "std": 4.216318743880732,
+      "n": 16
+    },
+    "conditional": {
+      "total": 7,
+      "n_obligation": 16,
+      "density": 0.4375
+    },
+    "crossref": {
+      "total": 24,
+      "total_sentences": 38,
+      "density": 0.631578947368421
+    }
+  },
+  "south_korea": {
+    "depth": {
+      "mean": 9.882352941176471,
+      "median": 9.0,
+      "std": 4.003170600389732,
+      "n": 102
+    },
+    "conditional": {
+      "total": 38,
+      "n_obligation": 102,
+      "density": 0.37254901960784315
+    },
+    "crossref": {
+      "total": 180,
+      "total_sentences": 146,
+      "density": 1.2328767123287672
+    }
+  },
+  "ca_sb1047": {
+    "depth": {
+      "mean": 10.625,
+      "median": 10.0,
+      "std": 4.611950702871214,
+      "n": 56
+    },
+    "conditional": {
+      "total": 33,
+      "n_obligation": 56,
+      "density": 0.5892857142857143
+    },
+    "crossref": {
+      "total": 78,
+      "total_sentences": 121,
+      "density": 0.6446280991735537
+    }
+  },
+  "ca_sb53": {
+    "depth": {
+      "mean": 9.796296296296296,
+      "median": 8.5,
+      "std": 4.477845173036913,
+      "n": 54
+    },
+    "conditional": {
+      "total": 23,
+      "n_obligation": 54,
+      "density": 0.42592592592592593
+    },
+    "crossref": {
+      "total": 57,
+      "total_sentences": 86,
+      "density": 0.6627906976744186
+    }
+  },
+  "ca_sb942": {
+    "depth": {
+      "mean": 10.307692307692308,
+      "median": 9.0,
+      "std": 3.9688133352352097,
+      "n": 13
+    },
+    "conditional": {
+      "total": 6,
+      "n_obligation": 13,
+      "density": 0.46153846153846156
+    },
+    "crossref": {
+      "total": 13,
+      "total_sentences": 30,
+      "density": 0.43333333333333335
+    }
+  },
+  "ca_ab2013": {
+    "depth": {
+      "mean": 10.0,
+      "median": 10.0,
+      "std": 0.816496580927726,
+      "n": 3
+    },
+    "conditional": {
+      "total": 0,
+      "n_obligation": 3,
+      "density": 0.0
+    },
+    "crossref": {
+      "total": 13,
+      "total_sentences": 18,
+      "density": 0.7222222222222222
+    }
+  },
+  "co_sb205": {
+    "depth": {
+      "mean": 11.8,
+      "median": 12.0,
+      "std": 4.874423042781577,
+      "n": 25
+    },
+    "conditional": {
+      "total": 46,
+      "n_obligation": 25,
+      "density": 1.84
+    },
+    "crossref": {
+      "total": 37,
+      "total_sentences": 66,
+      "density": 0.5606060606060606
+    }
+  },
+  "tx_traiga": {
+    "depth": {
+      "mean": 10.930232558139535,
+      "median": 8.0,
+      "std": 10.166967371213111,
+      "n": 43
+    },
+    "conditional": {
+      "total": 28,
+      "n_obligation": 43,
+      "density": 0.6511627906976745
+    },
+    "crossref": {
+      "total": 64,
+      "total_sentences": 75,
+      "density": 0.8533333333333334
+    }
+  },
+  "il_hb3773": {
+    "depth": {
+      "mean": 8.1875,
+      "median": 7.5,
+      "std": 3.106822130409142,
+      "n": 16
+    },
+    "conditional": {
+      "total": 9,
+      "n_obligation": 16,
+      "density": 0.5625
+    },
+    "crossref": {
+      "total": 15,
+      "total_sentences": 93,
+      "density": 0.16129032258064516
+    }
+  }
+}

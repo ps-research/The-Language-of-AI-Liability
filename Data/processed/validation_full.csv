@@ -1,0 +1,577 @@
+sample_id,law_id,law_name,sent_id,text,pipeline_has_deontic,pipeline_is_obligation,pipeline_is_definitional,pipeline_categories,human_has_deontic,human_category,human_notes
+1,south_korea,South Korea AI Basic Act,185,"3.
+
+The national and local governments shall take necessary measures to encourage investment by the private sector, including corporations, in projects related to the promotion of the AI industry.",True,True,False,HARD_OBLIGATION,,,
+2,china_genai,China GenAI Measures,28,"Where providers discover that users are using generative AI services to engage in illegal activities, they shall employ measures in accordance with laws and agreements to address it, including warnings, limiting functions, and suspending or concluding the provision of services, and store the relevant records and report to the relevant departments in charge.",True,True,False,HARD_OBLIGATION,,,
+3,china_genai,China GenAI Measures,20,"Providers shall sign service agreements with users who register for their generative AI services (hereinafter “users”), clarifying the rights and obligations of both parties.
+
+**Article 10:** Providers shall clarify and disclose the user groups, occasions, and uses of their services, guide users’ scientific understanding and lawful use of generative AI technology, and employ effective measures to prevent minor users from overreliance or addiction to generative AI services.",True,True,False,HARD_OBLIGATION,,,
+4,ca_sb942,CA SB 942,35,(C) The time and date of the content’s creation or alteration.,False,False,False,,,,
+5,china_genai,China GenAI Measures,16,"The providers of generative AI services (hereinafter “providers”) shall carry out pre-training, optimization training, and other activities handling training data in accordance with law, and comply with the following provisions:
+
+(1) Use data and foundational models that have lawful sources;
+
+(2) Where intellectual property rights are involved, the intellectual property rights that are lawfully enjoyed by others must not be infringed;
+
+(3) Where personal information is involved, the consent of t",True,True,False,"HARD_OBLIGATION, PROHIBITION",,,
+6,tx_traiga,TX TRAIGA,47,"(a)  If the
+
+ 
+
+attorney general receives a complaint through the online mechanism
+
+ 
+
+under Section 552.102 alleging a violation of this chapter, the
+
+ 
+
+attorney general may issue a civil investigative demand to
+
+ 
+
+determine if a violation has occurred.",True,True,False,PERMISSION,,,
+7,ca_sb53,CA SB 53,115,Any temporary injunctive relief shall not prohibit a frontier developer from disciplining or terminating a covered employee for conduct that is unrelated to the claim of the retaliation.,True,True,False,PROHIBITION,,,
+8,eu_ai_act,EU AI Act,757,"It shall make available to providers, prospective providers and deployers adequate technical and administrative support.",True,True,False,HARD_OBLIGATION,,,
+9,tx_traiga,TX TRAIGA,64,"The form must require the applicant to:
+
+ 
+
+             (1)  provide a detailed description of the artificial
+
+ 
+
+intelligence system the applicant desires to test in the program,
+
+ 
+
+and its intended use;
+
+ 
+
+             (2)  include a benefit assessment that addresses
+
+ 
+
+potential impacts on consumers, privacy, and public safety;
+
+ 
+
+             (3)  describe the applicant's plan for mitigating any
+
+ 
+
+adverse consequences that may occur during the test; and
+
+ 
+
+             (4)  provide p",True,True,False,"HARD_OBLIGATION, PERMISSION",,,
+10,tx_traiga,TX TRAIGA,13,"(2)  ""Developer"" means a person who develops an
+
+ 
+
+artificial intelligence system that is offered, sold, leased,
+
+ 
+
+given, or otherwise provided in this state.",False,False,True,,,,
+11,ca_sb1047,CA SB 1047,15,"The bill would also require a developer of a covered model to report each artificial intelligence safety incident affecting the covered model or any covered model derivative controlled by the developer to the Attorney General, as prescribed.",False,False,False,,,,
+12,co_sb205,CO SB 205,36,"IN ANY
+ENFORCEMENT ACTION BROUGHT ON OR AFTER FEBRUARY 1, 2026, BY THE
+ATTORNEY GENERAL PURSUANT TO SECTION 6-1-1706, THERE IS A
+REBUTTABLE PRESUMPTION THAT A DEPLOYER OF A HIGH-RISK ARTIFICIAL
+INTELLIGENCE SYSTEM USED REASONABLE CARE AS REQUIRED UNDER THIS
+SECTION IF THE DEPLOYER COMPLIED WITH THIS SECTION AND ANY
+ADDITIONAL REQUIREMENTS OR OBLIGATIONS AS SET FORTH IN RULES
+PROMULGATED BY THE ATTORNEY GENERAL PURSUANT TO SECTION 6-1-1707.
+(2) (a) ON AND AFTER FEBRUARY 1, 2026, AND EXCEPT AS PRO",True,True,False,HARD_OBLIGATION,,,
+13,il_hb3773,IL HB 3773,9,", ""employee"" also includes an unpaid intern.",False,False,False,,,,
+14,south_korea,South Korea AI Basic Act,146,"6.
+
+When granting approval under Paragraph 1, the Minister of Science and ICT shall make such approval publicly known.",True,True,False,HARD_OBLIGATION,,,
+15,south_korea,South Korea AI Basic Act,181,"Chapter 5: Supplementary Provisions
+-----------------------------------
+
+#### Article 37 (Expansion of Financial Resources for the Promotion of the AI Industry, etc.)",False,False,False,,,,
+16,eu_ai_act,EU AI Act,856,"Where risks to fundamental rights are identified, the market surveillance authority shall also inform and fully cooperate with the relevant national public authorities or bodies referred to in Article 77(1).",True,True,False,HARD_OBLIGATION,,,
+17,ca_ab2013,CA AB 2013,18,"(5) Whether the datasets include any data protected by copyright, trademark, or patent, or whether the datasets are entirely in the public domain.",False,False,False,,,,
+18,ca_sb53,CA SB 53,111,(4) Appropriate injunctive relief shall be issued on a showing that reasonable cause exists to believe a violation has occurred.,True,True,False,HARD_OBLIGATION,,,
+19,il_hb3773,IL HB 3773,47,"For an employer to impose a
+
+restriction that has the effect of prohibiting a language
+
+from being spoken by an employee in communications that
+
+are unrelated to the employee's duties.",False,False,False,,,,
+20,south_korea,South Korea AI Basic Act,141,"National and local governments may revoke the designation of an AI Cluster in any of the following cases; provided, that in the case of subparagraph 1, such designation shall be revoked:
+
+1.  Where designation was obtained by fraud or other improper means
+2.  Where the head of the national or local government that designated the AI Cluster recognizes that it is difficult to achieve the purposes of such designation
+
+4.
+
+The Government may establish or designate a dedicated institution to comprehe",True,True,False,"HARD_OBLIGATION, PERMISSION",,,
+21,ca_sb53,CA SB 53,9,## 22757.11.,False,False,False,,,,
+22,ca_sb53,CA SB 53,82,(c) The consortium shall make reasonable efforts to ensure that CalCompute is established within the University of California to the extent possible.,True,True,False,HARD_OBLIGATION,,,
+23,ca_ab2013,CA AB 2013,15,"For purposes of this paragraph, the following definitions apply:",False,False,False,,,,
+24,ca_sb942,CA SB 942,40,"(3) A third-party licensee shall cease using a licensed GenAI system after the license for the system has been revoked by the covered provider pursuant to paragraph (2).
+
+##",True,True,False,HARD_OBLIGATION,,,
+25,eu_ai_act,EU AI Act,1028,"Article 107
+
+Amendment to Regulation (EU) 2018/858",False,False,False,,,,
+26,il_hb3773,IL HB 3773,94,"The employer is not required to discharge
+
+any employee, transfer any employee with more seniority,
+
+or promote any employee who is not qualified to perform
+
+the job, unless the employer does so or would do so to
+
+accommodate other classes of employees who need it.
+
+(K) Notice.
+
+(1) For an employer to fail to post or keep posted
+
+in a conspicuous location on the premises of the
+
+employer where notices to employees are customarily
+
+posted, or fail to include in any employee handbook
+
+information ",True,True,False,HARD_OBLIGATION,,,
+27,ca_sb53,CA SB 53,12,"(c) (1) “Catastrophic risk” means a foreseeable and material risk that a frontier developer’s development, storage, use, or deployment of a frontier model will materially contribute to the death of, or serious injury to, more than 50 people or more than one billion dollars ($1,000,000,000) in damage to, or loss of, property arising from a single incident involving a frontier model doing any of the following:
+
+(A) Providing expert-level assistance in the creation or release of a chemical, biologi",False,False,True,,,,
+28,china_genai,China GenAI Measures,10,"**Article 6:** Encourage independent innovation in basic technologies for generative AI such as algorithms, frameworks, chips, and supporting software platforms, carry out international exchanges and cooperation in an equal and mutually beneficial way, and participate in the formulation of international rules related to generative AI.
+
+Promote the establishment of generative AI infrastructure and public training data resource platforms.",False,False,False,,,,
+29,ca_sb53,CA SB 53,4,"(n) In the future, foundation models developed by smaller companies or that are behind the frontier may pose significant catastrophic risk, and additional legislation may be needed at that time.",True,True,False,PERMISSION,,,
+30,eu_ai_act,EU AI Act,221,"If the deployer is not able to reach the provider, Article 73 shall apply mutatis mutandis.",True,True,False,HARD_OBLIGATION,,,
+31,ca_sb53,CA SB 53,78,"(a) A large frontier developer that fails to publish or transmit a compliant document required to be published or transmitted under this chapter, makes a statement in violation of subdivision (e) of Section 22757.12, fails to report an incident as required by Section 22757.13, or fails to comply with its own frontier AI framework shall be subject to a civil penalty in an amount dependent upon the severity of the violation that does not exceed one million dollars ($1,000,000) per violation.",True,True,False,HARD_OBLIGATION,,,
+32,il_hb3773,IL HB 3773,82,"Notwithstanding the
+
+provisions of this paragraph, the employer may require
+
+documentation by the employee's health care provider
+
+to determine compliance with other laws.",True,True,False,PERMISSION,,,
+33,ca_sb53,CA SB 53,91,"### SEC. 4.
+
+ Chapter 5.1 (commencing with Section 1107) is added to Part 3 of Division 2 of the Labor Code, to read:
+
+##### CHAPTER  5.1. Whistleblower Protections: Catastrophic Risks in AI Foundation Models
+
+###### 1107.
+
+ For purposes of this chapter:
+
+(a) (1) “Catastrophic risk” means a foreseeable and material risk that a frontier developer’s development, storage, use, or deployment of a foundation model will materially contribute to the death of, or serious injury to, more than 50 people o",False,False,True,,,,
+34,il_hb3773,IL HB 3773,96,"(2) Upon notification of a violation of paragraph
+
+(1) of this subdivision (K)",False,False,False,,,,
+35,ca_sb942,CA SB 942,45,(2) A prevailing plaintiff in an action brought pursuant to this subdivision shall be entitled to all reasonable attorney’s costs and fees.,True,True,False,HARD_OBLIGATION,,,
+36,ca_sb942,CA SB 942,4,"(e) “Manifest” means easily perceived, understood, or recognized by a natural person.",False,False,True,,,,
+37,ca_sb1047,CA SB 1047,94,(j) (1) This section shall not apply to products or services to the extent that the requirements would strictly conflict with the terms of a contract with a federal government entity and a developer of a covered model.,True,True,False,PROHIBITION,,,
+38,il_hb3773,IL HB 3773,8,"For purposes of subsection (D) of Section 2-102 of
+
+this Act",False,False,False,,,,
+39,ca_ab2013,CA AB 2013,24,"For purposes of this paragraph, “security and integrity” has the same meaning as defined in subdivision (ac) of Section 1798.140, except as applied to any developer or user and not limited to businesses, as defined in subdivision (d) of that section.",False,False,True,,,,
+40,china_genai,China GenAI Measures,13,"Encourage the adoption of safe and reliable chips, software, tools, computational power, and data resources.",False,False,False,,,,
+41,ca_sb942,CA SB 942,23,"(c) A covered provider shall not do any of the following:
+
+(1) (A) Except as provided in subparagraph (B), collect or retain personal information from users of the covered provider’s AI detection tool.
+
+(B) (i) A covered provider may collect and retain the contact information of a user who submits feedback pursuant to subdivision (b) if the user opts in to being contacted by the covered provider.
+
+(ii) User information collected pursuant to clause (i) shall be used only to evaluate and improve t",True,True,False,"HARD_OBLIGATION, PROHIBITION, PERMISSION",,,
+42,south_korea,South Korea AI Basic Act,31,"3.
+
+“Artificial intelligence technology” refers to hardware, software technology, or its utilization technology required to implement artificial intelligence.",False,False,False,,,,
+43,co_sb205,CO SB 205,6,"AS USED IN THIS PART 17, UNLESS THE
+CONTEXT OTHERWISE REQUIRES:",False,False,False,,,,
+44,china_genai,China GenAI Measures,2,"**Article 2:** These measures apply to the use of generative AI technologies to provide services to the public in the \[mainland\] PRC for the generation of text, images, audio, video, or other content (hereinafter generative AI services).",False,False,False,,,,
+45,il_hb3773,IL HB 3773,10,"An
+
+unpaid intern is a person who performs work for an
+
+employer under the following circumstances:
+
+(i) the employer is not committed to hiring the
+
+person performing the work at the conclusion of the
+
+intern's tenure;
+
+(ii) the employer and the person performing the
+
+work agree that the person is not entitled to wages for
+
+the work performed; and
+
+(iii) the work performed:
+
+(I) supplements training given in an
+
+educational environment that may enhance the
+
+employability of the intern;
+
+(II) pr",True,True,False,PERMISSION,,,
+46,tx_traiga,TX TRAIGA,50,"(b)  The attorney general may bring an action in the name of
+
+ 
+
+this state to:
+
+ 
+
+             (1)  collect a civil penalty under this section;
+
+ 
+
+             (2)  seek injunctive relief against further violation
+
+ 
+
+of this chapter; and
+
+ 
+
+             (3)  recover attorney's fees and reasonable court costs
+
+ 
+
+or other investigative expenses.",True,True,False,PERMISSION,,,
+47,co_sb205,CO SB 205,56,"(2) DISCLOSURE IS NOT REQUIRED UNDER SUBSECTION (1) OF THIS
+SECTION UNDER CIRCUMSTANCES IN WHICH IT WOULD BE OBVIOUS TO A
+REASONABLE PERSON",False,False,False,,,,
+48,south_korea,South Korea AI Basic Act,74,"12.
+
+A Support Team shall be established under the Committee to assist its affairs and operations.
+
+13",True,True,False,HARD_OBLIGATION,,,
+49,tx_traiga,TX TRAIGA,17,"This chapter supersedes
+
+ 
+
+and preempts any ordinance, resolution, rule, or other regulation
+
+ 
+
+adopted by a political subdivision regarding the use of artificial
+
+ 
+
+intelligence systems.",False,False,False,,,,
+50,tx_traiga,TX TRAIGA,2,"(e)  This section does not apply to:
+
+ 
+
+             (1)  voiceprint data retained by a financial
+
+ 
+
+institution or an affiliate of a financial institution, as those
+
+ 
+
+terms are defined by 15 U.S.C. Section 6809;
+
+ 
+
+             (2)  the training, processing, or storage of biometric
+
+ 
+
+identifiers involved in developing, training, evaluating,
+
+ 
+
+disseminating, or otherwise offering artificial intelligence
+
+ 
+
+models or systems, unless a system is used or deployed for the
+
+ 
+
+purpose of un",True,True,False,HARD_OBLIGATION,,,
+51,ca_sb1047,CA SB 1047,77,(3) The auditor shall be granted access to unredacted materials as necessary to comply with the auditor’s obligations under this subdivision.,True,True,False,HARD_OBLIGATION,,,
+52,china_genai,China GenAI Measures,8,"**Article 4:** The provision and use of generative AI services shall comply with the requirements of laws and administrative regulations, respect social mores, ethics, and morality, and obey the following provisions:
+
+(1) Uphold the Core Socialist Values; content that is prohibited by laws and administrative regulations such as that inciting subversion of national sovereignty or the overturn of the socialist system, endangering national security and interests or harming the nation’s image, incit",True,True,False,"HARD_OBLIGATION, PROHIBITION",,,
+53,ca_sb1047,CA SB 1047,174,This act shall be liberally construed to effectuate its purposes.,True,True,False,HARD_OBLIGATION,,,
+54,ca_ab2013,CA AB 2013,22,A developer may include a description of the functional need or desired purpose of the synthetic data in relation to the intended purpose of the system or service.,True,True,False,PERMISSION,,,
+55,eu_ai_act,EU AI Act,15,"7.   Union law on the protection of personal data, privacy and the confidentiality of communications applies to personal data processed in connection with the rights and obligations laid down in this Regulation.",False,False,False,,,,
+56,ca_sb1047,CA SB 1047,31,"(d) The state government has an essential role to play in ensuring that California recognizes the benefits of this technology while avoiding the most severe risks, as well as to ensure that artificial intelligence innovation and access to compute is accessible to academic researchers and startups, in addition to large companies.",False,False,False,,,,
+57,ca_sb1047,CA SB 1047,71,(3) Take reasonable care to implement appropriate safeguards to prevent the covered model and covered model derivatives from causing or materially enabling a critical harm.,False,False,False,,,,
+58,south_korea,South Korea AI Basic Act,197,"#### Article 39 (Delegation and Entrustment of Authority and Duties)
+
+
+The Korean Basic Act Article 39 specifies a tiered delegation system in which administrative authority is transferred from the central government to local governments and relevant institutions or organizations, whereas the EU AI Act Article 97 allows Member States to assign supervisory, inspection, and enforcement powers to designated or other public authorities for implementing the regulation.",False,False,False,,,,
+59,eu_ai_act,EU AI Act,735,"5.   When performing their tasks, the national competent authorities shall act in accordance with the confidentiality obligations set out in Article 78.
+
+6.   By 2 August 2025, and once every two years thereafter, Member States shall report to the Commission on the status of the financial and human resources of the national competent authorities, with an assessment of their adequacy. The Commission shall transmit that information to the Board for discussion and possible recommendations.",True,True,False,HARD_OBLIGATION,,,
+60,eu_ai_act,EU AI Act,419,"Having regard thereto, the Commission shall decide whether the authorisation is justified.",True,True,False,HARD_OBLIGATION,,,
+61,ca_ab2013,CA AB 2013,23,"(b) A developer shall not be required to post documentation regarding the data used to train a generative artificial intelligence system or service for any of the following:
+
+(1) A generative artificial intelligence system or service whose sole purpose is to help ensure security and integrity.",True,True,False,PROHIBITION,,,
+62,ca_sb53,CA SB 53,117,"(j) (1) This section does not impair or limit the applicability of Section 1102.5, including with respect to the rights of employees who are not covered employees to report violations of this chapter or Chapter 25.1 (commencing with Section 22757.10) of Division 8 of the Business and Professions Code.",False,False,False,,,,
+63,ca_sb942,CA SB 942,43,## 22757.4.,False,False,False,,,,
+64,co_sb205,CO SB 205,28,"(5) ON AND AFTER FEBRUARY 1,2026, A DEVELOPER OF A HIGH-RISK
+ARTIFICIAL INTELLIGENCE SYSTEM SHALL DISCLOSE TO THE ATTORNEY
+GENERAL, IN A FORM AND MANNER PRESCRIBED BY THE ATTORNEY GENERAL,
+AND TO ALL KNOWN DEPLOYERS OR OTHER DEVELOPERS OF THE HIGH-RISK
+ARTIFICIAL INTELLIGENCE SYSTEM, ANY KNOWN OR REASONABLY
+FORESEEABLE RISKS OF ALGORITHMIC DISCRIMINATION ARISING FROM THE
+INTENDED USES OF THE HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM
+WITHOUT UNREASONABLE DELAY BUT NO LATER THAN NINETY DAYS AFTER
+T",True,True,False,HARD_OBLIGATION,,,
+65,ca_sb942,CA SB 942,2,"(c) “Generative artificial intelligence system” or “GenAI system” means an artificial intelligence that can generate derived synthetic content, including text, images, video, and audio, that emulates the structure and characteristics of the system’s training data.",False,False,True,,,,
+66,ca_sb1047,CA SB 1047,133,"(f) This section does not limit protections provided to employees by Section 1102.5 of the Labor Code, Section 12964.5 of the Government Code, or other law.",False,False,False,,,,
+67,china_genai,China GenAI Measures,1,"**Article 1:** These Provisions are drafted on the basis of the Cybersecurity Law of the PRC, the PRC Data Security Law, the Personal Information Protection Law of the PRC, the PRC Law on the Scientific and Technological Progress, and other relevant laws and administrative regulations, so as promote the healthy development and regulated use of generative AI, preserve national security and the societal public interest, and protect the lawful rights and interests of citizens, legal persons, and ot",False,False,False,,,,
+68,ca_sb942,CA SB 942,48,"###### 22757.6.
+
+ This chapter shall become operative on January 1, 2026.",True,True,False,HARD_OBLIGATION,,,
+69,co_sb205,CO SB 205,55,"(1) ON AND AFTER FEBRUARY 1, 2026, AND EXCEPT AS
+PROVIDED IN SUBSECTION (2) OF THIS SECTION, A DEPLOYER OR OTHER
+DEVELOPER THAT DEPLOYS, OFFERS, SELLS, LEASES, LICENSES, GIVES, OR
+OTHERWISE MAKES AVAILABLE AN ARTIFICIAL INTELLIGENCE SYSTEM THAT
+IS INTENDED TO INTERACT WITH CONSUMERS SHALL ENSURE THE DISCLOSURE
+TO EACH CONSUMER WHO INTERACTS WITH THE ARTIFICIAL INTELLIGENCE
+SYSTEM THAT THE CONSUMER IS INTERACTING WITH AN ARTIFICIAL
+INTELLIGENCE SYSTEM.",True,True,False,HARD_OBLIGATION,,,
+70,tx_traiga,TX TRAIGA,93,"not:
+
+ 
+
+             (1)  adopt rules or promulgate guidance that is binding
+
+ 
+
+for any entity;
+
+ 
+
+             (2)  interfere with or override the operation of a
+
+ 
+
+state agency; or
+
+ 
+
+             (3)  perform a duty or exercise a power not granted by
+
+ 
+
+this chapter.
+
+ 
+
+       SECTION 5.  Section 325.011, Government Code, is amended to
+
+ 
+
+read as follows:
+
+ 
+
+       Sec. 325.011.  CRITERIA FOR REVIEW.",False,False,False,,,,
+71,co_sb205,CO SB 205,45,"(4) (a) ON AND AFTER FEBRUARY 1, 2026, AND NO LATER THAN THE
+TIME THAT A DEPLOYER DEPLOYS A HIGH-RISK ARTIFICIAL INTELLIGENCE
+SYSTEM TO MAKE, OR BE A SUBSTANTIAL FACTOR IN MAKING, A
+CONSEQUENTIAL DECISION CONCERNING A CONSUMER, THE DEPLOYER
+SHALL:
+(I) NOTIFY THE CONSUMER THAT THE DEPLOYER HAS DEPLOYED A
+HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM TO MAKE, OR BE A
+SUBSTANTIAL FACTOR IN MAKING, A CONSEQUENTIAL DECISION BEFORE THE
+DECISION IS MADE;
+(II) PROVIDE TO THE CONSUMER A STATEMENT DISCLOSING T",True,True,False,HARD_OBLIGATION,,,
+72,south_korea,South Korea AI Basic Act,44,####,False,False,False,,,,
+73,ca_sb1047,CA SB 1047,159,"(a) There is hereby established in the Government Operations Agency a consortium that shall develop, pursuant to this section, a framework for the creation of a public cloud computing cluster to be known as “CalCompute.”",True,True,False,HARD_OBLIGATION,,,
+74,ca_sb53,CA SB 53,79,(b) A civil penalty described in this section shall be recovered in a civil action brought only by the Attorney General.,True,True,False,HARD_OBLIGATION,,,
+75,ca_ab2013,CA AB 2013,2,"For purposes of this title, the following definitions shall apply:
+
+(a) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
+
+(b) “Developer” means a person, partnership, state or local government agency, or corporation that designs, codes, produces, or substantially modifies an artif",True,False,True,HARD_OBLIGATION,,,
+76,tx_traiga,TX TRAIGA,69,"(a)
+
+ 
+
+A program participant shall provide a quarterly report to the
+
+ 
+
+department.",True,True,False,HARD_OBLIGATION,,,
+77,tx_traiga,TX TRAIGA,94,"The commission and its
+
+ 
+
+staff shall consider the following criteria in determining whether
+
+ 
+
+a public need exists for the continuation of a state agency or its
+
+ 
+
+advisory committees or for the performance of the functions of the
+
+ 
+
+agency or its advisory committees:
+
+ 
+
+             (1)  the efficiency and effectiveness with which the
+
+ 
+
+agency or the advisory committee operates;
+
+ 
+
+             (2)(A)  an identification of the mission, goals, and
+
+ 
+
+objectives intended for the agency",True,True,False,"HARD_OBLIGATION, PERMISSION",,,
+78,ca_sb942,CA SB 942,46,(b) Each day that a covered provider is in violation of this chapter shall be deemed a discrete violation.,True,True,False,HARD_OBLIGATION,,,
+79,il_hb3773,IL HB 3773,101,"(1) With respect to recruitment, hiring,
+
+promotion, renewal of employment, selection for
+
+training or apprenticeship, discharge, discipline,
+
+tenure, or the terms, privileges, or conditions of
+
+employment, for an employer to use artificial
+
+intelligence that has the effect of subjecting
+
+employees to discrimination on the basis of protected
+
+classes under this Article or to use zip codes as a
+
+proxy for protected classes under this Article.
+
+(2) For an employer to fail to provide notice to an
+
+",True,True,False,HARD_OBLIGATION,,,
+80,co_sb205,CO SB 205,15,"(7) ""DEVELOPER"" MEANS A PERSON DOING BUSINESS IN THIS STATE
+THAT DEVELOPS OR INTENTIONALLY AND SUBSTANTIALLY MODIFIES AN
+ARTIFICIAL INTELLIGENCE SYSTEM.",False,False,True,,,,
+81,eu_ai_act,EU AI Act,380,"For the purposes of that assessment, notified bodies which have been notified under those legal acts shall be entitled to control the conformity of the high-risk AI systems with the requirements set out in Section 2, provided that the compliance of those notified bodies with requirements laid down in Article 31(4), (5), (10) and (11) has been assessed in the context of the notification procedure under those legal acts.",True,True,False,HARD_OBLIGATION,,,
+82,il_hb3773,IL HB 3773,83,"The employee
+
+and employer shall engage in a timely, good faith, and
+
+meaningful exchange to determine effective reasonable
+
+accommodations.",True,True,False,HARD_OBLIGATION,,,
+83,co_sb205,CO SB 205,47,"(II) IF THE DEPLOYER IS UNABLE TO PROVIDE THE NOTICE,
+STATEMENT, CONTACT INFORMATION, AND DESCRIPTION REQUIRED BY
+SUBSECTIONS (4)(a) AND (4)(b) OF THIS SECTION DIRECTLY TO THE
+CONSUMER, THE DEPLOYER SHALL MAKE THE NOTICE, STATEMENT, CONTACT
+INFORMATION, AND DESCRIPTION AVAILABLE IN A MANNER THAT IS
+REASONABLY CALCULATED TO ENSURE THAT THE CONSUMER RECEIVES THE
+NOTICE, STATEMENT, CONTACT INFORMATION, AND DESCRIPTION.",True,True,False,HARD_OBLIGATION,,,
+84,ca_sb1047,CA SB 1047,113,"(a) The Attorney General may bring a civil action for a violation of this chapter and to recover all of the following:
+
+(1) For a violation that causes death or bodily harm to another human, harm to property, theft or misappropriation of property, or that constitutes an imminent risk or threat to public safety that occurs on or after January 1, 2026, a civil penalty in an amount not exceeding 10 percent of the cost of the quantity of computing power used to train the covered model to be calculat",True,True,False,PERMISSION,,,
+85,co_sb205,CO SB 205,32,"IN A DISCLOSURE
+PURSUANT TO THIS SUBSECTION (7), A DEVELOPER MAY DESIGNATE THE
+STATEMENT OR DOCUMENTATION AS INCLUDING PROPRIETARY INFORMATION
+OR A TRADE SECRET.",True,True,False,PERMISSION,,,
+86,china_genai,China GenAI Measures,29,"**Article 15:** Providers shall establish and complete mechanisms for making complaints and reports, setting up easy complaint and reporting portals, disclosing the process for handling them and the time limits for giving responses, and promptly accepting and handling complaints and reports from the public and giving feedback on the outcome.",True,True,False,HARD_OBLIGATION,,,
+87,ca_sb942,CA SB 942,18,"(B) A covered provider may impose reasonable limitations on access to the tool to prevent, or respond to, demonstrable risks to the security or integrity of its GenAI system.",True,True,False,PERMISSION,,,
+88,ca_sb1047,CA SB 1047,131,Each disclosure and response shall be shared with officers and directors of the developer whose acts or omissions are not implicated by the disclosure or response no less frequently than once per quarter.,True,True,False,HARD_OBLIGATION,,,
+89,tx_traiga,TX TRAIGA,78,"(a) The Texas
+
+ 
+
+Artificial Intelligence Council is created to:
+
+ 
+
+             (1)  ensure artificial intelligence systems in this
+
+ 
+
+state are ethical and developed in the public's best interest;
+
+ 
+
+             (2)  ensure artificial intelligence systems in this
+
+ 
+
+state do not harm public safety or undermine individual freedoms by
+
+ 
+
+finding issues and making recommendations to the legislature
+
+ 
+
+regarding the Penal Code and Chapter 82, Civil Practice and
+
+ 
+
+Remedies Code;
+
+ 
+
+      ",False,False,False,,,,
+90,il_hb3773,IL HB 3773,68,"Any employee who elects such deferred
+
+work shall be compensated at the wage rate which he or she
+
+would have earned during the originally scheduled work
+
+period.",True,True,False,HARD_OBLIGATION,,,
+91,co_sb205,CO SB 205,19,"(10) (a) ""INTENTIONAL AND SUBSTANTIAL MODIFICATION"" OR
+""INTENTIONALLY AND SUBSTANTIALLY MODIFIES"" MEANS A DELIBERATE
+CHANGE MADE TO AN ARTIFICIAL INTELLIGENCE SYSTEM THAT RESULTS IN
+ANY NEW REASONABLY FORESEEABLE RISK OF ALGORITHMIC
+DISCRIMINATION.",False,False,True,,,,
+92,eu_ai_act,EU AI Act,3,"For AI systems classified as high-risk AI systems in accordance with Article 6(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex I, only Article 6(1), Articles 102 to 109 and Article 112 apply.",False,False,False,,,,
+93,south_korea,South Korea AI Basic Act,87,"3.
+
+Where a member falls under the grounds set forth in Paragraphs 1 or 2, the member shall voluntarily recuse themself from deliberation on the matter concerned.",True,True,False,HARD_OBLIGATION,,,
+94,china_genai,China GenAI Measures,25,"**Article 13:** Providers shall provide safe, stable, and sustained services throughout the course of services to ensure users’ normal usage.",True,True,False,HARD_OBLIGATION,,,
+95,ca_ab2013,CA AB 2013,16,"(A) As applied to datasets that include labels, “types of data points” means the types of labels used.",False,False,True,,,,
+96,eu_ai_act,EU AI Act,442,"Article 49
+
+Registration",False,False,False,,,,
+97,south_korea,South Korea AI Basic Act,36,"2.
+
+An Affected Person shall have the right to receive, to the extent technically and reasonably possible, a clear and meaningful explanation regarding the key criteria and principles used in deriving the final outcome of AI.
+
+3",True,True,False,HARD_OBLIGATION,,,
+98,ca_ab2013,CA AB 2013,0,"The people of the State of California do enact as follows:
+----------------------------------------------------------
+
+  
+
+### SECTION 1.
+
+ Title 15.2 (commencing with Section 3110) is added to Part 4 of Division 3 of the Civil Code, to read:
+
+#### TITLE 15.2. Artificial Intelligence Training Data Transparency
+
+###### 3110.",False,False,False,,,,
+99,ca_ab2013,CA AB 2013,21,"(7) Whether the datasets include personal information, as defined in subdivision (v) of Section 1798.140.
+
+(8) Whether the datasets include aggregate consumer information, as defined in subdivision (b) of Section 1798.140.
+
+(9) Whether there was any cleaning, processing, or other modification to the datasets by the developer, including the intended purpose of those efforts in relation to the artificial intelligence system or service.
+
+(10) The time period during which the data in the datasets we",False,False,False,,,,
+100,ca_ab2013,CA AB 2013,14,".
+
+ On or before January 1, 2026, and before each time thereafter that a generative artificial intelligence system or service, or a substantial modification to a generative artificial intelligence system or service, released on or after January 1, 2022, is made publicly available to Californians for use, regardless of whether the terms of that use include compensation, the developer of the system or service shall post on the developer’s internet website documentation regarding the data used by t",True,True,False,"HARD_OBLIGATION, PERMISSION",,,

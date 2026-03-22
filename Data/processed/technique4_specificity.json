@@ -1,0 +1,222 @@
+{
+  "eu_ai_act": {
+    "numeric_precision": {
+      "ratio": 0.028169014084507043,
+      "sents_with_numeric": 20,
+      "n_obligation": 710
+    },
+    "definitional_density": {
+      "density": 0.030952380952380953,
+      "defined_terms": 13,
+      "recurring_nps": 420
+    },
+    "temporal_precision": {
+      "ratio": 0.22448979591836735,
+      "precise": 11,
+      "vague": 38
+    },
+    "hedge_density": {
+      "density": 0.38591549295774646,
+      "total_hedges": 274,
+      "n_obligation": 710
+    }
+  },
+  "china_genai": {
+    "numeric_precision": {
+      "ratio": 0.0,
+      "sents_with_numeric": 0,
+      "n_obligation": 16
+    },
+    "definitional_density": {
+      "density": 0.25,
+      "defined_terms": 1,
+      "recurring_nps": 4
+    },
+    "temporal_precision": {
+      "ratio": 0.25,
+      "precise": 1,
+      "vague": 3
+    },
+    "hedge_density": {
+      "density": 0.0625,
+      "total_hedges": 1,
+      "n_obligation": 16
+    }
+  },
+  "south_korea": {
+    "numeric_precision": {
+      "ratio": 0.0196078431372549,
+      "sents_with_numeric": 2,
+      "n_obligation": 102
+    },
+    "definitional_density": {
+      "density": 0.2564102564102564,
+      "defined_terms": 10,
+      "recurring_nps": 39
+    },
+    "temporal_precision": {
+      "ratio": 1.0,
+      "precise": 2,
+      "vague": 0
+    },
+    "hedge_density": {
+      "density": 0.11764705882352941,
+      "total_hedges": 12,
+      "n_obligation": 102
+    }
+  },
+  "ca_sb1047": {
+    "numeric_precision": {
+      "ratio": 0.07142857142857142,
+      "sents_with_numeric": 4,
+      "n_obligation": 56
+    },
+    "definitional_density": {
+      "density": 0.5,
+      "defined_terms": 19,
+      "recurring_nps": 38
+    },
+    "temporal_precision": {
+      "ratio": 0.9,
+      "precise": 18,
+      "vague": 2
+    },
+    "hedge_density": {
+      "density": 0.9107142857142857,
+      "total_hedges": 51,
+      "n_obligation": 56
+    }
+  },
+  "ca_sb53": {
+    "numeric_precision": {
+      "ratio": 0.05555555555555555,
+      "sents_with_numeric": 3,
+      "n_obligation": 54
+    },
+    "definitional_density": {
+      "density": 0.40625,
+      "defined_terms": 13,
+      "recurring_nps": 32
+    },
+    "temporal_precision": {
+      "ratio": 0.9090909090909091,
+      "precise": 10,
+      "vague": 1
+    },
+    "hedge_density": {
+      "density": 0.3888888888888889,
+      "total_hedges": 21,
+      "n_obligation": 54
+    }
+  },
+  "ca_sb942": {
+    "numeric_precision": {
+      "ratio": 0.15384615384615385,
+      "sents_with_numeric": 2,
+      "n_obligation": 13
+    },
+    "definitional_density": {
+      "density": 1.0,
+      "defined_terms": 8,
+      "recurring_nps": 8
+    },
+    "temporal_precision": {
+      "ratio": 1.0,
+      "precise": 2,
+      "vague": 0
+    },
+    "hedge_density": {
+      "density": 0.6153846153846154,
+      "total_hedges": 8,
+      "n_obligation": 13
+    }
+  },
+  "ca_ab2013": {
+    "numeric_precision": {
+      "ratio": 0.0,
+      "sents_with_numeric": 0,
+      "n_obligation": 3
+    },
+    "definitional_density": {
+      "density": 3.0,
+      "defined_terms": 6,
+      "recurring_nps": 2
+    },
+    "temporal_precision": {
+      "ratio": 1.0,
+      "precise": 2,
+      "vague": 0
+    },
+    "hedge_density": {
+      "density": 0.0,
+      "total_hedges": 0,
+      "n_obligation": 3
+    }
+  },
+  "co_sb205": {
+    "numeric_precision": {
+      "ratio": 0.0,
+      "sents_with_numeric": 0,
+      "n_obligation": 25
+    },
+    "definitional_density": {
+      "density": 0.2894736842105263,
+      "defined_terms": 11,
+      "recurring_nps": 38
+    },
+    "temporal_precision": {
+      "ratio": 0.896551724137931,
+      "precise": 26,
+      "vague": 3
+    },
+    "hedge_density": {
+      "density": 1.24,
+      "total_hedges": 31,
+      "n_obligation": 25
+    }
+  },
+  "tx_traiga": {
+    "numeric_precision": {
+      "ratio": 0.09302325581395349,
+      "sents_with_numeric": 4,
+      "n_obligation": 43
+    },
+    "definitional_density": {
+      "density": 0.5357142857142857,
+      "defined_terms": 15,
+      "recurring_nps": 28
+    },
+    "temporal_precision": {
+      "ratio": 1.0,
+      "precise": 3,
+      "vague": 0
+    },
+    "hedge_density": {
+      "density": 0.32558139534883723,
+      "total_hedges": 14,
+      "n_obligation": 43
+    }
+  },
+  "il_hb3773": {
+    "numeric_precision": {
+      "ratio": 0.125,
+      "sents_with_numeric": 2,
+      "n_obligation": 16
+    },
+    "definitional_density": {
+      "density": 3.4,
+      "defined_terms": 17,
+      "recurring_nps": 5
+    },
+    "temporal_precision": {
+      "ratio": 0.0,
+      "precise": 0,
+      "vague": 0
+    },
+    "hedge_density": {
+      "density": 0.5625,
+      "total_hedges": 9,
+      "n_obligation": 16
+    }
+  }
+}

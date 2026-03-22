@@ -1,0 +1,225 @@
+{
+  "n_samples": 100,
+  "n_pipeline_positive": 57,
+  "n_pipeline_negative": 43,
+  "tp": 51,
+  "fp": 6,
+  "fn": 2,
+  "tn": 41,
+  "accuracy": 0.92,
+  "precision": 0.8947368421052632,
+  "recall": 0.9622641509433962,
+  "f1": 0.9272727272727272,
+  "cohens_kappa": 0.8386446147640177,
+  "ci_precision_95": [
+    0.8076923076923077,
+    0.9655318527177088
+  ],
+  "ci_recall_95": [
+    0.9019607843137255,
+    1.0
+  ],
+  "ci_f1_95": [
+    0.8695432586736933,
+    0.972972972972973
+  ],
+  "category_accuracy": 0.9215686274509803,
+  "n_true_positives_for_category": 51,
+  "category_mismatches": [
+    {
+      "sample_id": 26,
+      "law": "IL HB 3773",
+      "pipeline": "HARD_OBLIGATION",
+      "human": "PERMISSION",
+      "text": "The employer is not required to discharge\n\nany employee, transfer any employee with more seniority,\n"
+    },
+    {
+      "sample_id": 35,
+      "law": "CA SB 942",
+      "pipeline": "HARD_OBLIGATION",
+      "human": "PERMISSION",
+      "text": "(2)\u00a0A prevailing plaintiff in an action brought pursuant to this subdivision shall be entitled to al"
+    },
+    {
+      "sample_id": 81,
+      "law": "EU AI Act",
+      "pipeline": "HARD_OBLIGATION",
+      "human": "PERMISSION",
+      "text": "For the purposes of that assessment, notified bodies which have been notified under those legal acts"
+    },
+    {
+      "sample_id": 97,
+      "law": "South Korea AI Basic Act",
+      "pipeline": "HARD_OBLIGATION",
+      "human": "PERMISSION",
+      "text": "2.\n\nAn Affected Person shall have the right to receive, to the extent technically and reasonably pos"
+    }
+  ],
+  "per_jurisdiction": [
+    {
+      "law_name": "CA AB 2013",
+      "n": 10,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "tn": 7,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "law_name": "CA SB 1047",
+      "n": 10,
+      "tp": 6,
+      "fp": 0,
+      "fn": 1,
+      "tn": 3,
+      "precision": 1.0,
+      "recall": 0.8571428571428571,
+      "f1": 0.923076923076923
+    },
+    {
+      "law_name": "CA SB 53",
+      "n": 10,
+      "tp": 5,
+      "fp": 1,
+      "fn": 0,
+      "tn": 4,
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1": 0.9090909090909091
+    },
+    {
+      "law_name": "CA SB 942",
+      "n": 10,
+      "tp": 5,
+      "fp": 1,
+      "fn": 0,
+      "tn": 4,
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1": 0.9090909090909091
+    },
+    {
+      "law_name": "CO SB 205",
+      "n": 10,
+      "tp": 5,
+      "fp": 1,
+      "fn": 1,
+      "tn": 3,
+      "precision": 0.8333333333333334,
+      "recall": 0.8333333333333334,
+      "f1": 0.8333333333333334
+    },
+    {
+      "law_name": "China GenAI Measures",
+      "n": 10,
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "tn": 4,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "law_name": "EU AI Act",
+      "n": 10,
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "tn": 4,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "law_name": "IL HB 3773",
+      "n": 10,
+      "tp": 4,
+      "fp": 2,
+      "fn": 0,
+      "tn": 4,
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1": 0.8
+    },
+    {
+      "law_name": "South Korea AI Basic Act",
+      "n": 10,
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "tn": 4,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "law_name": "TX TRAIGA",
+      "n": 10,
+      "tp": 5,
+      "fp": 1,
+      "fn": 0,
+      "tn": 4,
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1": 0.9090909090909091
+    }
+  ],
+  "n_definitional_human": 2,
+  "error_analysis": {
+    "false_positives": [
+      {
+        "sample_id": 12,
+        "law": "CO SB 205",
+        "human_label": "NO",
+        "text_preview": "IN ANY\nENFORCEMENT ACTION BROUGHT ON OR AFTER FEBRUARY 1, 2026, BY THE\nATTORNEY GENERAL PURSUANT TO SECTION 6-1-1706, THERE IS A\nREBUTTABLE PRESUMPTIO"
+      },
+      {
+        "sample_id": 29,
+        "law": "CA SB 53",
+        "human_label": "NO",
+        "text_preview": "(n)\u00a0In the future, foundation models developed by smaller companies or that are behind the frontier may pose significant catastrophic risk, and additi"
+      },
+      {
+        "sample_id": 45,
+        "law": "IL HB 3773",
+        "human_label": "NO",
+        "text_preview": "An\n\nunpaid intern is a person who performs work for an\n\nemployer under the following circumstances:\n\n(i) the employer is not committed to hiring the\n\n"
+      },
+      {
+        "sample_id": 50,
+        "law": "TX TRAIGA",
+        "human_label": "NO",
+        "text_preview": "(e)\u00a0\u00a0This section does not apply to:\n\n\u00a0\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0(1)\u00a0\u00a0voiceprint data retained by a financial\n\n\u00a0\n\ninstitution or an affiliate of a financial inst"
+      },
+      {
+        "sample_id": 78,
+        "law": "CA SB 942",
+        "human_label": "DEF",
+        "text_preview": "(b)\u00a0Each day that a covered provider is in violation of this chapter shall be deemed a discrete violation."
+      },
+      {
+        "sample_id": 79,
+        "law": "IL HB 3773",
+        "human_label": "NO",
+        "text_preview": "(1) With respect to recruitment, hiring,\n\npromotion, renewal of employment, selection for\n\ntraining or apprenticeship, discharge, discipline,\n\ntenure,"
+      }
+    ],
+    "false_negatives": [
+      {
+        "sample_id": 11,
+        "law": "CA SB 1047",
+        "human_category": "HARD_OBLIGATION",
+        "text_preview": "The bill would also require a developer of a covered model to report each artificial intelligence safety incident affecting the covered model or any c"
+      },
+      {
+        "sample_id": 47,
+        "law": "CO SB 205",
+        "human_category": "PERMISSION",
+        "text_preview": "(2) DISCLOSURE IS NOT REQUIRED UNDER SUBSECTION (1) OF THIS\nSECTION UNDER CIRCUMSTANCES IN WHICH IT WOULD BE OBVIOUS TO A\nREASONABLE PERSON"
+      }
+    ]
+  }
+}
