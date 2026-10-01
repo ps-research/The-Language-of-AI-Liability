@@ -1,0 +1,85 @@
+========================================================================
+PAIRWISE TESTS: Voice Distribution (active / passive / indeterminate)
+========================================================================
+
+  China vs EU: attribution transparency
+  China GenAI Measures: {'active': np.int64(12), 'passive': np.int64(4), 'indet': np.int64(0)} (n=16)
+  EU AI Act: {'active': np.int64(376), 'passive': np.int64(326), 'indet': np.int64(8)} (n=710)
+  Chi-square: χ²=3.11, df=2 (min expected=0.2), p=0.2113 n.s.
+
+  SB 1047 vs SB 53: negotiation effect on voice
+  CA SB 1047 (vetoed): {'active': np.int64(27), 'passive': np.int64(29)} (n=56)
+  CA SB 53: {'active': np.int64(21), 'passive': np.int64(33)} (n=54)
+  Fisher's exact: OR=1.46, p=0.3432 n.s.
+
+  China vs South Korea: centralized systems
+  China GenAI Measures: {'active': np.int64(12), 'passive': np.int64(4)} (n=16)
+  South Korea AI Basic Act: {'active': np.int64(59), 'passive': np.int64(43)} (n=102)
+  Fisher's exact: OR=2.19, p=0.2736 n.s.
+
+  Colorado vs Illinois: US state variation
+  CO SB 205: {'active': np.int64(14), 'passive': np.int64(11)} (n=25)
+  IL HB 3773: {'active': np.int64(9), 'passive': np.int64(7)} (n=16)
+  Fisher's exact: OR=0.99, p=1.0000 n.s.
+
+  Texas vs SB 53: explicit vs passive styles
+  TX TRAIGA: {'active': np.int64(26), 'passive': np.int64(17)} (n=43)
+  CA SB 53: {'active': np.int64(21), 'passive': np.int64(33)} (n=54)
+  Fisher's exact: OR=2.40, p=0.0422 *
+
+========================================================================
+BINARY TESTS: Active vs Passive (excluding indeterminate)
+========================================================================
+
+  China vs EU: attribution transparency
+  China GenAI Measures: 12 active / 4 passive (75% active)
+  EU AI Act: 376 active / 326 passive (54% active)
+  Fisher's exact: OR=2.60, p=0.1267 n.s.
+
+  SB 1047 vs SB 53: negotiation effect on voice
+  CA SB 1047 (vetoed): 27 active / 29 passive (48% active)
+  CA SB 53: 21 active / 33 passive (39% active)
+  Fisher's exact: OR=1.46, p=0.3432 n.s.
+
+  China vs South Korea: centralized systems
+  China GenAI Measures: 12 active / 4 passive (75% active)
+  South Korea AI Basic Act: 59 active / 43 passive (58% active)
+  Fisher's exact: OR=2.19, p=0.2736 n.s.
+
+  Colorado vs Illinois: US state variation
+  CO SB 205: 14 active / 11 passive (56% active)
+  IL HB 3773: 9 active / 7 passive (56% active)
+  Fisher's exact: OR=0.99, p=1.0000 n.s.
+
+  Texas vs SB 53: explicit vs passive styles
+  TX TRAIGA: 26 active / 17 passive (60% active)
+  CA SB 53: 21 active / 33 passive (39% active)
+  Fisher's exact: OR=2.40, p=0.0422 *
+
+========================================================================
+GROUP TEST: Centralized vs US States (Voice Distribution)
+========================================================================
+  Centralized: active=71, passive=47, indet=0 (n=118)
+  US States:   active=105, passive=105, indet=0 (n=210)
+  Chi-square: χ²=2.75, df=1, p=0.0975 n.s.
+  Min expected: 54.7
+
+========================================================================
+ACTOR CATEGORY TESTS: Regulated Entity / Government / Generic
+========================================================================
+
+  EU vs China: governance architecture
+  EU AI Act: {'regulated_entity': np.int64(59), 'government': np.int64(163), 'generic': np.int64(1)} (n=223)
+  China GenAI Measures: {'regulated_entity': np.int64(9), 'government': np.int64(0), 'generic': np.int64(0)} (n=9)
+  Chi-square: χ²=22.58, df=2 (min expected=0.0), p=0.0000 ***
+
+  EU vs South Korea: obligation bearers
+  EU AI Act: {'regulated_entity': np.int64(59), 'government': np.int64(163), 'generic': np.int64(1)} (n=223)
+  South Korea AI Basic Act: {'regulated_entity': np.int64(3), 'government': np.int64(38), 'generic': np.int64(2)} (n=43)
+  Chi-square: χ²=12.63, df=2 (min expected=0.5), p=0.0018 **
+
+  SB 1047 vs SB 53: actor distribution shift
+  CA SB 1047 (vetoed): {'regulated_entity': np.int64(13), 'government': np.int64(3), 'generic': np.int64(2)} (n=18)
+  CA SB 53: {'regulated_entity': np.int64(6), 'government': np.int64(6), 'generic': np.int64(0)} (n=12)
+  Chi-square: χ²=4.56, df=2 (min expected=0.8), p=0.1022 n.s.
+

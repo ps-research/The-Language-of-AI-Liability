@@ -1,0 +1,244 @@
+{
+  "eu_ai_act": {
+    "total_active": 376,
+    "category_counts": {
+      "regulated_entity": 59,
+      "government": 163,
+      "generic": 1,
+      "anaphoric": 28,
+      "unclassified": 125
+    },
+    "classified_real_actors": 223,
+    "coverage": 0.5930851063829787,
+    "hhi_category": 0.6042952804198758,
+    "hhi_label": 0.13125138249311274,
+    "category_shares": {
+      "regulated_entity": 0.2645739910313901,
+      "government": 0.7309417040358744,
+      "generic": 0.004484304932735426
+    },
+    "top_labels": {
+      "commission": 54,
+      "provider": 34,
+      "authority": 26,
+      "office": 21,
+      "notified body": 20
+    }
+  },
+  "china_genai": {
+    "total_active": 12,
+    "category_counts": {
+      "regulated_entity": 9,
+      "government": 0,
+      "generic": 0,
+      "anaphoric": 1,
+      "unclassified": 2
+    },
+    "classified_real_actors": 9,
+    "coverage": 0.75,
+    "hhi_category": 1.0,
+    "hhi_label": 1.0,
+    "category_shares": {
+      "regulated_entity": 1.0,
+      "government": 0.0,
+      "generic": 0.0
+    },
+    "top_labels": {
+      "provider": 9
+    }
+  },
+  "south_korea": {
+    "total_active": 59,
+    "category_counts": {
+      "regulated_entity": 3,
+      "government": 38,
+      "generic": 2,
+      "anaphoric": 0,
+      "unclassified": 16
+    },
+    "classified_real_actors": 43,
+    "coverage": 0.7288135593220338,
+    "hhi_category": 0.7879935100054083,
+    "hhi_label": 0.29799891833423475,
+    "category_shares": {
+      "regulated_entity": 0.06976744186046512,
+      "government": 0.8837209302325582,
+      "generic": 0.046511627906976744
+    },
+    "top_labels": {
+      "minister": 17,
+      "government": 15,
+      "committee": 5,
+      "operator": 3,
+      "affected person": 1
+    }
+  },
+  "ca_sb1047": {
+    "total_active": 27,
+    "category_counts": {
+      "regulated_entity": 13,
+      "government": 3,
+      "generic": 2,
+      "anaphoric": 0,
+      "unclassified": 9
+    },
+    "classified_real_actors": 18,
+    "coverage": 0.6666666666666666,
+    "hhi_category": 0.5617283950617284,
+    "hhi_label": 0.5617283950617283,
+    "category_shares": {
+      "regulated_entity": 0.7222222222222222,
+      "government": 0.16666666666666666,
+      "generic": 0.1111111111111111
+    },
+    "top_labels": {
+      "developer": 13,
+      "agency": 3,
+      "person": 2
+    }
+  },
+  "ca_sb53": {
+    "total_active": 21,
+    "category_counts": {
+      "regulated_entity": 6,
+      "government": 6,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 9
+    },
+    "classified_real_actors": 12,
+    "coverage": 0.5714285714285714,
+    "hhi_category": 0.5,
+    "hhi_label": 0.33333333333333326,
+    "category_shares": {
+      "regulated_entity": 0.5,
+      "government": 0.5,
+      "generic": 0.0
+    },
+    "top_labels": {
+      "developer": 6,
+      "department": 3,
+      "office": 1,
+      "attorney general": 1,
+      "agency": 1
+    }
+  },
+  "ca_sb942": {
+    "total_active": 7,
+    "category_counts": {
+      "regulated_entity": 4,
+      "government": 1,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 2
+    },
+    "classified_real_actors": 5,
+    "coverage": 0.7142857142857143,
+    "hhi_category": 0.6800000000000002,
+    "hhi_label": 0.6800000000000002,
+    "category_shares": {
+      "regulated_entity": 0.8,
+      "government": 0.2,
+      "generic": 0.0
+    },
+    "top_labels": {
+      "provider": 4,
+      "attorney general": 1
+    }
+  },
+  "ca_ab2013": {
+    "total_active": 1,
+    "category_counts": {
+      "regulated_entity": 1,
+      "government": 0,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 0
+    },
+    "classified_real_actors": 1,
+    "coverage": 1.0,
+    "hhi_category": 1.0,
+    "hhi_label": 1.0,
+    "category_shares": {
+      "regulated_entity": 1.0,
+      "government": 0.0,
+      "generic": 0.0
+    },
+    "top_labels": {
+      "developer": 1
+    }
+  },
+  "co_sb205": {
+    "total_active": 14,
+    "category_counts": {
+      "regulated_entity": 8,
+      "government": 3,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 3
+    },
+    "classified_real_actors": 11,
+    "coverage": 0.7857142857142857,
+    "hhi_category": 0.6033057851239669,
+    "hhi_label": 0.48760330578512395,
+    "category_shares": {
+      "regulated_entity": 0.7272727272727273,
+      "government": 0.2727272727272727,
+      "generic": 0.0
+    },
+    "top_labels": {
+      "deployer": 7,
+      "attorney general": 3,
+      "developer": 1
+    }
+  },
+  "tx_traiga": {
+    "total_active": 26,
+    "category_counts": {
+      "regulated_entity": 0,
+      "government": 9,
+      "generic": 3,
+      "anaphoric": 0,
+      "unclassified": 14
+    },
+    "classified_real_actors": 12,
+    "coverage": 0.46153846153846156,
+    "hhi_category": 0.625,
+    "hhi_label": 0.25,
+    "category_shares": {
+      "regulated_entity": 0.0,
+      "government": 0.75,
+      "generic": 0.25
+    },
+    "top_labels": {
+      "council": 4,
+      "person": 3,
+      "department": 3,
+      "agency": 1,
+      "attorney general": 1
+    }
+  },
+  "il_hb3773": {
+    "total_active": 9,
+    "category_counts": {
+      "regulated_entity": 5,
+      "government": 2,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 2
+    },
+    "classified_real_actors": 7,
+    "coverage": 0.7777777777777778,
+    "hhi_category": 0.5918367346938775,
+    "hhi_label": 0.5918367346938775,
+    "category_shares": {
+      "regulated_entity": 0.7142857142857143,
+      "government": 0.2857142857142857,
+      "generic": 0.0
+    },
+    "top_labels": {
+      "employer": 5,
+      "department": 2
+    }
+  }
+}

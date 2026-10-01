@@ -1,0 +1,91 @@
+{
+ "cn_algorithms": {
+  "file": "revision/corpus_ext/texts/cn_algorithms.txt",
+  "metadata": {
+   "name": "Algorithmic Recommendation Provisions",
+   "jurisdiction": "China",
+   "year": 2022,
+   "status": "In force",
+   "source_type": "unofficial_translation",
+   "group": "ai"
+  }
+ },
+ "cn_deep_synthesis": {
+  "file": "revision/corpus_ext/texts/cn_deep_synthesis.txt",
+  "metadata": {
+   "name": "Deep Synthesis Provisions",
+   "jurisdiction": "China",
+   "year": 2023,
+   "status": "In force",
+   "source_type": "unofficial_translation",
+   "group": "ai"
+  }
+ },
+ "cn_ai_labeling": {
+  "file": "revision/corpus_ext/texts/cn_ai_labeling.txt",
+  "metadata": {
+   "name": "AI-Generated Content Labeling Measures",
+   "jurisdiction": "China",
+   "year": 2025,
+   "status": "In force",
+   "source_type": "unofficial_translation",
+   "group": "ai"
+  }
+ },
+ "co_sb26_189": {
+  "file": "revision/corpus_ext/texts/co_sb26_189.txt",
+  "metadata": {
+   "name": "Colorado SB 26-189 (ADMT)",
+   "jurisdiction": "Colorado",
+   "year": 2026,
+   "status": "Signed; applies Jan 2027",
+   "source_type": "official_english",
+   "group": "ai"
+  }
+ },
+ "eu_dsa": {
+  "file": "revision/corpus_ext/texts/eu_dsa.txt",
+  "metadata": {
+   "name": "Digital Services Act (Reg. 2022/2065)",
+   "jurisdiction": "EU",
+   "year": 2022,
+   "status": "In force",
+   "source_type": "official_english",
+   "note": "Recitals excluded; Articles only",
+   "group": "baseline"
+  }
+ },
+ "cn_pipl": {
+  "file": "revision/corpus_ext/texts/cn_pipl.txt",
+  "metadata": {
+   "name": "Personal Information Protection Law",
+   "jurisdiction": "China",
+   "year": 2021,
+   "status": "In force",
+   "source_type": "unofficial_translation",
+   "group": "baseline"
+  }
+ },
+ "kr_pipa": {
+  "file": "revision/corpus_ext/texts/kr_pipa.txt",
+  "metadata": {
+   "name": "Personal Information Protection Act (Act No. 19234)",
+   "jurisdiction": "South Korea",
+   "year": 2023,
+   "status": "In force",
+   "source_type": "official_translation_klri",
+   "group": "baseline"
+  }
+ },
+ "co_sb21_190": {
+  "file": "revision/corpus_ext/texts/co_sb21_190.txt",
+  "metadata": {
+   "name": "Colorado Privacy Act (SB 21-190)",
+   "jurisdiction": "Colorado",
+   "year": 2021,
+   "status": "In force",
+   "source_type": "official_english",
+   "group": "baseline"
+  }
+ }
+}

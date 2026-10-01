@@ -1,0 +1,6074 @@
+[
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 7,
+  "subject": {
+   "head": "regulation",
+   "full_np": "This Regulation",
+   "head_lemma": "regulation"
+  },
+  "v1_label": "This Regulation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 12,
+  "subject": {
+   "head": "regulation",
+   "full_np": "This Regulation",
+   "head_lemma": "regulation"
+  },
+  "v1_label": "This Regulation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 16,
+  "subject": {
+   "head": "regulation",
+   "full_np": "This Regulation",
+   "head_lemma": "regulation"
+  },
+  "v1_label": "This Regulation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 32,
+  "subject": {
+   "head": "use",
+   "full_np": "each use for the purposes of law enforcement of a\u00a0\u2018real-time\u2019 remote biometric identification system in publicly accessible spaces",
+   "head_lemma": "use"
+  },
+  "v1_label": "each use for the purposes of law enforce",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 35,
+  "subject": {
+   "head": "authority",
+   "full_np": "The competent judicial authority or an independent administrative authority whose decision is binding",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 36,
+  "subject": {
+   "head": "authority",
+   "full_np": "that authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 40,
+  "subject": {
+   "head": "notification",
+   "full_np": "The notification",
+   "head_lemma": "notification"
+  },
+  "v1_label": "The notification",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 41,
+  "subject": {
+   "head": "state",
+   "full_np": "Member State",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 42,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States concerned",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 44,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 45,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 48,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 50,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 51,
+  "subject": {
+   "head": "reports",
+   "full_np": "Those annual reports",
+   "head_lemma": "report"
+  },
+  "v1_label": "Those annual reports",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 52,
+  "subject": {
+   "head": "article",
+   "full_np": "This Article",
+   "head_lemma": "article"
+  },
+  "v1_label": "This Article",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 63,
+  "subject": {
+   "head": "provider",
+   "full_np": "Such provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 64,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 67,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 71,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 74,
+  "subject": {
+   "head": "amendment",
+   "full_np": "Any amendment to the conditions laid down in paragraph",
+   "head_lemma": "amendment"
+  },
+  "v1_label": "Any amendment to the conditions laid dow",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 81,
+  "subject": {
+   "head": "a",
+   "full_np": "a",
+   "head_lemma": "a"
+  },
+  "v1_label": "a",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 86,
+  "subject": {
+   "head": "testing",
+   "full_np": "Testing",
+   "head_lemma": "testing"
+  },
+  "v1_label": "Testing",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 89,
+  "subject": {
+   "head": "procedures",
+   "full_np": "Testing procedures",
+   "head_lemma": "procedure"
+  },
+  "v1_label": "Testing procedures",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 92,
+  "subject": {
+   "head": "providers",
+   "full_np": "providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 93,
+  "subject": {
+   "head": "that",
+   "full_np": "that",
+   "head_lemma": "that"
+  },
+  "v1_label": "that",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 96,
+  "subject": {
+   "head": "sets",
+   "full_np": "Training, validation and testing data sets",
+   "head_lemma": "set"
+  },
+  "v1_label": "Training, validation and testing data se",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 101,
+  "subject": {
+   "head": "it",
+   "full_np": "it",
+   "head_lemma": "it"
+  },
+  "v1_label": "it",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 107,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 108,
+  "subject": {
+   "head": "smes",
+   "full_np": "SMEs, including start-ups,",
+   "head_lemma": "smes"
+  },
+  "v1_label": "SMEs, including start-ups,",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 109,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 111,
+  "subject": {
+   "head": "bodies",
+   "full_np": "Notified bodies",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 123,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 126,
+  "subject": {
+   "head": "systems",
+   "full_np": "High-risk AI systems",
+   "head_lemma": "system"
+  },
+  "v1_label": "High-risk AI systems",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 132,
+  "subject": {
+   "head": "systems",
+   "full_np": "High-risk AI systems",
+   "head_lemma": "system"
+  },
+  "v1_label": "High-risk AI systems",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 133,
+  "subject": {
+   "head": "solutions",
+   "full_np": "The technical solutions aiming to ensure the cybersecurity of high-risk AI systems",
+   "head_lemma": "solution"
+  },
+  "v1_label": "The technical solutions aiming to ensure",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 134,
+  "subject": {
+   "head": "solutions",
+   "full_np": "The technical solutions to address AI specific vulnerabilities",
+   "head_lemma": "solution"
+  },
+  "v1_label": "The technical solutions to address AI sp",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 144,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers of high-risk AI systems that are subject to obligations regarding quality management systems or an equivalent function under relevant sectoral Union law",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 150,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 153,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers of high-risk AI systems",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 156,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 157,
+  "subject": {
+   "head": "they",
+   "full_np": "They",
+   "head_lemma": "they"
+  },
+  "v1_label": "They",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 158,
+  "subject": {
+   "head": "system",
+   "full_np": "the high-risk AI system",
+   "head_lemma": "system"
+  },
+  "v1_label": "the high-risk AI system",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 163,
+  "subject": {
+   "head": "providers",
+   "full_np": "providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 165,
+  "subject": {
+   "head": "provider",
+   "full_np": "The provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 167,
+  "subject": {
+   "head": "representative",
+   "full_np": "The authorised representative",
+   "head_lemma": "representative"
+  },
+  "v1_label": "The authorised representative",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 168,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 170,
+  "subject": {
+   "head": "it",
+   "full_np": "it",
+   "head_lemma": "it"
+  },
+  "v1_label": "it",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 178,
+  "subject": {
+   "head": "importers",
+   "full_np": "Importers",
+   "head_lemma": "importer"
+  },
+  "v1_label": "importer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 182,
+  "subject": {
+   "head": "importers",
+   "full_np": "Importers",
+   "head_lemma": "importer"
+  },
+  "v1_label": "importer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 185,
+  "subject": {
+   "head": "system",
+   "full_np": "the high-risk AI system",
+   "head_lemma": "system"
+  },
+  "v1_label": "the high-risk AI system",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 186,
+  "subject": {
+   "head": "distributors",
+   "full_np": "Distributors",
+   "head_lemma": "distributor"
+  },
+  "v1_label": "distributor",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 188,
+  "subject": {
+   "head": "distributor",
+   "full_np": "A distributor that considers or has reason to consider, on the basis of the information in its possession,",
+   "head_lemma": "distributor"
+  },
+  "v1_label": "distributor",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 189,
+  "subject": {
+   "head": "system",
+   "full_np": "the high-risk AI system",
+   "head_lemma": "system"
+  },
+  "v1_label": "the high-risk AI system",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 192,
+  "subject": {
+   "head": "distributors",
+   "full_np": "distributors of a\u00a0high-risk AI system",
+   "head_lemma": "distributor"
+  },
+  "v1_label": "distributor",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 206,
+  "subject": {
+   "head": "paragraph",
+   "full_np": "This paragraph",
+   "head_lemma": "paragraph"
+  },
+  "v1_label": "This paragraph",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 209,
+  "subject": {
+   "head": "office",
+   "full_np": "the AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 214,
+  "subject": {
+   "head": "obligations",
+   "full_np": "Obligations of deployers of high-risk AI systems\n\n",
+   "head_lemma": "obligation"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 217,
+  "subject": {
+   "head": "deployer",
+   "full_np": "the deployer",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 218,
+  "subject": {
+   "head": "deployers",
+   "full_np": "Deployers",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 219,
+  "subject": {
+   "head": "deployers",
+   "full_np": "deployers",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 220,
+  "subject": {
+   "head": "deployers",
+   "full_np": "deployers",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 221,
+  "subject": {
+   "head": "deployer",
+   "full_np": "the deployer",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 222,
+  "subject": {
+   "head": "obligation",
+   "full_np": "This obligation",
+   "head_lemma": "obligation"
+  },
+  "v1_label": "This obligation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 226,
+  "subject": {
+   "head": "deployers",
+   "full_np": "Deployers of high-risk AI systems",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 227,
+  "subject": {
+   "head": "deployers",
+   "full_np": "Deployers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 231,
+  "subject": {
+   "head": "deployers",
+   "full_np": "deployers who are employers",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 236,
+  "subject": {
+   "head": "deployers",
+   "full_np": "Deployers of high-risk AI systems that are public authorities, or Union institutions, bodies, offices or agencies",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 240,
+  "subject": {
+   "head": "deployers",
+   "full_np": "deployers of high-risk AI systems",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 251,
+  "subject": {
+   "head": "subparagraph",
+   "full_np": "This subparagraph",
+   "head_lemma": "subparagraph"
+  },
+  "v1_label": "This subparagraph",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 253,
+  "subject": {
+   "head": "deployers",
+   "full_np": "Deployers",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 255,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 258,
+  "subject": {
+   "head": "deployers",
+   "full_np": "deployers of high-risk AI systems referred to in Annex",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 259,
+  "subject": {
+   "head": "article",
+   "full_np": "For high-risk AI systems used for law enforcement purposes Article",
+   "head_lemma": "article"
+  },
+  "v1_label": "For high-risk AI systems used for law en",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 262,
+  "subject": {
+   "head": "deployer",
+   "full_np": "The deployer",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 263,
+  "subject": {
+   "head": "deployer",
+   "full_np": "the deployer",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 266,
+  "subject": {
+   "head": "deployers",
+   "full_np": "deployers",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 268,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 271,
+  "subject": {
+   "head": "authorities",
+   "full_np": "authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 272,
+  "subject": {
+   "head": "personnel",
+   "full_np": "Competent personnel",
+   "head_lemma": "personnel"
+  },
+  "v1_label": "person",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 276,
+  "subject": {
+   "head": "body",
+   "full_np": "the conformity assessment body concerned",
+   "head_lemma": "body"
+  },
+  "v1_label": "the conformity assessment body concerned",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 279,
+  "subject": {
+   "head": "body",
+   "full_np": "The notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 281,
+  "subject": {
+   "head": "notification",
+   "full_np": "The notification referred to in paragraph",
+   "head_lemma": "notification"
+  },
+  "v1_label": "The notification referred to in paragrap",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 284,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 289,
+  "subject": {
+   "head": "bodies",
+   "full_np": "Notified bodies",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 290,
+  "subject": {
+   "head": "bodies",
+   "full_np": "Notified bodies",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 291,
+  "subject": {
+   "head": "this",
+   "full_np": "This",
+   "head_lemma": "this"
+  },
+  "v1_label": "This",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 297,
+  "subject": {
+   "head": "this",
+   "full_np": "This",
+   "head_lemma": "this"
+  },
+  "v1_label": "This",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 299,
+  "subject": {
+   "head": "bodies",
+   "full_np": "Notified bodies",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 303,
+  "subject": {
+   "head": "bodies",
+   "full_np": "Notified bodies",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 306,
+  "subject": {
+   "head": "bodies",
+   "full_np": "Notified bodies",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 307,
+  "subject": {
+   "head": "body",
+   "full_np": "The notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 309,
+  "subject": {
+   "head": "bodies",
+   "full_np": "Notified bodies",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 314,
+  "subject": {
+   "head": "body",
+   "full_np": "notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 317,
+  "subject": {
+   "head": "bodies",
+   "full_np": "Notified bodies",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 320,
+  "subject": {
+   "head": "body",
+   "full_np": "The notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 326,
+  "subject": {
+   "head": "authority",
+   "full_np": "The notifying authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 327,
+  "subject": {
+   "head": "procedures",
+   "full_np": "The procedures laid down in Articles",
+   "head_lemma": "procedure"
+  },
+  "v1_label": "The procedures laid down in Articles",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 328,
+  "subject": {
+   "head": "procedures",
+   "full_np": "the procedures laid down in paragraphs (3) to (9)",
+   "head_lemma": "procedure"
+  },
+  "v1_label": "the procedures laid down in paragraphs (",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 329,
+  "subject": {
+   "head": "body",
+   "full_np": "notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 330,
+  "subject": {
+   "head": "certificates",
+   "full_np": "The certificates of the notified body",
+   "head_lemma": "certificate"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 331,
+  "subject": {
+   "head": "body",
+   "full_np": "The latter notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 332,
+  "subject": {
+   "head": "body",
+   "full_np": "the notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 336,
+  "subject": {
+   "head": "authority",
+   "full_np": "notifying authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 337,
+  "subject": {
+   "head": "it",
+   "full_np": "it",
+   "head_lemma": "it"
+  },
+  "v1_label": "it",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 339,
+  "subject": {
+   "head": "it",
+   "full_np": "it",
+   "head_lemma": "it"
+  },
+  "v1_label": "it",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 340,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 353,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 354,
+  "subject": {
+   "head": "state",
+   "full_np": "the Member State",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 356,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 357,
+  "subject": {
+   "head": "request",
+   "full_np": "The standardisation request",
+   "head_lemma": "request"
+  },
+  "v1_label": "The standardisation request",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 358,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 359,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 360,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 363,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 371,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 375,
+  "subject": {
+   "head": "providers",
+   "full_np": "providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 376,
+  "subject": {
+   "head": "a",
+   "full_np": "A",
+   "head_lemma": "a"
+  },
+  "v1_label": "A",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 389,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 392,
+  "subject": {
+   "head": "certificates",
+   "full_np": "Certificates",
+   "head_lemma": "certificate"
+  },
+  "v1_label": "Certificates",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 395,
+  "subject": {
+   "head": "certificate",
+   "full_np": "the certificate which it supplements",
+   "head_lemma": "certificate"
+  },
+  "v1_label": "the certificate which it supplements",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 400,
+  "subject": {
+   "head": "body",
+   "full_np": "The notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 401,
+  "subject": {
+   "head": "procedure",
+   "full_np": "An appeal procedure against decisions of the notified bodies, including on conformity certificates issued,",
+   "head_lemma": "procedure"
+  },
+  "v1_label": "notified bodies",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 402,
+  "subject": {
+   "head": "article",
+   "full_np": "Article",
+   "head_lemma": "article"
+  },
+  "v1_label": "Article",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 404,
+  "subject": {
+   "head": "body",
+   "full_np": "Each notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 412,
+  "subject": {
+   "head": "authority",
+   "full_np": "The market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 413,
+  "subject": {
+   "head": "obligation",
+   "full_np": "This obligation",
+   "head_lemma": "obligation"
+  },
+  "v1_label": "This obligation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 420,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 422,
+  "subject": {
+   "head": "derogations",
+   "full_np": "only the derogations from the conformity assessment established in that Union harmonisation legislation",
+   "head_lemma": "derogation"
+  },
+  "v1_label": "only the derogations from the conformity",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 429,
+  "subject": {
+   "head": "declaration",
+   "full_np": "The EU declaration of conformity",
+   "head_lemma": "declaration"
+  },
+  "v1_label": "The EU declaration of conformity",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 433,
+  "subject": {
+   "head": "declaration",
+   "full_np": "The declaration",
+   "head_lemma": "declaration"
+  },
+  "v1_label": "The declaration",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 434,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 435,
+  "subject": {
+   "head": "provider",
+   "full_np": "The provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 441,
+  "subject": {
+   "head": "systems",
+   "full_np": "high-risk AI systems",
+   "head_lemma": "system"
+  },
+  "v1_label": "high-risk AI systems",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 445,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider or, where applicable, the authorised representative",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 447,
+  "subject": {
+   "head": "commission",
+   "full_np": "Only the Commission and national authorities referred to in Article",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 451,
+  "subject": {
+   "head": "obligation",
+   "full_np": "This obligation",
+   "head_lemma": "obligation"
+  },
+  "v1_label": "This obligation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 455,
+  "subject": {
+   "head": "obligation",
+   "full_np": "This obligation",
+   "head_lemma": "obligation"
+  },
+  "v1_label": "This obligation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 456,
+  "subject": {
+   "head": "deployers",
+   "full_np": "Deployers of an emotion recognition system or a\u00a0biometric categorisation system",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 464,
+  "subject": {
+   "head": "information",
+   "full_np": "The information",
+   "head_lemma": "information"
+  },
+  "v1_label": "The information",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 465,
+  "subject": {
+   "head": "paragraphs",
+   "full_np": "Paragraphs",
+   "head_lemma": "paragraph"
+  },
+  "v1_label": "Paragraphs",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 466,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 467,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 471,
+  "subject": {
+   "head": "thresholds",
+   "full_np": "these thresholds",
+   "head_lemma": "threshold"
+  },
+  "v1_label": "these thresholds",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 482,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 485,
+  "subject": {
+   "head": "a",
+   "full_np": "Such a",
+   "head_lemma": "a"
+  },
+  "v1_label": "Such a",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 486,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 487,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 492,
+  "subject": {
+   "head": "information",
+   "full_np": "the information and documentation",
+   "head_lemma": "information"
+  },
+  "v1_label": "the information and documentation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 496,
+  "subject": {
+   "head": "exception",
+   "full_np": "This exception",
+   "head_lemma": "exception"
+  },
+  "v1_label": "This exception",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 497,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers of general-purpose AI models",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 501,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers of general-purpose AI models who do not adhere to an approved code of practice or do not comply with a\u00a0European harmonised standard",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 508,
+  "subject": {
+   "head": "provider",
+   "full_np": "The provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 510,
+  "subject": {
+   "head": "representative",
+   "full_np": "The authorised representative",
+   "head_lemma": "representative"
+  },
+  "v1_label": "The authorised representative",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 511,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 513,
+  "subject": {
+   "head": "it",
+   "full_np": "it",
+   "head_lemma": "it"
+  },
+  "v1_label": "it",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 522,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers of general-purpose AI models with systemic risks who do not adhere to an approved code of practice or do not comply with a\u00a0European harmonised standard",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 528,
+  "subject": {
+   "head": "organisations",
+   "full_np": "organisations, industry, academia and other relevant stakeholders, such as downstream providers and independent experts,",
+   "head_lemma": "organisation"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 529,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office and the Board",
+   "head_lemma": "office"
+  },
+  "v1_label": "board",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 533,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 534,
+  "subject": {
+   "head": "indicators",
+   "full_np": "Key performance indicators and reporting commitments",
+   "head_lemma": "indicator"
+  },
+  "v1_label": "Key performance indicators and reporting",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 538,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office and the Board",
+   "head_lemma": "office"
+  },
+  "v1_label": "board",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 539,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office and the Board",
+   "head_lemma": "office"
+  },
+  "v1_label": "board",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 540,
+  "subject": {
+   "head": "they",
+   "full_np": "They",
+   "head_lemma": "they"
+  },
+  "v1_label": "They",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 541,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 544,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 549,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 550,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 553,
+  "subject": {
+   "head": "codes",
+   "full_np": "Codes of practice",
+   "head_lemma": "code"
+  },
+  "v1_label": "Codes of practice",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 554,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 559,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 562,
+  "subject": {
+   "head": "supervisor",
+   "full_np": "The European Data Protection Supervisor",
+   "head_lemma": "supervisor"
+  },
+  "v1_label": "The European Data Protection Supervisor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 564,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 565,
+  "subject": {
+   "head": "authorities",
+   "full_np": "national competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 566,
+  "subject": {
+   "head": "article",
+   "full_np": "This Article",
+   "head_lemma": "article"
+  },
+  "v1_label": "This Article",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 567,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 570,
+  "subject": {
+   "head": "sandboxes",
+   "full_np": "Such sandboxes",
+   "head_lemma": "sandbox"
+  },
+  "v1_label": "Such sandboxes",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 571,
+  "subject": {
+   "head": "authorities",
+   "full_np": "Competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 574,
+  "subject": {
+   "head": "authorities",
+   "full_np": "Competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 576,
+  "subject": {
+   "head": "authority",
+   "full_np": "the competent authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 577,
+  "subject": {
+   "head": "authority",
+   "full_np": "The competent authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 578,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 587,
+  "subject": {
+   "head": "risks",
+   "full_np": "Any significant risks to health and safety and fundamental rights identified during the development and testing of such AI systems",
+   "head_lemma": "risk"
+  },
+  "v1_label": "Any significant risks to health and safe",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 588,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 589,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 591,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers and prospective providers participating in the AI regulatory sandbox",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 597,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 599,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 600,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 604,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 605,
+  "subject": {
+   "head": "reports",
+   "full_np": "Those reports",
+   "head_lemma": "report"
+  },
+  "v1_label": "Those reports",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 606,
+  "subject": {
+   "head": "authorities",
+   "full_np": "The national competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 607,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 608,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 609,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 616,
+  "subject": {
+   "head": "they",
+   "full_np": "they",
+   "head_lemma": "they"
+  },
+  "v1_label": "they",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 621,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 623,
+  "subject": {
+   "head": "paragraph",
+   "full_np": "This paragraph",
+   "head_lemma": "paragraph"
+  },
+  "v1_label": "This paragraph",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 624,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers or prospective providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 631,
+  "subject": {
+   "head": "withdrawal",
+   "full_np": "The withdrawal of the informed consent",
+   "head_lemma": "withdrawal"
+  },
+  "v1_label": "The withdrawal of the informed consent",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 634,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 635,
+  "subject": {
+   "head": "authorities",
+   "full_np": "Market surveillance authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 638,
+  "subject": {
+   "head": "provider",
+   "full_np": "The provider or prospective provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 639,
+  "subject": {
+   "head": "provider",
+   "full_np": "The provider or prospective provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 651,
+  "subject": {
+   "head": "supervisor",
+   "full_np": "The European Data Protection Supervisor",
+   "head_lemma": "supervisor"
+  },
+  "v1_label": "The European Data Protection Supervisor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 652,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 659,
+  "subject": {
+   "head": "representatives",
+   "full_np": "The designated representatives of the Member States",
+   "head_lemma": "representative"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 660,
+  "subject": {
+   "head": "rules",
+   "full_np": "The rules of procedure",
+   "head_lemma": "rule"
+  },
+  "v1_label": "The rules of procedure",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 663,
+  "subject": {
+   "head": "board",
+   "full_np": "The Board",
+   "head_lemma": "board"
+  },
+  "v1_label": "board",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 664,
+  "subject": {
+   "head": "sub",
+   "full_np": "The standing sub",
+   "head_lemma": "sub"
+  },
+  "v1_label": "The standing sub",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 665,
+  "subject": {
+   "head": "board",
+   "full_np": "The Board",
+   "head_lemma": "board"
+  },
+  "v1_label": "board",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 668,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 671,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 677,
+  "subject": {
+   "head": "agency",
+   "full_np": "The Fundamental Rights Agency, ENISA, the European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC), and the European Telecommunications Standards Institute (ETSI)",
+   "head_lemma": "agency"
+  },
+  "v1_label": "agency",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 681,
+  "subject": {
+   "head": "forum",
+   "full_np": "The advisory forum",
+   "head_lemma": "forum"
+  },
+  "v1_label": "The advisory forum",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 682,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 683,
+  "subject": {
+   "head": "term",
+   "full_np": "The term of office of the co-chairs",
+   "head_lemma": "term"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 687,
+  "subject": {
+   "head": "forum",
+   "full_np": "The advisory forum",
+   "head_lemma": "forum"
+  },
+  "v1_label": "The advisory forum",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 688,
+  "subject": {
+   "head": "forum",
+   "full_np": "The advisory forum",
+   "head_lemma": "forum"
+  },
+  "v1_label": "The advisory forum",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 689,
+  "subject": {
+   "head": "forum",
+   "full_np": "The advisory forum",
+   "head_lemma": "forum"
+  },
+  "v1_label": "The advisory forum",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 692,
+  "subject": {
+   "head": "forum",
+   "full_np": "The advisory forum",
+   "head_lemma": "forum"
+  },
+  "v1_label": "The advisory forum",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 696,
+  "subject": {
+   "head": "forum",
+   "full_np": "The advisory forum",
+   "head_lemma": "forum"
+  },
+  "v1_label": "The advisory forum",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 700,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 702,
+  "subject": {
+   "head": "panel",
+   "full_np": "The scientific panel",
+   "head_lemma": "panel"
+  },
+  "v1_label": "The scientific panel",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 704,
+  "subject": {
+   "head": "panel",
+   "full_np": "The scientific panel",
+   "head_lemma": "panel"
+  },
+  "v1_label": "The scientific panel",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 705,
+  "subject": {
+   "head": "they",
+   "full_np": "They",
+   "head_lemma": "they"
+  },
+  "v1_label": "They",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 707,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 710,
+  "subject": {
+   "head": "act",
+   "full_np": "The implementing act referred to in paragraph",
+   "head_lemma": "act"
+  },
+  "v1_label": "The implementing act referred to in para",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 712,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 718,
+  "subject": {
+   "head": "authorities",
+   "full_np": "Those national competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 719,
+  "subject": {
+   "head": "members",
+   "full_np": "The members of those authorities",
+   "head_lemma": "member"
+  },
+  "v1_label": "The members of those authorities",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 724,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 726,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 727,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 732,
+  "subject": {
+   "head": "authorities",
+   "full_np": "the national competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 733,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 734,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 735,
+  "subject": {
+   "head": "authorities",
+   "full_np": "the national competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 736,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 737,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 740,
+  "subject": {
+   "head": "institutions",
+   "full_np": "Union institutions, bodies, offices or agencies",
+   "head_lemma": "institution"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 744,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 747,
+  "subject": {
+   "head": "information",
+   "full_np": "the information contained in the EU database registered in accordance with Article",
+   "head_lemma": "information"
+  },
+  "v1_label": "the information contained in the EU data",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 748,
+  "subject": {
+   "head": "information",
+   "full_np": "The information registered in accordance with Article",
+   "head_lemma": "information"
+  },
+  "v1_label": "The information registered in accordance",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 752,
+  "subject": {
+   "head": "database",
+   "full_np": "The EU database",
+   "head_lemma": "database"
+  },
+  "v1_label": "The EU database",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 753,
+  "subject": {
+   "head": "information",
+   "full_np": "That information",
+   "head_lemma": "information"
+  },
+  "v1_label": "That information",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 756,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 757,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 758,
+  "subject": {
+   "head": "database",
+   "full_np": "The EU database",
+   "head_lemma": "database"
+  },
+  "v1_label": "The EU database",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 759,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 761,
+  "subject": {
+   "head": "monitoring",
+   "full_np": "post-market monitoring",
+   "head_lemma": "monitoring"
+  },
+  "v1_label": "post-market monitoring",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 762,
+  "subject": {
+   "head": "obligation",
+   "full_np": "This obligation",
+   "head_lemma": "obligation"
+  },
+  "v1_label": "This obligation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 764,
+  "subject": {
+   "head": "plan",
+   "full_np": "The post-market monitoring plan",
+   "head_lemma": "plan"
+  },
+  "v1_label": "The post-market monitoring plan",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 768,
+  "subject": {
+   "head": "article",
+   "full_np": "Article",
+   "head_lemma": "article"
+  },
+  "v1_label": "Article",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 770,
+  "subject": {
+   "head": "period",
+   "full_np": "The period for the reporting referred to in the first subparagraph",
+   "head_lemma": "period"
+  },
+  "v1_label": "The period for the reporting referred to",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 777,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider or, where applicable, the deployer",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 781,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 782,
+  "subject": {
+   "head": "this",
+   "full_np": "This",
+   "head_lemma": "this"
+  },
+  "v1_label": "This",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 783,
+  "subject": {
+   "head": "provider",
+   "full_np": "The provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 787,
+  "subject": {
+   "head": "authority",
+   "full_np": "the relevant market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 788,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 795,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National competent authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 797,
+  "subject": {
+   "head": "authorities",
+   "full_np": "the market surveillance authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 798,
+  "subject": {
+   "head": "they",
+   "full_np": "They",
+   "head_lemma": "they"
+  },
+  "v1_label": "They",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 801,
+  "subject": {
+   "head": "authority",
+   "full_np": "the market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 802,
+  "subject": {
+   "head": "states",
+   "full_np": "States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 803,
+  "subject": {
+   "head": "procedures",
+   "full_np": "The procedures referred to in Articles",
+   "head_lemma": "procedure"
+  },
+  "v1_label": "The procedures referred to in Articles",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 804,
+  "subject": {
+   "head": "procedures",
+   "full_np": "the relevant sectoral procedures",
+   "head_lemma": "procedure"
+  },
+  "v1_label": "the relevant sectoral procedures",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 807,
+  "subject": {
+   "head": "authorities",
+   "full_np": "market surveillance authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 810,
+  "subject": {
+   "head": "authority",
+   "full_np": "the market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 812,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National market surveillance authorities supervising regulated credit institutions regulated under Directive 2013/36/EU, which are participating in the Single Supervisory Mechanism established by Regulation (EU) No",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 814,
+  "subject": {
+   "head": "activities",
+   "full_np": "Market surveillance activities",
+   "head_lemma": "activity"
+  },
+  "v1_label": "Market surveillance activities",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 815,
+  "subject": {
+   "head": "institutions",
+   "full_np": "Union institutions, bodies, offices or agencies",
+   "head_lemma": "institution"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 817,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 820,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 825,
+  "subject": {
+   "head": "office",
+   "full_np": "the AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 829,
+  "subject": {
+   "head": "office",
+   "full_np": "the AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 830,
+  "subject": {
+   "head": "authorities",
+   "full_np": "Market surveillance authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 831,
+  "subject": {
+   "head": "procedure",
+   "full_np": "The procedure provided for in Chapter",
+   "head_lemma": "procedure"
+  },
+  "v1_label": "The procedure provided for in Chapter",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 839,
+  "subject": {
+   "head": "authorities",
+   "full_np": "National public authorities or bodies which supervise or enforce the respect of obligations under Union law protecting fundamental rights, including the right to non-discrimination",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 840,
+  "subject": {
+   "head": "authority",
+   "full_np": "The relevant public authority or body",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 841,
+  "subject": {
+   "head": "state",
+   "full_np": "each Member State",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 842,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 843,
+  "subject": {
+   "head": "documentation",
+   "full_np": "the documentation referred to in paragraph",
+   "head_lemma": "documentation"
+  },
+  "v1_label": "the documentation referred to in paragra",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 844,
+  "subject": {
+   "head": "authority",
+   "full_np": "The market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 849,
+  "subject": {
+   "head": "exchange",
+   "full_np": "This exchange of information",
+   "head_lemma": "exchange"
+  },
+  "v1_label": "This exchange of information",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 850,
+  "subject": {
+   "head": "authorities",
+   "full_np": "the law enforcement, immigration or asylum authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 854,
+  "subject": {
+   "head": "system",
+   "full_np": "an AI system",
+   "head_lemma": "system"
+  },
+  "v1_label": "an AI system",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 857,
+  "subject": {
+   "head": "operators",
+   "full_np": "The relevant operators",
+   "head_lemma": "operator"
+  },
+  "v1_label": "operator",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 858,
+  "subject": {
+   "head": "authority",
+   "full_np": "the market surveillance authority or, where applicable the market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 860,
+  "subject": {
+   "head": "authority",
+   "full_np": "The market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 861,
+  "subject": {
+   "head": "article",
+   "full_np": "Article",
+   "head_lemma": "article"
+  },
+  "v1_label": "Article",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 865,
+  "subject": {
+   "head": "authority",
+   "full_np": "That authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 867,
+  "subject": {
+   "head": "notification",
+   "full_np": "The notification referred to in paragraph",
+   "head_lemma": "notification"
+  },
+  "v1_label": "The notification referred to in paragrap",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 868,
+  "subject": {
+   "head": "authorities",
+   "full_np": "the market surveillance authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 870,
+  "subject": {
+   "head": "authorities",
+   "full_np": "The market surveillance authorities other than the market surveillance authority of the Member State initiating the procedure",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 873,
+  "subject": {
+   "head": "this",
+   "full_np": "This",
+   "head_lemma": "this"
+  },
+  "v1_label": "This",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 878,
+  "subject": {
+   "head": "authority",
+   "full_np": "market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 879,
+  "subject": {
+   "head": "authority",
+   "full_np": "the market surveillance authority",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 885,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider of an AI system concerned",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 889,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider of the AI system concerned",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 895,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 899,
+  "subject": {
+   "head": "states",
+   "full_np": "The Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 900,
+  "subject": {
+   "head": "information",
+   "full_np": "That information",
+   "head_lemma": "information"
+  },
+  "v1_label": "That information",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 902,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 905,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 906,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 912,
+  "subject": {
+   "head": "person",
+   "full_np": "any natural or legal person having grounds to consider that there has been an infringement of the provisions of this Regulation",
+   "head_lemma": "person"
+  },
+  "v1_label": "person",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 914,
+  "subject": {
+   "head": "paragraph",
+   "full_np": "Paragraph",
+   "head_lemma": "paragraph"
+  },
+  "v1_label": "Paragraph",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 916,
+  "subject": {
+   "head": "article",
+   "full_np": "Article",
+   "head_lemma": "article"
+  },
+  "v1_label": "Article",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 919,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 920,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 922,
+  "subject": {
+   "head": "authorities",
+   "full_np": "market surveillance authorities",
+   "head_lemma": "authority"
+  },
+  "v1_label": "authority",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 926,
+  "subject": {
+   "head": "office",
+   "full_np": "the AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 927,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 930,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 931,
+  "subject": {
+   "head": "lawyers",
+   "full_np": "Lawyers duly authorised to act",
+   "head_lemma": "lawyer"
+  },
+  "v1_label": "Lawyers duly authorised to act",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 932,
+  "subject": {
+   "head": "clients",
+   "full_np": "The clients",
+   "head_lemma": "client"
+  },
+  "v1_label": "The clients",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 934,
+  "subject": {
+   "head": "office",
+   "full_np": "The AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 938,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 939,
+  "subject": {
+   "head": "experts",
+   "full_np": "Independent experts appointed for this task",
+   "head_lemma": "expert"
+  },
+  "v1_label": "Independent experts appointed for this t",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 941,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 945,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 947,
+  "subject": {
+   "head": "office",
+   "full_np": "the AI Office",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 948,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 958,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 964,
+  "subject": {
+   "head": "a",
+   "full_np": "A",
+   "head_lemma": "a"
+  },
+  "v1_label": "A",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 965,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 966,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 967,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 968,
+  "subject": {
+   "head": "it",
+   "full_np": "it",
+   "head_lemma": "it"
+  },
+  "v1_label": "it",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 973,
+  "subject": {
+   "head": "committee",
+   "full_np": "That committee",
+   "head_lemma": "committee"
+  },
+  "v1_label": "That committee",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 982,
+  "subject": {
+   "head": "penalties",
+   "full_np": "The penalties provided for",
+   "head_lemma": "penalty"
+  },
+  "v1_label": "The penalties provided for",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 983,
+  "subject": {
+   "head": "they",
+   "full_np": "They",
+   "head_lemma": "they"
+  },
+  "v1_label": "They",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 985,
+  "subject": {
+   "head": "states",
+   "full_np": "The Member States",
+   "head_lemma": "states"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 986,
+  "subject": {
+   "head": "non",
+   "full_np": "Non",
+   "head_lemma": "non"
+  },
+  "v1_label": "Non",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 989,
+  "subject": {
+   "head": "exercise",
+   "full_np": "The exercise of powers under this Article",
+   "head_lemma": "exercise"
+  },
+  "v1_label": "The exercise of powers under this Articl",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 990,
+  "subject": {
+   "head": "states",
+   "full_np": "Member States",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 993,
+  "subject": {
+   "head": "fines",
+   "full_np": "Administrative fines on Union institutions, bodies, offices and agencies\n\n",
+   "head_lemma": "fine"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 996,
+  "subject": {
+   "head": "supervisor",
+   "full_np": "The European Data Protection Supervisor",
+   "head_lemma": "supervisor"
+  },
+  "v1_label": "The European Data Protection Supervisor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1002,
+  "subject": {
+   "head": "funds",
+   "full_np": "Funds collected by imposition of fines in this Article",
+   "head_lemma": "fund"
+  },
+  "v1_label": "Funds collected by imposition of fines i",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1003,
+  "subject": {
+   "head": "fines",
+   "full_np": "The fines",
+   "head_lemma": "fine"
+  },
+  "v1_label": "The fines",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1006,
+  "subject": {
+   "head": "supervisor",
+   "full_np": "The European Data Protection Supervisor",
+   "head_lemma": "supervisor"
+  },
+  "v1_label": "The European Data Protection Supervisor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1009,
+  "subject": {
+   "head": "fines",
+   "full_np": "Fines for providers of general-purpose AI models\n\n",
+   "head_lemma": "fine"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1011,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1013,
+  "subject": {
+   "head": "fines",
+   "full_np": "Fines imposed in accordance with this Article",
+   "head_lemma": "fine"
+  },
+  "v1_label": "Fines imposed in accordance with this Ar",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1016,
+  "subject": {
+   "head": "court",
+   "full_np": "The Court of Justice of the European Union",
+   "head_lemma": "court"
+  },
+  "v1_label": "The Court of Justice of the European Uni",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1017,
+  "subject": {
+   "head": "it",
+   "full_np": "It",
+   "head_lemma": "it"
+  },
+  "v1_label": "It",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1021,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1047,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1049,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1050,
+  "subject": {
+   "head": "report",
+   "full_np": "The report",
+   "head_lemma": "report"
+  },
+  "v1_label": "The report",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1057,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1059,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1061,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1062,
+  "subject": {
+   "head": "board",
+   "full_np": "the Board, the Member States and national competent authorities",
+   "head_lemma": "board"
+  },
+  "v1_label": "board",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1063,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1064,
+  "subject": {
+   "head": "commission",
+   "full_np": "The Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1070,
+  "subject": {
+   "head": "commission",
+   "full_np": "the Commission",
+   "head_lemma": "commission"
+  },
+  "v1_label": "commission",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1107,
+  "subject": {
+   "head": "regulations",
+   "full_np": "Regulations (EC) No\u00a02111/2005, (EC) No",
+   "head_lemma": "regulations"
+  },
+  "v1_label": "Regulations (EC) No\u00a02111/2005, (EC) No",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1148,
+  "subject": {
+   "head": "who",
+   "full_np": "who",
+   "head_lemma": "who"
+  },
+  "v1_label": "who",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1172,
+  "subject": {
+   "head": "notification",
+   "full_np": "The notification",
+   "head_lemma": "notification"
+  },
+  "v1_label": "The notification",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1175,
+  "subject": {
+   "head": "body",
+   "full_np": "The notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1176,
+  "subject": {
+   "head": "notification",
+   "full_np": "The notification",
+   "head_lemma": "notification"
+  },
+  "v1_label": "The notification",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1182,
+  "subject": {
+   "head": "body",
+   "full_np": "the notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1184,
+  "subject": {
+   "head": "access",
+   "full_np": "Such access",
+   "head_lemma": "access"
+  },
+  "v1_label": "Such access",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1189,
+  "subject": {
+   "head": "notification",
+   "full_np": "The notification",
+   "head_lemma": "notification"
+  },
+  "v1_label": "The notification",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1190,
+  "subject": {
+   "head": "system",
+   "full_np": "the AI system",
+   "head_lemma": "system"
+  },
+  "v1_label": "the AI system",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1191,
+  "subject": {
+   "head": "certificate",
+   "full_np": "The certificate",
+   "head_lemma": "certificate"
+  },
+  "v1_label": "The certificate",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1193,
+  "subject": {
+   "head": "system",
+   "full_np": "the AI system",
+   "head_lemma": "system"
+  },
+  "v1_label": "the AI system",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1196,
+  "subject": {
+   "head": "decision",
+   "full_np": "the reasoned assessment decision of the notified body refusing to issue the Union technical documentation assessment certificate",
+   "head_lemma": "decision"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1199,
+  "subject": {
+   "head": "provider",
+   "full_np": "The provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1203,
+  "subject": {
+   "head": "provider",
+   "full_np": "the provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1204,
+  "subject": {
+   "head": "provider",
+   "full_np": "The provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1205,
+  "subject": {
+   "head": "body",
+   "full_np": "The notified body",
+   "head_lemma": "body"
+  },
+  "v1_label": "notified body",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1219,
+  "subject": {
+   "head": "regulation",
+   "full_np": "Regulation (EU) 2021/1133 of the European Parliament and of the Council of",
+   "head_lemma": "regulation"
+  },
+  "v1_label": "council",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "eu_ai_act",
+  "sent_id": 1222,
+  "subject": {
+   "head": "strategies",
+   "full_np": "Evaluation strategies",
+   "head_lemma": "strategy"
+  },
+  "v1_label": "Evaluation strategies",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 18,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 20,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 22,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 23,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 25,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 27,
+  "subject": {
+   "head": "providers",
+   "full_np": "providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 28,
+  "subject": {
+   "head": "providers",
+   "full_np": "providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 29,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 33,
+  "subject": {
+   "head": "those",
+   "full_np": "Those providing generative AI services with public opinion properties or the capacity for social mobilization",
+   "head_lemma": "those"
+  },
+  "v1_label": "Those providing generative AI services w",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 35,
+  "subject": {
+   "head": "providers",
+   "full_np": "Providers",
+   "head_lemma": "provider"
+  },
+  "v1_label": "provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 38,
+  "subject": {
+   "head": "services",
+   "full_np": "generative AI services provided from outside the \\[mainland\\] PRC",
+   "head_lemma": "service"
+  },
+  "v1_label": "generative AI services provided from out",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "china_genai",
+  "sent_id": 46,
+  "subject": {
+   "head": "investment",
+   "full_np": "Foreign investment in generative AI services",
+   "head_lemma": "investment"
+  },
+  "v1_label": "Foreign investment in generative AI serv",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 11,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 16,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 18,
+  "subject": {
+   "head": "governments",
+   "full_np": "National and local governments",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 21,
+  "subject": {
+   "head": "government",
+   "full_np": "the government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 26,
+  "subject": {
+   "head": "act",
+   "full_np": "The Act",
+   "head_lemma": "act"
+  },
+  "v1_label": "The Act",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 30,
+  "subject": {
+   "head": "terms",
+   "full_np": "The terms used in this Act",
+   "head_lemma": "term"
+  },
+  "v1_label": "The terms used in this Act",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 35,
+  "subject": {
+   "head": "technology",
+   "full_np": "AI technology and the AI industry",
+   "head_lemma": "technology"
+  },
+  "v1_label": "ai industry",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 36,
+  "subject": {
+   "head": "person",
+   "full_np": "An Affected Person",
+   "head_lemma": "person"
+  },
+  "v1_label": "affected person",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 38,
+  "subject": {
+   "head": "governments",
+   "full_np": "The national and local governments",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 51,
+  "subject": {
+   "head": "act",
+   "full_np": "this Act",
+   "head_lemma": "act"
+  },
+  "v1_label": "this Act",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 53,
+  "subject": {
+   "head": "legislation",
+   "full_np": "such legislation",
+   "head_lemma": "legislation"
+  },
+  "v1_label": "such legislation",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 55,
+  "subject": {
+   "head": "plan",
+   "full_np": "The AI Basic Plan",
+   "head_lemma": "plan"
+  },
+  "v1_label": "The AI Basic Plan",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 57,
+  "subject": {
+   "head": "minister",
+   "full_np": "the Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 58,
+  "subject": {
+   "head": "minister",
+   "full_np": "the Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 60,
+  "subject": {
+   "head": "heads",
+   "full_np": "The heads of relevant central administrative agencies and local governments",
+   "head_lemma": "head"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 70,
+  "subject": {
+   "head": "committee",
+   "full_np": "The Committee",
+   "head_lemma": "committee"
+  },
+  "v1_label": "The Committee",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 71,
+  "subject": {
+   "head": "member",
+   "full_np": "No member of the Committee",
+   "head_lemma": "member"
+  },
+  "v1_label": "No member of the Committee",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 72,
+  "subject": {
+   "head": "chairperson",
+   "full_np": "The Chairperson",
+   "head_lemma": "chairperson"
+  },
+  "v1_label": "person",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 86,
+  "subject": {
+   "head": "committee",
+   "full_np": "the Committee",
+   "head_lemma": "committee"
+  },
+  "v1_label": "the Committee",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 87,
+  "subject": {
+   "head": "member",
+   "full_np": "a member",
+   "head_lemma": "member"
+  },
+  "v1_label": "a member",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 89,
+  "subject": {
+   "head": "committee",
+   "full_np": "The Committee",
+   "head_lemma": "committee"
+  },
+  "v1_label": "The Committee",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 90,
+  "subject": {
+   "head": "committee",
+   "full_np": "The Committee",
+   "head_lemma": "committee"
+  },
+  "v1_label": "The Committee",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 91,
+  "subject": {
+   "head": "committee",
+   "full_np": "The Committee",
+   "head_lemma": "committee"
+  },
+  "v1_label": "The Committee",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 95,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 101,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 116,
+  "subject": {
+   "head": "government",
+   "full_np": "The Government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 119,
+  "subject": {
+   "head": "government",
+   "full_np": "The Government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 123,
+  "subject": {
+   "head": "government",
+   "full_np": "The Government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 124,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 127,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 130,
+  "subject": {
+   "head": "government",
+   "full_np": "The Government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 132,
+  "subject": {
+   "head": "government",
+   "full_np": "The Government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 133,
+  "subject": {
+   "head": "government",
+   "full_np": "The Government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 134,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 135,
+  "subject": {
+   "head": "government",
+   "full_np": "The Government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 137,
+  "subject": {
+   "head": "governments",
+   "full_np": "national and local governments",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 138,
+  "subject": {
+   "head": "governments",
+   "full_np": "national and local governments",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 143,
+  "subject": {
+   "head": "association",
+   "full_np": "The Association",
+   "head_lemma": "association"
+  },
+  "v1_label": "The Association",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 146,
+  "subject": {
+   "head": "minister",
+   "full_np": "the Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 147,
+  "subject": {
+   "head": "provisions",
+   "full_np": "the provisions of the Civil Act concerning incorporated associations",
+   "head_lemma": "provision"
+  },
+  "v1_label": "the provisions of the Civil Act concerni",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 153,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 160,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 167,
+  "subject": {
+   "head": "operators",
+   "full_np": "AI business operators",
+   "head_lemma": "operator"
+  },
+  "v1_label": "ai business operator",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 171,
+  "subject": {
+   "head": "minister",
+   "full_np": "the Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 173,
+  "subject": {
+   "head": "operators",
+   "full_np": "AI business operators that provide high-impact AI systems, or products or services utilizing such systems,",
+   "head_lemma": "operator"
+  },
+  "v1_label": "high-impact ai",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 178,
+  "subject": {
+   "head": "operators",
+   "full_np": "AI business operators without a domestic address or place of business in the Republic of Korea, whose number of users, revenue, etc. meet the criteria prescribed by Presidential Decree",
+   "head_lemma": "operator"
+  },
+  "v1_label": "ai business operator",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 182,
+  "subject": {
+   "head": "state",
+   "full_np": "The State",
+   "head_lemma": "state"
+  },
+  "v1_label": "state",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 184,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 185,
+  "subject": {
+   "head": "governments",
+   "full_np": "The national and local governments",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 186,
+  "subject": {
+   "head": "governments",
+   "full_np": "The national and local governments",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 193,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 194,
+  "subject": {
+   "head": "minister",
+   "full_np": "the Minister",
+   "head_lemma": "minister"
+  },
+  "v1_label": "minister",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 195,
+  "subject": {
+   "head": "entities",
+   "full_np": "The requested entities",
+   "head_lemma": "entity"
+  },
+  "v1_label": "entities",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 200,
+  "subject": {
+   "head": "minister",
+   "full_np": "The Minister of Science and ICT or the head of a relevant central administrative agency",
+   "head_lemma": "minister"
+  },
+  "v1_label": "agency",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 201,
+  "subject": {
+   "head": "mayor",
+   "full_np": "the Mayor/Provincial Governor",
+   "head_lemma": "mayor"
+  },
+  "v1_label": "the Mayor/Provincial Governor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 204,
+  "subject": {
+   "head": "government",
+   "full_np": "The Government",
+   "head_lemma": "government"
+  },
+  "v1_label": "government",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 222,
+  "subject": {
+   "head": "act",
+   "full_np": "This Act",
+   "head_lemma": "act"
+  },
+  "v1_label": "This Act",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 223,
+  "subject": {
+   "head": "provision",
+   "full_np": "the provision of Article 2(4)(d) concerning digital medical devices",
+   "head_lemma": "provision"
+  },
+  "v1_label": "the provision of Article 2(4)(d) concern",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "south_korea",
+  "sent_id": 228,
+  "subject": {
+   "head": "appointment",
+   "full_np": "the appointment of committee members and the formation of subcommittees, special committees, advisory groups, and support teams",
+   "head_lemma": "appointment"
+  },
+  "v1_label": "the appointment of committee members and",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 51,
+  "subject": {
+   "head": "developer",
+   "full_np": "the developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 54,
+  "subject": {
+   "head": "developer",
+   "full_np": "the developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 65,
+  "subject": {
+   "head": "developer",
+   "full_np": "The developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 73,
+  "subject": {
+   "head": "developer",
+   "full_np": "A developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 74,
+  "subject": {
+   "head": "developer",
+   "full_np": "A developer of a covered model",
+   "head_lemma": "developer"
+  },
+  "v1_label": "covered model",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 75,
+  "subject": {
+   "head": "developer",
+   "full_np": "a developer of a covered model",
+   "head_lemma": "developer"
+  },
+  "v1_label": "covered model",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 76,
+  "subject": {
+   "head": "auditor",
+   "full_np": "An auditor",
+   "head_lemma": "auditor"
+  },
+  "v1_label": "An auditor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 78,
+  "subject": {
+   "head": "auditor",
+   "full_np": "The auditor",
+   "head_lemma": "auditor"
+  },
+  "v1_label": "The auditor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 81,
+  "subject": {
+   "head": "developer",
+   "full_np": "The developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 84,
+  "subject": {
+   "head": "developer",
+   "full_np": "The developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 86,
+  "subject": {
+   "head": "auditor",
+   "full_np": "An auditor",
+   "head_lemma": "auditor"
+  },
+  "v1_label": "An auditor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 87,
+  "subject": {
+   "head": "developer",
+   "full_np": "A developer of a covered model",
+   "head_lemma": "developer"
+  },
+  "v1_label": "covered model",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 89,
+  "subject": {
+   "head": "developer",
+   "full_np": "a developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 91,
+  "subject": {
+   "head": "developer",
+   "full_np": "A developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 93,
+  "subject": {
+   "head": "developer",
+   "full_np": "a developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 94,
+  "subject": {
+   "head": "section",
+   "full_np": "This section",
+   "head_lemma": "section"
+  },
+  "v1_label": "This section",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 104,
+  "subject": {
+   "head": "person",
+   "full_np": "A person that operates a computing cluster",
+   "head_lemma": "person"
+  },
+  "v1_label": "computing cluster",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 105,
+  "subject": {
+   "head": "person",
+   "full_np": "a person that operates a computing cluster",
+   "head_lemma": "person"
+  },
+  "v1_label": "computing cluster",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 125,
+  "subject": {
+   "head": "developer",
+   "full_np": "A developer of a covered model or a contractor or subcontractor of the developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "covered model",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 145,
+  "subject": {
+   "head": "governor",
+   "full_np": "The Governor",
+   "head_lemma": "governor"
+  },
+  "v1_label": "The Governor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 149,
+  "subject": {
+   "head": "member",
+   "full_np": "A member",
+   "head_lemma": "member"
+  },
+  "v1_label": "A member",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 150,
+  "subject": {
+   "head": "member",
+   "full_np": "A member of the board",
+   "head_lemma": "member"
+  },
+  "v1_label": "board",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 151,
+  "subject": {
+   "head": "agency",
+   "full_np": "the Government Operations Agency",
+   "head_lemma": "agency"
+  },
+  "v1_label": "agency",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 153,
+  "subject": {
+   "head": "agency",
+   "full_np": "the Government Operations Agency",
+   "head_lemma": "agency"
+  },
+  "v1_label": "agency",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 155,
+  "subject": {
+   "head": "agency",
+   "full_np": "the Government Operations Agency",
+   "head_lemma": "agency"
+  },
+  "v1_label": "agency",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 156,
+  "subject": {
+   "head": "guidance",
+   "full_np": "Any guidance issued pursuant to paragraph (1)",
+   "head_lemma": "guidance"
+  },
+  "v1_label": "Any guidance issued pursuant to paragrap",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb1047",
+  "sent_id": 184,
+  "subject": {
+   "head": "information",
+   "full_np": "Information in unredacted safety and security protocols and auditor\u2019s reports",
+   "head_lemma": "information"
+  },
+  "v1_label": "safety and security protocol",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 3,
+  "subject": {
+   "head": "reporting",
+   "full_np": "This reporting",
+   "head_lemma": "reporting"
+  },
+  "v1_label": "This reporting",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 31,
+  "subject": {
+   "head": "model",
+   "full_np": "a frontier model",
+   "head_lemma": "model"
+  },
+  "v1_label": "frontier model",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 32,
+  "subject": {
+   "head": "developer",
+   "full_np": "a large frontier developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "frontier developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 33,
+  "subject": {
+   "head": "developer",
+   "full_np": "a frontier developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "frontier developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 38,
+  "subject": {
+   "head": "developer",
+   "full_np": "A large frontier developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "frontier developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 41,
+  "subject": {
+   "head": "developer",
+   "full_np": "a frontier developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "frontier developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 42,
+  "subject": {
+   "head": "developer",
+   "full_np": "a frontier developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "frontier developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 52,
+  "subject": {
+   "head": "office",
+   "full_np": "The Office of Emergency Services",
+   "head_lemma": "office"
+  },
+  "v1_label": "office",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 64,
+  "subject": {
+   "head": "department",
+   "full_np": "the Department of Technology",
+   "head_lemma": "department"
+  },
+  "v1_label": "department",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 65,
+  "subject": {
+   "head": "department",
+   "full_np": "the Department of Technology",
+   "head_lemma": "department"
+  },
+  "v1_label": "department",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 70,
+  "subject": {
+   "head": "department",
+   "full_np": "the Department of Technology",
+   "head_lemma": "department"
+  },
+  "v1_label": "department",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 73,
+  "subject": {
+   "head": "general",
+   "full_np": "The Attorney General",
+   "head_lemma": "general"
+  },
+  "v1_label": "attorney general",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 86,
+  "subject": {
+   "head": "consortium",
+   "full_np": "The consortium",
+   "head_lemma": "consortium"
+  },
+  "v1_label": "The consortium",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 87,
+  "subject": {
+   "head": "agency",
+   "full_np": "the Government Operations Agency",
+   "head_lemma": "agency"
+  },
+  "v1_label": "agency",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 90,
+  "subject": {
+   "head": "section",
+   "full_np": "This section",
+   "head_lemma": "section"
+  },
+  "v1_label": "This section",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 102,
+  "subject": {
+   "head": "developer",
+   "full_np": "A frontier developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "frontier developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 105,
+  "subject": {
+   "head": "employee",
+   "full_np": "a covered employee",
+   "head_lemma": "employee"
+  },
+  "v1_label": "covered employee",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 110,
+  "subject": {
+   "head": "court",
+   "full_np": "the court",
+   "head_lemma": "court"
+  },
+  "v1_label": "the court",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 115,
+  "subject": {
+   "head": "relief",
+   "full_np": "Any temporary injunctive relief",
+   "head_lemma": "relief"
+  },
+  "v1_label": "Any temporary injunctive relief",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 135,
+  "subject": {
+   "head": "act",
+   "full_np": "This act",
+   "head_lemma": "act"
+  },
+  "v1_label": "This act",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb53",
+  "sent_id": 140,
+  "subject": {
+   "head": "legislature",
+   "full_np": "the Legislature",
+   "head_lemma": "legislature"
+  },
+  "v1_label": "the Legislature",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb942",
+  "sent_id": 18,
+  "subject": {
+   "head": "provider",
+   "full_np": "A covered provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "covered provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb942",
+  "sent_id": 21,
+  "subject": {
+   "head": "provider",
+   "full_np": "A covered provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "covered provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb942",
+  "sent_id": 31,
+  "subject": {
+   "head": "provider",
+   "full_np": "A covered provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "covered provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb942",
+  "sent_id": 33,
+  "subject": {
+   "head": "provider",
+   "full_np": "A covered provider",
+   "head_lemma": "provider"
+  },
+  "v1_label": "covered provider",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "ca_sb942",
+  "sent_id": 38,
+  "subject": {
+   "head": "disclosure",
+   "full_np": "The disclosure",
+   "head_lemma": "disclosure"
+  },
+  "v1_label": "The disclosure",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_sb942",
+  "sent_id": 47,
+  "subject": {
+   "head": "general",
+   "full_np": "the Attorney General, a county counsel, or a city attorney",
+   "head_lemma": "general"
+  },
+  "v1_label": "attorney general",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "ca_sb942",
+  "sent_id": 48,
+  "subject": {
+   "head": ".",
+   "full_np": "###### 22757.6.",
+   "head_lemma": "."
+  },
+  "v1_label": "###### 22757.6.",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "ca_ab2013",
+  "sent_id": 22,
+  "subject": {
+   "head": "developer",
+   "full_np": "A developer",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 25,
+  "subject": {
+   "head": "a",
+   "full_np": "A",
+   "head_lemma": "a"
+  },
+  "v1_label": "A",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 30,
+  "subject": {
+   "head": "general",
+   "full_np": "THE ATTORNEY GENERAL",
+   "head_lemma": "general"
+  },
+  "v1_label": "attorney general",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 31,
+  "subject": {
+   "head": "the",
+   "full_np": "THE\nATTORNEY GENERAL MAY EVALUATE SUCH STATEMENT OR DOCUMENTATION\nTO ENSURE COMPLIANCE WITH THIS PART 17, AND THE STATEMENT OR\nDOCUMENTATION IS NOT SUBJECT TO DISCLOSURE UNDER THE \"COLORADO\nOPEN RECORDS ACT\", PART 2 OF ARTICLE 72 OF TITLE 24.",
+   "head_lemma": "the"
+  },
+  "v1_label": "attorney general",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 32,
+  "subject": {
+   "head": "developer",
+   "full_np": "A DEVELOPER",
+   "head_lemma": "developer"
+  },
+  "v1_label": "developer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 35,
+  "subject": {
+   "head": "deployer",
+   "full_np": "A DEPLOYER OF A HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "artificial intelligence system",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 36,
+  "subject": {
+   "head": "deployer",
+   "full_np": "A DEPLOYER OF A HIGH-RISK ARTIFICIAL\nINTELLIGENCE SYSTEM",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 38,
+  "subject": {
+   "head": "program",
+   "full_np": "PROGRAM",
+   "head_lemma": "program"
+  },
+  "v1_label": "PROGRAM",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 44,
+  "subject": {
+   "head": "deployer",
+   "full_np": "A DEPLOYER, OR A THIRD PARTY CONTRACTED BY THE",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 46,
+  "subject": {
+   "head": "deployer",
+   "full_np": "A DEPLOYER",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 47,
+  "subject": {
+   "head": "deployer",
+   "full_np": "THE DEPLOYER",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 49,
+  "subject": {
+   "head": "deployer",
+   "full_np": "A DEPLOYER",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 51,
+  "subject": {
+   "head": "general",
+   "full_np": "THE ATTORNEY GENERAL",
+   "head_lemma": "general"
+  },
+  "v1_label": "attorney general",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 52,
+  "subject": {
+   "head": "deployer",
+   "full_np": "A DEPLOYER",
+   "head_lemma": "deployer"
+  },
+  "v1_label": "deployer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "co_sb205",
+  "sent_id": 78,
+  "subject": {
+   "head": "general",
+   "full_np": "THE ATTORNEY GENERAL",
+   "head_lemma": "general"
+  },
+  "v1_label": "attorney general",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 19,
+  "subject": {
+   "head": "agency",
+   "full_np": "A governmental agency that makes available an\n\n\u00a0\n\nartificial intelligence system intended to interact with consumers",
+   "head_lemma": "agency"
+  },
+  "v1_label": "artificial intelligence system",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 24,
+  "subject": {
+   "head": "person",
+   "full_np": "A person",
+   "head_lemma": "person"
+  },
+  "v1_label": "person",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 29,
+  "subject": {
+   "head": "term",
+   "full_np": "The term",
+   "head_lemma": "term"
+  },
+  "v1_label": "The term",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 30,
+  "subject": {
+   "head": "person",
+   "full_np": "A person",
+   "head_lemma": "person"
+  },
+  "v1_label": "person",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 36,
+  "subject": {
+   "head": "person",
+   "full_np": "A person",
+   "head_lemma": "person"
+  },
+  "v1_label": "person",
+  "v1_category": "generic"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 46,
+  "subject": {
+   "head": "general",
+   "full_np": "general",
+   "head_lemma": "general"
+  },
+  "v1_label": "general",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 47,
+  "subject": {
+   "head": "the",
+   "full_np": "the",
+   "head_lemma": "the"
+  },
+  "v1_label": "the",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 50,
+  "subject": {
+   "head": "general",
+   "full_np": "The attorney general",
+   "head_lemma": "general"
+  },
+  "v1_label": "attorney general",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 52,
+  "subject": {
+   "head": "defendant",
+   "full_np": "A defendant in an action under this section",
+   "head_lemma": "defendant"
+  },
+  "v1_label": "A defendant in an action under this sect",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 61,
+  "subject": {
+   "head": "the",
+   "full_np": "a) The",
+   "head_lemma": "the"
+  },
+  "v1_label": "a) The",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 64,
+  "subject": {
+   "head": "form",
+   "full_np": "The form",
+   "head_lemma": "form"
+  },
+  "v1_label": "The form",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 65,
+  "subject": {
+   "head": "participant",
+   "full_np": "program participant approved by the department and each applicable\n\n\u00a0\n\nagency",
+   "head_lemma": "participant"
+  },
+  "v1_label": "department",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 66,
+  "subject": {
+   "head": "department",
+   "full_np": "The department",
+   "head_lemma": "department"
+  },
+  "v1_label": "department",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 67,
+  "subject": {
+   "head": "department",
+   "full_np": "The department",
+   "head_lemma": "department"
+  },
+  "v1_label": "department",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 69,
+  "subject": {
+   "head": "participant",
+   "full_np": "A program participant",
+   "head_lemma": "participant"
+  },
+  "v1_label": "program",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 70,
+  "subject": {
+   "head": "report",
+   "full_np": "The report",
+   "head_lemma": "report"
+  },
+  "v1_label": "The report",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 71,
+  "subject": {
+   "head": "the",
+   "full_np": "The",
+   "head_lemma": "the"
+  },
+  "v1_label": "The",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 72,
+  "subject": {
+   "head": "report",
+   "full_np": "The report",
+   "head_lemma": "report"
+  },
+  "v1_label": "The report",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 81,
+  "subject": {
+   "head": "department",
+   "full_np": "The Department of Information Resources and the council",
+   "head_lemma": "department"
+  },
+  "v1_label": "council",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 83,
+  "subject": {
+   "head": "governor",
+   "full_np": "The governor",
+   "head_lemma": "governor"
+  },
+  "v1_label": "The governor",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 84,
+  "subject": {
+   "head": "members",
+   "full_np": "Members of the council",
+   "head_lemma": "member"
+  },
+  "v1_label": "council",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 85,
+  "subject": {
+   "head": "council",
+   "full_np": "The council",
+   "head_lemma": "council"
+  },
+  "v1_label": "council",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 89,
+  "subject": {
+   "head": "council",
+   "full_np": "The council",
+   "head_lemma": "council"
+  },
+  "v1_label": "council",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 90,
+  "subject": {
+   "head": "council",
+   "full_np": "The council",
+   "head_lemma": "council"
+  },
+  "v1_label": "council",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 91,
+  "subject": {
+   "head": "the",
+   "full_np": "The",
+   "head_lemma": "the"
+  },
+  "v1_label": "The",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "tx_traiga",
+  "sent_id": 92,
+  "subject": {
+   "head": "council",
+   "full_np": "The council",
+   "head_lemma": "council"
+  },
+  "v1_label": "council",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 60,
+  "subject": {
+   "head": "employer",
+   "full_np": "an employer",
+   "head_lemma": "employer"
+  },
+  "v1_label": "employer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 69,
+  "subject": {
+   "head": "employer",
+   "full_np": "The employer",
+   "head_lemma": "employer"
+  },
+  "v1_label": "employer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 73,
+  "subject": {
+   "head": "nothing",
+   "full_np": "Nothing in this Section",
+   "head_lemma": "nothing"
+  },
+  "v1_label": "Nothing in this Section",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 82,
+  "subject": {
+   "head": "employer",
+   "full_np": "the employer",
+   "head_lemma": "employer"
+  },
+  "v1_label": "employer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 83,
+  "subject": {
+   "head": "employee",
+   "full_np": "The employee",
+   "head_lemma": "employee"
+  },
+  "v1_label": "The employee",
+  "v1_category": "unclassified"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 87,
+  "subject": {
+   "head": "employer",
+   "full_np": "No employer",
+   "head_lemma": "employer"
+  },
+  "v1_label": "employer",
+  "v1_category": "regulated_entity"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 97,
+  "subject": {
+   "head": "department",
+   "full_np": "the Department",
+   "head_lemma": "department"
+  },
+  "v1_label": "department",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 98,
+  "subject": {
+   "head": "department",
+   "full_np": "the Department",
+   "head_lemma": "department"
+  },
+  "v1_label": "department",
+  "v1_category": "government"
+ },
+ {
+  "law_id": "il_hb3773",
+  "sent_id": 101,
+  "subject": {
+   "head": "employer",
+   "full_np": "an employer",
+   "head_lemma": "employer"
+  },
+  "v1_label": "employer",
+  "v1_category": "regulated_entity"
+ }
+]

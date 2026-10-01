@@ -1,0 +1,66 @@
+{
+ "cn_algorithms": {
+  "words": 2558,
+  "cjk_chars": 0,
+  "articles_found": 35,
+  "article_max": 35,
+  "head": "Chapter I: General Provisions |  | Article 1: These Provisions are drafted on the basis of the Cybersecurity Law of the PRC, the PRC Data Security Law, the Personal",
+  "tail": " Industry and Information, Ministry of Public Security, and State Administration for Market Regulation, is responsible for interpreting these Provisions. |  | Article 35: These Provisions are to take effect on March 1, 2022."
+ },
+ "cn_deep_synthesis": {
+  "words": 2024,
+  "cjk_chars": 0,
+  "articles_found": 25,
+  "article_max": 25,
+  "head": "Chapter I: General Provisions |  | Article 1: These Provisions are drafted on the basis of the Cybersecurity Law of the PRC, the PRC Data Security Law, the Personal",
+  "tail": "ogramming activities, they shall concurrently comply with the provisions of departments for news publication, culture and tourism, and radio and television. |  | Article 25: These rules shall take effect on January 10, 2023."
+ },
+ "cn_ai_labeling": {
+  "words": 1226,
+  "cjk_chars": 0,
+  "articles_found": 14,
+  "article_max": 14,
+  "head": "Article 1: These Measures are drafted on the basis of the PRC Cybersecurity Law, the Provisions on the Management of Algorithmic Recommendations in Internet Inf",
+  "tail": "tions, public security, television, and radio are to address it in accordance with relevant laws, administrative regulations, and departmental rules. |  | Article 14: These measures are to take effect from September 1, 2025."
+ },
+ "cn_pipl": {
+  "words": 5733,
+  "cjk_chars": 0,
+  "articles_found": 74,
+  "article_max": 74,
+  "head": "Chapter I: General Provisions |  | Article 1: This Law is drafted on the basis of the Constitution to protect rights and interests in personal information, to regul",
+  "tail": " which personal information is handled so that it cannot be used to identify a specific natural person and cannot be restored after being so handled. |  | Article 74: This Law is to be implemented beginning November 1, 2021."
+ },
+ "eu_dsa": {
+  "words": 33281,
+  "cjk_chars": 0,
+  "articles_found": 93,
+  "article_max": 93,
+  "head": "CHAPTER I |  | GENERAL PROVISIONS |  | Article 1 |  | Subject matter |  | 1. The aim of this Regulation is to contribute to the proper functioning of the internal market for in",
+  "tail": "), Article 43 and Sections 4, 5 and 6 of Chapter IV shall apply from 16 November 2022. |  | This Regulation shall be binding in its entirety and directly applicable in all Member States. |  | Done at Strasbourg, 19 October 2022."
+ },
+ "kr_pipa": {
+  "words": 29786,
+  "cjk_chars": 0,
+  "articles_found": 137,
+  "article_max": 76,
+  "head": "Article 1 (Purpose) |  | The purpose of this Act is to protect the freedom and rights of individuals, and further, to realize the dignity and value of the individua",
+  "tail": "cy impact assessment under Article 33 (1)) shall conduct a privacy impact assessment within two years after the enforcement date of this Act and submit the result thereof to the Protection Commission. | Article 11 Omitted."
+ },
+ "co_sb26_189": {
+  "words": 5706,
+  "cjk_chars": 0,
+  "articles_found": 0,
+  "article_max": null,
+  "head": "SENATE BILL 26-189  | BY SENATOR(S) Rodriguez and Coleman, Baisley, Amabile, Ball,  | Benavidez, Bridges, Cutter, Exum, Frizell, Kirkmeyer, Kolker, Lindstedt,  | Marc",
+  "tail": " declares that this act is necessary for the immediate  | preservation of the public peace, health, or safety or for appropriations for  | the support and maintenance of the departments of the state and state  | institutions. | "
+ },
+ "co_sb21_190": {
+  "words": 8421,
+  "cjk_chars": 0,
+  "articles_found": 0,
+  "article_max": null,
+  "head": "SENATE BILL 21-190  | BY SENATOR(S) Rodriguez and Lundeen, Bridges, Buckner, Coleman,  | Cooke, Danielson, Donovan, Fenberg, Gardner, Ginal, Gonzales, Hansen,  | Hise",
+  "tail": "ffect July 1, 2023, or on the date of the official declaration of the vote  | thereon by the governor, whichever is later.  | (2) This act applies to conduct occurring on or after the applicable  | effective date of this act. | "
+ }
+}

@@ -1,0 +1,572 @@
+law_id,sent_id,subject,head_phrase,v1_label,v1_category,v2_label,v2_category,changed
+eu_ai_act,7,This Regulation,regulation,This Regulation,unclassified,,unclassified,False
+eu_ai_act,12,This Regulation,regulation,This Regulation,unclassified,,unclassified,False
+eu_ai_act,16,This Regulation,regulation,This Regulation,unclassified,,unclassified,False
+eu_ai_act,32,each use for the purposes of law enforcement of a ‘real-time’ remote biometric identification system in publicly accessible spaces,use,each use for the purposes of law enforce,unclassified,,unclassified,False
+eu_ai_act,35,The competent judicial authority or an independent administrative authority whose decision is binding,competent judicial authority,authority,government,authority,government,False
+eu_ai_act,36,that authority,authority,authority,government,authority,government,False
+eu_ai_act,40,The notification,notification,The notification,unclassified,,unclassified,False
+eu_ai_act,41,Member State,member state,state,government,member state,government,False
+eu_ai_act,42,Member States concerned,member states,state,government,member state,government,False
+eu_ai_act,44,Member States,member states,state,government,member state,government,False
+eu_ai_act,45,Member States,member states,state,government,member state,government,False
+eu_ai_act,48,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,50,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,51,Those annual reports,annual reports,Those annual reports,unclassified,,unclassified,False
+eu_ai_act,52,This Article,article,This Article,unclassified,,unclassified,False
+eu_ai_act,63,Such provider,such provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,64,the provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,67,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,71,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,74,Any amendment to the conditions laid down in paragraph,amendment,Any amendment to the conditions laid dow,unclassified,,unclassified,False
+eu_ai_act,81,a,a,a,unclassified,,unclassified,False
+eu_ai_act,86,Testing,testing,Testing,unclassified,,unclassified,False
+eu_ai_act,89,Testing procedures,testing procedures,Testing procedures,unclassified,,unclassified,False
+eu_ai_act,92,providers,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,93,that,that,that,unclassified,that,anaphoric,True
+eu_ai_act,96,"Training, validation and testing data sets",data sets,"Training, validation and testing data se",unclassified,,unclassified,False
+eu_ai_act,101,it,it,it,unclassified,it,anaphoric,True
+eu_ai_act,107,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,108,"SMEs, including start-ups,",smes,"SMEs, including start-ups,",unclassified,,unclassified,False
+eu_ai_act,109,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,111,Notified bodies,notified bodies,notified bodies,generic,notified body,government,True
+eu_ai_act,123,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,126,High-risk AI systems,high risk ai systems,High-risk AI systems,unclassified,,unclassified,False
+eu_ai_act,132,High-risk AI systems,high risk ai systems,High-risk AI systems,unclassified,,unclassified,False
+eu_ai_act,133,The technical solutions aiming to ensure the cybersecurity of high-risk AI systems,technical solutions,The technical solutions aiming to ensure,unclassified,,unclassified,False
+eu_ai_act,134,The technical solutions to address AI specific vulnerabilities,technical solutions,The technical solutions to address AI sp,unclassified,,unclassified,False
+eu_ai_act,144,Providers of high-risk AI systems that are subject to obligations regarding quality management systems or an equivalent function under relevant sectoral Union law,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,150,"Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law",providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,153,Providers of high-risk AI systems,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,156,"Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law",providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,157,They,they,They,unclassified,they,anaphoric,True
+eu_ai_act,158,the high-risk AI system,high risk ai system,the high-risk AI system,unclassified,,unclassified,False
+eu_ai_act,163,providers,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,165,The provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,167,The authorised representative,authorised representative,The authorised representative,unclassified,authorised representative,regulated_entity,True
+eu_ai_act,168,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,170,it,it,it,unclassified,it,anaphoric,True
+eu_ai_act,178,Importers,importers,importer,regulated_entity,importer,regulated_entity,False
+eu_ai_act,182,Importers,importers,importer,regulated_entity,importer,regulated_entity,False
+eu_ai_act,185,the high-risk AI system,high risk ai system,the high-risk AI system,unclassified,,unclassified,False
+eu_ai_act,186,Distributors,distributors,distributor,regulated_entity,distributor,regulated_entity,False
+eu_ai_act,188,"A distributor that considers or has reason to consider, on the basis of the information in its possession,",distributor,distributor,regulated_entity,distributor,regulated_entity,False
+eu_ai_act,189,the high-risk AI system,high risk ai system,the high-risk AI system,unclassified,,unclassified,False
+eu_ai_act,192,distributors of a high-risk AI system,distributors,distributor,regulated_entity,distributor,regulated_entity,False
+eu_ai_act,206,This paragraph,paragraph,This paragraph,unclassified,,unclassified,False
+eu_ai_act,209,the AI Office,ai office,office,government,office,government,False
+eu_ai_act,214,"Obligations of deployers of high-risk AI systems
+
+",obligations,deployer,regulated_entity,,unclassified,True
+eu_ai_act,217,the deployer,deployer,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,218,Deployers,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,219,deployers,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,220,deployers,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,221,the deployer,deployer,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,222,This obligation,obligation,This obligation,unclassified,,unclassified,False
+eu_ai_act,226,Deployers of high-risk AI systems,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,227,"Deployers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law",deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,231,deployers who are employers,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,236,"Deployers of high-risk AI systems that are public authorities, or Union institutions, bodies, offices or agencies",deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,240,deployers of high-risk AI systems,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,251,This subparagraph,subparagraph,This subparagraph,unclassified,,unclassified,False
+eu_ai_act,253,Deployers,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,255,Member States,member states,state,government,member state,government,False
+eu_ai_act,258,deployers of high-risk AI systems referred to in Annex,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,259,For high-risk AI systems used for law enforcement purposes Article,article,For high-risk AI systems used for law en,unclassified,,unclassified,False
+eu_ai_act,262,The deployer,deployer,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,263,the deployer,deployer,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,266,deployers,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,268,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,271,authorities,authorities,authority,government,authority,government,False
+eu_ai_act,272,Competent personnel,competent personnel,person,generic,,unclassified,True
+eu_ai_act,276,the conformity assessment body concerned,conformity assessment body,the conformity assessment body concerned,unclassified,,unclassified,False
+eu_ai_act,279,The notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,281,The notification referred to in paragraph,notification,The notification referred to in paragrap,unclassified,,unclassified,False
+eu_ai_act,284,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,289,Notified bodies,notified bodies,notified bodies,generic,notified body,government,True
+eu_ai_act,290,Notified bodies,notified bodies,notified bodies,generic,notified body,government,True
+eu_ai_act,291,This,this,This,unclassified,this,anaphoric,True
+eu_ai_act,297,This,this,This,unclassified,this,anaphoric,True
+eu_ai_act,299,Notified bodies,notified bodies,notified bodies,generic,notified body,government,True
+eu_ai_act,303,Notified bodies,notified bodies,notified bodies,generic,notified body,government,True
+eu_ai_act,306,Notified bodies,notified bodies,notified bodies,generic,notified body,government,True
+eu_ai_act,307,The notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,309,Notified bodies,notified bodies,notified bodies,generic,notified body,government,True
+eu_ai_act,314,notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,317,Notified bodies,notified bodies,notified bodies,generic,notified body,government,True
+eu_ai_act,320,The notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,326,The notifying authority,notifying authority,authority,government,authority,government,False
+eu_ai_act,327,The procedures laid down in Articles,procedures,The procedures laid down in Articles,unclassified,,unclassified,False
+eu_ai_act,328,the procedures laid down in paragraphs (3) to (9),procedures,the procedures laid down in paragraphs (,unclassified,,unclassified,False
+eu_ai_act,329,notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,330,The certificates of the notified body,certificates,notified body,generic,,unclassified,True
+eu_ai_act,331,The latter notified body,latter notified body,notified body,generic,notified body,government,True
+eu_ai_act,332,the notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,336,notifying authority,notifying authority,authority,government,authority,government,False
+eu_ai_act,337,it,it,it,unclassified,it,anaphoric,True
+eu_ai_act,339,it,it,it,unclassified,it,anaphoric,True
+eu_ai_act,340,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,353,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,354,the Member State,member state,state,government,member state,government,False
+eu_ai_act,356,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,357,The standardisation request,standardisation request,The standardisation request,unclassified,,unclassified,False
+eu_ai_act,358,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,359,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,360,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,363,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,371,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,375,providers,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,376,A,a,A,unclassified,,unclassified,False
+eu_ai_act,389,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,392,Certificates,certificates,Certificates,unclassified,,unclassified,False
+eu_ai_act,395,the certificate which it supplements,certificate,the certificate which it supplements,unclassified,,unclassified,False
+eu_ai_act,400,The notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,401,"An appeal procedure against decisions of the notified bodies, including on conformity certificates issued,",appeal procedure,notified bodies,generic,,unclassified,True
+eu_ai_act,402,Article,article,Article,unclassified,,unclassified,False
+eu_ai_act,404,Each notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,412,The market surveillance authority,market surveillance authority,authority,government,authority,government,False
+eu_ai_act,413,This obligation,obligation,This obligation,unclassified,,unclassified,False
+eu_ai_act,420,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,422,only the derogations from the conformity assessment established in that Union harmonisation legislation,derogations,only the derogations from the conformity,unclassified,,unclassified,False
+eu_ai_act,429,The EU declaration of conformity,eu declaration,The EU declaration of conformity,unclassified,,unclassified,False
+eu_ai_act,433,The declaration,declaration,The declaration,unclassified,,unclassified,False
+eu_ai_act,434,the provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,435,The provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,441,high-risk AI systems,high risk ai systems,high-risk AI systems,unclassified,,unclassified,False
+eu_ai_act,445,"the provider or, where applicable, the authorised representative",provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,447,Only the Commission and national authorities referred to in Article,commission,commission,government,commission,government,False
+eu_ai_act,451,This obligation,obligation,This obligation,unclassified,,unclassified,False
+eu_ai_act,455,This obligation,obligation,This obligation,unclassified,,unclassified,False
+eu_ai_act,456,Deployers of an emotion recognition system or a biometric categorisation system,deployers,deployer,regulated_entity,deployer,regulated_entity,False
+eu_ai_act,464,The information,information,The information,unclassified,,unclassified,False
+eu_ai_act,465,Paragraphs,paragraphs,Paragraphs,unclassified,,unclassified,False
+eu_ai_act,466,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,467,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,471,these thresholds,thresholds,these thresholds,unclassified,,unclassified,False
+eu_ai_act,482,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,485,Such a,such a,Such a,unclassified,,unclassified,False
+eu_ai_act,486,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,487,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,492,the information and documentation,information,the information and documentation,unclassified,,unclassified,False
+eu_ai_act,496,This exception,exception,This exception,unclassified,,unclassified,False
+eu_ai_act,497,Providers of general-purpose AI models,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,501,Providers of general-purpose AI models who do not adhere to an approved code of practice or do not comply with a European harmonised standard,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,508,The provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,510,The authorised representative,authorised representative,The authorised representative,unclassified,authorised representative,regulated_entity,True
+eu_ai_act,511,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,513,it,it,it,unclassified,it,anaphoric,True
+eu_ai_act,522,Providers of general-purpose AI models with systemic risks who do not adhere to an approved code of practice or do not comply with a European harmonised standard,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,528,"organisations, industry, academia and other relevant stakeholders, such as downstream providers and independent experts,",organisations,provider,regulated_entity,organization,regulated_entity,False
+eu_ai_act,529,The AI Office and the Board,ai office,board,government,office,government,False
+eu_ai_act,533,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,534,Key performance indicators and reporting commitments,key performance indicators,Key performance indicators and reporting,unclassified,,unclassified,False
+eu_ai_act,538,The AI Office and the Board,ai office,board,government,office,government,False
+eu_ai_act,539,The AI Office and the Board,ai office,board,government,office,government,False
+eu_ai_act,540,They,they,They,unclassified,they,anaphoric,True
+eu_ai_act,541,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,544,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,549,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,550,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,553,Codes of practice,codes,Codes of practice,unclassified,,unclassified,False
+eu_ai_act,554,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,559,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,562,The European Data Protection Supervisor,european data protection supervisor,The European Data Protection Supervisor,unclassified,,unclassified,False
+eu_ai_act,564,Member States,member states,state,government,member state,government,False
+eu_ai_act,565,national competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,566,This Article,article,This Article,unclassified,,unclassified,False
+eu_ai_act,567,Member States,member states,state,government,member state,government,False
+eu_ai_act,570,Such sandboxes,such sandboxes,Such sandboxes,unclassified,,unclassified,False
+eu_ai_act,571,Competent authorities,competent authorities,authority,government,competent authority,government,False
+eu_ai_act,574,Competent authorities,competent authorities,authority,government,competent authority,government,False
+eu_ai_act,576,the competent authority,competent authority,authority,government,competent authority,government,False
+eu_ai_act,577,The competent authority,competent authority,authority,government,competent authority,government,False
+eu_ai_act,578,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,587,Any significant risks to health and safety and fundamental rights identified during the development and testing of such AI systems,significant risks,Any significant risks to health and safe,unclassified,,unclassified,False
+eu_ai_act,588,National competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,589,National competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,591,Providers and prospective providers participating in the AI regulatory sandbox,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,597,National competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,599,National competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,600,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,604,National competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,605,Those reports,reports,Those reports,unclassified,,unclassified,False
+eu_ai_act,606,The national competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,607,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,608,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,609,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,616,they,they,they,unclassified,they,anaphoric,True
+eu_ai_act,621,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,623,This paragraph,paragraph,This paragraph,unclassified,,unclassified,False
+eu_ai_act,624,Providers or prospective providers,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,631,The withdrawal of the informed consent,withdrawal,The withdrawal of the informed consent,unclassified,,unclassified,False
+eu_ai_act,634,Member States,member states,state,government,member state,government,False
+eu_ai_act,635,Market surveillance authorities,market surveillance authorities,authority,government,authority,government,False
+eu_ai_act,638,The provider or prospective provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,639,The provider or prospective provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,651,The European Data Protection Supervisor,european data protection supervisor,The European Data Protection Supervisor,unclassified,,unclassified,False
+eu_ai_act,652,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,659,The designated representatives of the Member States,designated representatives,state,government,,unclassified,True
+eu_ai_act,660,The rules of procedure,rules,The rules of procedure,unclassified,,unclassified,False
+eu_ai_act,663,The Board,board,board,government,board,government,False
+eu_ai_act,664,The standing sub,standing sub,The standing sub,unclassified,,unclassified,False
+eu_ai_act,665,The Board,board,board,government,board,government,False
+eu_ai_act,668,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,671,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,677,"The Fundamental Rights Agency, ENISA, the European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC), and the European Telecommunications Standards Institute (ETSI)",fundamental rights agency,agency,government,agency,government,False
+eu_ai_act,681,The advisory forum,advisory forum,The advisory forum,unclassified,,unclassified,False
+eu_ai_act,682,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,683,The term of office of the co-chairs,term,office,government,,unclassified,True
+eu_ai_act,687,The advisory forum,advisory forum,The advisory forum,unclassified,,unclassified,False
+eu_ai_act,688,The advisory forum,advisory forum,The advisory forum,unclassified,,unclassified,False
+eu_ai_act,689,The advisory forum,advisory forum,The advisory forum,unclassified,,unclassified,False
+eu_ai_act,692,The advisory forum,advisory forum,The advisory forum,unclassified,,unclassified,False
+eu_ai_act,696,The advisory forum,advisory forum,The advisory forum,unclassified,,unclassified,False
+eu_ai_act,700,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,702,The scientific panel,scientific panel,The scientific panel,unclassified,,unclassified,False
+eu_ai_act,704,The scientific panel,scientific panel,The scientific panel,unclassified,,unclassified,False
+eu_ai_act,705,They,they,They,unclassified,they,anaphoric,True
+eu_ai_act,707,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,710,The implementing act referred to in paragraph,implementing act,The implementing act referred to in para,unclassified,,unclassified,False
+eu_ai_act,712,Member States,member states,state,government,member state,government,False
+eu_ai_act,718,Those national competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,719,The members of those authorities,members,The members of those authorities,unclassified,,unclassified,False
+eu_ai_act,724,Member States,member states,state,government,member state,government,False
+eu_ai_act,726,Member States,member states,state,government,member state,government,False
+eu_ai_act,727,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,732,the national competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,733,Member States,member states,state,government,member state,government,False
+eu_ai_act,734,National competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,735,the national competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,736,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,737,National competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,740,"Union institutions, bodies, offices or agencies",union institutions,office,government,,unclassified,True
+eu_ai_act,744,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,747,the information contained in the EU database registered in accordance with Article,information,the information contained in the EU data,unclassified,,unclassified,False
+eu_ai_act,748,The information registered in accordance with Article,information,The information registered in accordance,unclassified,,unclassified,False
+eu_ai_act,752,The EU database,eu database,The EU database,unclassified,,unclassified,False
+eu_ai_act,753,That information,information,That information,unclassified,,unclassified,False
+eu_ai_act,756,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,757,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,758,The EU database,eu database,The EU database,unclassified,,unclassified,False
+eu_ai_act,759,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,761,post-market monitoring,post - market monitoring,post-market monitoring,unclassified,,unclassified,False
+eu_ai_act,762,This obligation,obligation,This obligation,unclassified,,unclassified,False
+eu_ai_act,764,The post-market monitoring plan,post - market monitoring plan,The post-market monitoring plan,unclassified,,unclassified,False
+eu_ai_act,768,Article,article,Article,unclassified,,unclassified,False
+eu_ai_act,770,The period for the reporting referred to in the first subparagraph,period,The period for the reporting referred to,unclassified,,unclassified,False
+eu_ai_act,777,"the provider or, where applicable, the deployer",provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,781,the provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,782,This,this,This,unclassified,this,anaphoric,True
+eu_ai_act,783,The provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,787,the relevant market surveillance authority,relevant market surveillance authority,authority,government,authority,government,False
+eu_ai_act,788,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,795,National competent authorities,national competent authorities,authority,government,competent authority,government,False
+eu_ai_act,797,the market surveillance authorities,market surveillance authorities,authority,government,authority,government,False
+eu_ai_act,798,They,they,They,unclassified,they,anaphoric,True
+eu_ai_act,801,the market surveillance authority,market surveillance authority,authority,government,authority,government,False
+eu_ai_act,802,States,states,state,government,state,government,False
+eu_ai_act,803,The procedures referred to in Articles,procedures,The procedures referred to in Articles,unclassified,,unclassified,False
+eu_ai_act,804,the relevant sectoral procedures,relevant sectoral procedures,the relevant sectoral procedures,unclassified,,unclassified,False
+eu_ai_act,807,market surveillance authorities,market surveillance authorities,authority,government,authority,government,False
+eu_ai_act,810,the market surveillance authority,market surveillance authority,authority,government,authority,government,False
+eu_ai_act,812,"National market surveillance authorities supervising regulated credit institutions regulated under Directive 2013/36/EU, which are participating in the Single Supervisory Mechanism established by Regulation (EU) No",national market surveillance authorities,authority,government,authority,government,False
+eu_ai_act,814,Market surveillance activities,market surveillance activities,Market surveillance activities,unclassified,,unclassified,False
+eu_ai_act,815,"Union institutions, bodies, offices or agencies",union institutions,office,government,,unclassified,True
+eu_ai_act,817,Member States,member states,state,government,member state,government,False
+eu_ai_act,820,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,825,the AI Office,ai office,office,government,office,government,False
+eu_ai_act,829,the AI Office,ai office,office,government,office,government,False
+eu_ai_act,830,Market surveillance authorities,market surveillance authorities,authority,government,authority,government,False
+eu_ai_act,831,The procedure provided for in Chapter,procedure,The procedure provided for in Chapter,unclassified,,unclassified,False
+eu_ai_act,839,"National public authorities or bodies which supervise or enforce the respect of obligations under Union law protecting fundamental rights, including the right to non-discrimination",national public authorities,authority,government,authority,government,False
+eu_ai_act,840,The relevant public authority or body,relevant public authority,authority,government,authority,government,False
+eu_ai_act,841,each Member State,member state,state,government,member state,government,False
+eu_ai_act,842,Member States,member states,state,government,member state,government,False
+eu_ai_act,843,the documentation referred to in paragraph,documentation,the documentation referred to in paragra,unclassified,,unclassified,False
+eu_ai_act,844,The market surveillance authority,market surveillance authority,authority,government,authority,government,False
+eu_ai_act,849,This exchange of information,exchange,This exchange of information,unclassified,,unclassified,False
+eu_ai_act,850,"the law enforcement, immigration or asylum authorities",authorities,authority,government,authority,government,False
+eu_ai_act,854,an AI system,ai system,an AI system,unclassified,,unclassified,False
+eu_ai_act,857,The relevant operators,relevant operators,operator,regulated_entity,operator,regulated_entity,False
+eu_ai_act,858,"the market surveillance authority or, where applicable the market surveillance authority",market surveillance authority,authority,government,authority,government,False
+eu_ai_act,860,The market surveillance authority,market surveillance authority,authority,government,authority,government,False
+eu_ai_act,861,Article,article,Article,unclassified,,unclassified,False
+eu_ai_act,865,That authority,authority,authority,government,authority,government,False
+eu_ai_act,867,The notification referred to in paragraph,notification,The notification referred to in paragrap,unclassified,,unclassified,False
+eu_ai_act,868,the market surveillance authorities,market surveillance authorities,authority,government,authority,government,False
+eu_ai_act,870,The market surveillance authorities other than the market surveillance authority of the Member State initiating the procedure,market surveillance authorities,authority,government,authority,government,False
+eu_ai_act,873,This,this,This,unclassified,this,anaphoric,True
+eu_ai_act,878,market surveillance authority,market surveillance authority,authority,government,authority,government,False
+eu_ai_act,879,the market surveillance authority,market surveillance authority,authority,government,authority,government,False
+eu_ai_act,885,the provider of an AI system concerned,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,889,the provider of the AI system concerned,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,895,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,899,The Member States,member states,state,government,member state,government,False
+eu_ai_act,900,That information,information,That information,unclassified,,unclassified,False
+eu_ai_act,902,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,905,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,906,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,912,any natural or legal person having grounds to consider that there has been an infringement of the provisions of this Regulation,natural person,person,generic,natural person,generic,False
+eu_ai_act,914,Paragraph,paragraph,Paragraph,unclassified,,unclassified,False
+eu_ai_act,916,Article,article,Article,unclassified,,unclassified,False
+eu_ai_act,919,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,920,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,922,market surveillance authorities,market surveillance authorities,authority,government,authority,government,False
+eu_ai_act,926,the AI Office,ai office,office,government,office,government,False
+eu_ai_act,927,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,930,the provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,931,Lawyers duly authorised to act,lawyers,Lawyers duly authorised to act,unclassified,,unclassified,False
+eu_ai_act,932,The clients,clients,The clients,unclassified,,unclassified,False
+eu_ai_act,934,The AI Office,ai office,office,government,office,government,False
+eu_ai_act,938,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,939,Independent experts appointed for this task,independent experts,Independent experts appointed for this t,unclassified,,unclassified,False
+eu_ai_act,941,the provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,945,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,947,the AI Office,ai office,office,government,office,government,False
+eu_ai_act,948,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,958,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,964,A,a,A,unclassified,,unclassified,False
+eu_ai_act,965,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,966,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,967,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,968,it,it,it,unclassified,it,anaphoric,True
+eu_ai_act,973,That committee,committee,That committee,unclassified,committee,government,True
+eu_ai_act,982,The penalties provided for,penalties,The penalties provided for,unclassified,,unclassified,False
+eu_ai_act,983,They,they,They,unclassified,they,anaphoric,True
+eu_ai_act,985,The Member States,member states,state,government,member state,government,False
+eu_ai_act,986,Non,non,Non,unclassified,,unclassified,False
+eu_ai_act,989,The exercise of powers under this Article,exercise,The exercise of powers under this Articl,unclassified,,unclassified,False
+eu_ai_act,990,Member States,member states,state,government,member state,government,False
+eu_ai_act,993,"Administrative fines on Union institutions, bodies, offices and agencies
+
+",administrative fines,office,government,,unclassified,True
+eu_ai_act,996,The European Data Protection Supervisor,european data protection supervisor,The European Data Protection Supervisor,unclassified,,unclassified,False
+eu_ai_act,1002,Funds collected by imposition of fines in this Article,funds,Funds collected by imposition of fines i,unclassified,,unclassified,False
+eu_ai_act,1003,The fines,fines,The fines,unclassified,,unclassified,False
+eu_ai_act,1006,The European Data Protection Supervisor,european data protection supervisor,The European Data Protection Supervisor,unclassified,,unclassified,False
+eu_ai_act,1009,"Fines for providers of general-purpose AI models
+
+",fines,provider,regulated_entity,,unclassified,True
+eu_ai_act,1011,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,1013,Fines imposed in accordance with this Article,fines,Fines imposed in accordance with this Ar,unclassified,,unclassified,False
+eu_ai_act,1016,The Court of Justice of the European Union,court,The Court of Justice of the European Uni,unclassified,,unclassified,False
+eu_ai_act,1017,It,it,It,unclassified,it,anaphoric,True
+eu_ai_act,1021,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,1047,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,1049,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,1050,The report,report,The report,unclassified,,unclassified,False
+eu_ai_act,1057,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,1059,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,1061,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,1062,"the Board, the Member States and national competent authorities",board,board,government,board,government,False
+eu_ai_act,1063,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,1064,The Commission,commission,commission,government,commission,government,False
+eu_ai_act,1070,the Commission,commission,commission,government,commission,government,False
+eu_ai_act,1107,"Regulations (EC) No 2111/2005, (EC) No",regulations,"Regulations (EC) No 2111/2005, (EC) No",unclassified,,unclassified,False
+eu_ai_act,1148,who,who,who,unclassified,who,anaphoric,True
+eu_ai_act,1172,The notification,notification,The notification,unclassified,,unclassified,False
+eu_ai_act,1175,The notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,1176,The notification,notification,The notification,unclassified,,unclassified,False
+eu_ai_act,1182,the notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,1184,Such access,such access,Such access,unclassified,,unclassified,False
+eu_ai_act,1189,The notification,notification,The notification,unclassified,,unclassified,False
+eu_ai_act,1190,the AI system,ai system,the AI system,unclassified,,unclassified,False
+eu_ai_act,1191,The certificate,certificate,The certificate,unclassified,,unclassified,False
+eu_ai_act,1193,the AI system,ai system,the AI system,unclassified,,unclassified,False
+eu_ai_act,1196,the reasoned assessment decision of the notified body refusing to issue the Union technical documentation assessment certificate,reasoned assessment decision,notified body,generic,,unclassified,True
+eu_ai_act,1199,The provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,1203,the provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,1204,The provider,provider,provider,regulated_entity,provider,regulated_entity,False
+eu_ai_act,1205,The notified body,notified body,notified body,generic,notified body,government,True
+eu_ai_act,1219,Regulation (EU) 2021/1133 of the European Parliament and of the Council of,regulation,council,government,,unclassified,True
+eu_ai_act,1222,Evaluation strategies,evaluation strategies,Evaluation strategies,unclassified,,unclassified,False
+china_genai,18,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,20,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,22,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,23,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,25,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,27,providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,28,providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,29,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,33,Those providing generative AI services with public opinion properties or the capacity for social mobilization,those,Those providing generative AI services w,unclassified,those,anaphoric,True
+china_genai,35,Providers,providers,provider,regulated_entity,provider,regulated_entity,False
+china_genai,38,generative AI services provided from outside the \[mainland\] PRC,generative ai services,generative AI services provided from out,unclassified,,unclassified,False
+china_genai,46,Foreign investment in generative AI services,foreign investment,Foreign investment in generative AI serv,unclassified,,unclassified,False
+south_korea,11,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,16,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,18,National and local governments,national governments,government,government,government,government,False
+south_korea,21,the government,government,government,government,government,government,False
+south_korea,26,The Act,act,The Act,unclassified,,unclassified,False
+south_korea,30,The terms used in this Act,terms,The terms used in this Act,unclassified,,unclassified,False
+south_korea,35,AI technology and the AI industry,ai technology,ai industry,regulated_entity,,unclassified,True
+south_korea,36,An Affected Person,affected person,affected person,regulated_entity,affected person,generic,True
+south_korea,38,The national and local governments,national governments,government,government,government,government,False
+south_korea,51,this Act,act,this Act,unclassified,,unclassified,False
+south_korea,53,such legislation,such legislation,such legislation,unclassified,,unclassified,False
+south_korea,55,The AI Basic Plan,ai basic plan,The AI Basic Plan,unclassified,,unclassified,False
+south_korea,57,the Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,58,the Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,60,The heads of relevant central administrative agencies and local governments,heads,government,government,,unclassified,True
+south_korea,70,The Committee,committee,The Committee,unclassified,committee,government,True
+south_korea,71,No member of the Committee,member,No member of the Committee,unclassified,,unclassified,False
+south_korea,72,The Chairperson,chairperson,person,generic,,unclassified,True
+south_korea,86,the Committee,committee,the Committee,unclassified,committee,government,True
+south_korea,87,a member,member,a member,unclassified,,unclassified,False
+south_korea,89,The Committee,committee,The Committee,unclassified,committee,government,True
+south_korea,90,The Committee,committee,The Committee,unclassified,committee,government,True
+south_korea,91,The Committee,committee,The Committee,unclassified,committee,government,True
+south_korea,95,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,101,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,116,The Government,government,government,government,government,government,False
+south_korea,119,The Government,government,government,government,government,government,False
+south_korea,123,The Government,government,government,government,government,government,False
+south_korea,124,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,127,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,130,The Government,government,government,government,government,government,False
+south_korea,132,The Government,government,government,government,government,government,False
+south_korea,133,The Government,government,government,government,government,government,False
+south_korea,134,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,135,The Government,government,government,government,government,government,False
+south_korea,137,national and local governments,national governments,government,government,government,government,False
+south_korea,138,national and local governments,national governments,government,government,government,government,False
+south_korea,143,The Association,association,The Association,unclassified,,unclassified,False
+south_korea,146,the Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,147,the provisions of the Civil Act concerning incorporated associations,provisions,the provisions of the Civil Act concerni,unclassified,,unclassified,False
+south_korea,153,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,160,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,167,AI business operators,ai business operators,ai business operator,regulated_entity,operator,regulated_entity,False
+south_korea,171,the Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,173,"AI business operators that provide high-impact AI systems, or products or services utilizing such systems,",ai business operators,high-impact ai,regulated_entity,operator,regulated_entity,False
+south_korea,178,"AI business operators without a domestic address or place of business in the Republic of Korea, whose number of users, revenue, etc. meet the criteria prescribed by Presidential Decree",ai business operators,ai business operator,regulated_entity,operator,regulated_entity,False
+south_korea,182,The State,state,state,government,state,government,False
+south_korea,184,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,185,The national and local governments,national governments,government,government,government,government,False
+south_korea,186,The national and local governments,national governments,government,government,government,government,False
+south_korea,193,The Minister of Science and ICT,minister,minister,government,minister,government,False
+south_korea,194,the Minister,minister,minister,government,minister,government,False
+south_korea,195,The requested entities,requested entities,entities,generic,entity,generic,False
+south_korea,200,The Minister of Science and ICT or the head of a relevant central administrative agency,minister,agency,government,minister,government,False
+south_korea,201,the Mayor/Provincial Governor,mayor,the Mayor/Provincial Governor,unclassified,,unclassified,False
+south_korea,204,The Government,government,government,government,government,government,False
+south_korea,222,This Act,act,This Act,unclassified,,unclassified,False
+south_korea,223,the provision of Article 2(4)(d) concerning digital medical devices,provision,the provision of Article 2(4)(d) concern,unclassified,,unclassified,False
+south_korea,228,"the appointment of committee members and the formation of subcommittees, special committees, advisory groups, and support teams",appointment,the appointment of committee members and,unclassified,,unclassified,False
+ca_sb1047,51,the developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,54,the developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,65,The developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,73,A developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,74,A developer of a covered model,developer,covered model,regulated_entity,developer,regulated_entity,False
+ca_sb1047,75,a developer of a covered model,developer,covered model,regulated_entity,developer,regulated_entity,False
+ca_sb1047,76,An auditor,auditor,An auditor,unclassified,,unclassified,False
+ca_sb1047,78,The auditor,auditor,The auditor,unclassified,,unclassified,False
+ca_sb1047,81,The developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,84,The developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,86,An auditor,auditor,An auditor,unclassified,,unclassified,False
+ca_sb1047,87,A developer of a covered model,developer,covered model,regulated_entity,developer,regulated_entity,False
+ca_sb1047,89,a developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,91,A developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,93,a developer,developer,developer,regulated_entity,developer,regulated_entity,False
+ca_sb1047,94,This section,section,This section,unclassified,,unclassified,False
+ca_sb1047,104,A person that operates a computing cluster,person,computing cluster,regulated_entity,person,generic,True
+ca_sb1047,105,a person that operates a computing cluster,person,computing cluster,regulated_entity,person,generic,True
+ca_sb1047,125,A developer of a covered model or a contractor or subcontractor of the developer,developer,covered model,regulated_entity,developer,regulated_entity,False
+ca_sb1047,145,The Governor,governor,The Governor,unclassified,,unclassified,False
+ca_sb1047,149,A member,member,A member,unclassified,,unclassified,False
+ca_sb1047,150,A member of the board,member,board,government,,unclassified,True
+ca_sb1047,151,the Government Operations Agency,government operations agency,agency,government,agency,government,False
+ca_sb1047,153,the Government Operations Agency,government operations agency,agency,government,agency,government,False
+ca_sb1047,155,the Government Operations Agency,government operations agency,agency,government,agency,government,False
+ca_sb1047,156,Any guidance issued pursuant to paragraph (1),guidance,Any guidance issued pursuant to paragrap,unclassified,,unclassified,False
+ca_sb1047,184,Information in unredacted safety and security protocols and auditor’s reports,information,safety and security protocol,regulated_entity,,unclassified,True
+ca_sb53,3,This reporting,reporting,This reporting,unclassified,,unclassified,False
+ca_sb53,31,a frontier model,frontier model,frontier model,regulated_entity,,unclassified,True
+ca_sb53,32,a large frontier developer,large frontier developer,frontier developer,regulated_entity,developer,regulated_entity,False
+ca_sb53,33,a frontier developer,frontier developer,frontier developer,regulated_entity,developer,regulated_entity,False
+ca_sb53,38,A large frontier developer,large frontier developer,frontier developer,regulated_entity,developer,regulated_entity,False
+ca_sb53,41,a frontier developer,frontier developer,frontier developer,regulated_entity,developer,regulated_entity,False
+ca_sb53,42,a frontier developer,frontier developer,frontier developer,regulated_entity,developer,regulated_entity,False
+ca_sb53,52,The Office of Emergency Services,office,office,government,office,government,False
+ca_sb53,64,the Department of Technology,department,department,government,department,government,False
+ca_sb53,65,the Department of Technology,department,department,government,department,government,False
+ca_sb53,70,the Department of Technology,department,department,government,department,government,False
+ca_sb53,73,The Attorney General,attorney general,attorney general,government,attorney general,government,False
+ca_sb53,86,The consortium,consortium,The consortium,unclassified,,unclassified,False
+ca_sb53,87,the Government Operations Agency,government operations agency,agency,government,agency,government,False
+ca_sb53,90,This section,section,This section,unclassified,,unclassified,False
+ca_sb53,102,A frontier developer,frontier developer,frontier developer,regulated_entity,developer,regulated_entity,False
+ca_sb53,105,a covered employee,covered employee,covered employee,regulated_entity,,unclassified,True
+ca_sb53,110,the court,court,the court,unclassified,,unclassified,False
+ca_sb53,115,Any temporary injunctive relief,temporary injunctive relief,Any temporary injunctive relief,unclassified,,unclassified,False
+ca_sb53,135,This act,act,This act,unclassified,,unclassified,False
+ca_sb53,140,the Legislature,legislature,the Legislature,unclassified,,unclassified,False
+ca_sb942,18,A covered provider,covered provider,covered provider,regulated_entity,provider,regulated_entity,False
+ca_sb942,21,A covered provider,covered provider,covered provider,regulated_entity,provider,regulated_entity,False
+ca_sb942,31,A covered provider,covered provider,covered provider,regulated_entity,provider,regulated_entity,False
+ca_sb942,33,A covered provider,covered provider,covered provider,regulated_entity,provider,regulated_entity,False
+ca_sb942,38,The disclosure,disclosure,The disclosure,unclassified,,unclassified,False
+ca_sb942,47,"the Attorney General, a county counsel, or a city attorney",attorney general,attorney general,government,attorney general,government,False
+ca_sb942,48,###### 22757.6.,.,###### 22757.6.,unclassified,,unclassified,False
+ca_ab2013,22,A developer,developer,developer,regulated_entity,developer,regulated_entity,False
+co_sb205,25,A,a,A,unclassified,,unclassified,False
+co_sb205,30,THE ATTORNEY GENERAL,attorney general,attorney general,government,attorney general,government,False
+co_sb205,31,"THE
+ATTORNEY GENERAL MAY EVALUATE SUCH STATEMENT OR DOCUMENTATION
+TO ENSURE COMPLIANCE WITH THIS PART 17, AND THE STATEMENT OR
+DOCUMENTATION IS NOT SUBJECT TO DISCLOSURE UNDER THE ""COLORADO
+OPEN RECORDS ACT"", PART 2 OF ARTICLE 72 OF TITLE 24.",the,attorney general,government,,unclassified,True
+co_sb205,32,A DEVELOPER,developer,developer,regulated_entity,developer,regulated_entity,False
+co_sb205,35,A DEPLOYER OF A HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM,deployer,artificial intelligence system,regulated_entity,deployer,regulated_entity,False
+co_sb205,36,"A DEPLOYER OF A HIGH-RISK ARTIFICIAL
+INTELLIGENCE SYSTEM",deployer,deployer,regulated_entity,deployer,regulated_entity,False
+co_sb205,38,PROGRAM,program,PROGRAM,unclassified,,unclassified,False
+co_sb205,44,"A DEPLOYER, OR A THIRD PARTY CONTRACTED BY THE",deployer,deployer,regulated_entity,deployer,regulated_entity,False
+co_sb205,46,A DEPLOYER,deployer,deployer,regulated_entity,deployer,regulated_entity,False
+co_sb205,47,THE DEPLOYER,deployer,deployer,regulated_entity,deployer,regulated_entity,False
+co_sb205,49,A DEPLOYER,deployer,deployer,regulated_entity,deployer,regulated_entity,False
+co_sb205,51,THE ATTORNEY GENERAL,attorney general,attorney general,government,attorney general,government,False
+co_sb205,52,A DEPLOYER,deployer,deployer,regulated_entity,deployer,regulated_entity,False
+co_sb205,78,THE ATTORNEY GENERAL,attorney general,attorney general,government,attorney general,government,False
+tx_traiga,19,"A governmental agency that makes available an
+
+ 
+
+artificial intelligence system intended to interact with consumers",governmental agency,artificial intelligence system,regulated_entity,agency,government,True
+tx_traiga,24,A person,person,person,generic,person,generic,False
+tx_traiga,29,The term,term,The term,unclassified,,unclassified,False
+tx_traiga,30,A person,person,person,generic,person,generic,False
+tx_traiga,36,A person,person,person,generic,person,generic,False
+tx_traiga,46,general,general,general,unclassified,,unclassified,False
+tx_traiga,47,the,the,the,unclassified,,unclassified,False
+tx_traiga,50,The attorney general,attorney general,attorney general,government,attorney general,government,False
+tx_traiga,52,A defendant in an action under this section,defendant,A defendant in an action under this sect,unclassified,,unclassified,False
+tx_traiga,61,a) The,the,a) The,unclassified,,unclassified,False
+tx_traiga,64,The form,form,The form,unclassified,,unclassified,False
+tx_traiga,65,"program participant approved by the department and each applicable
+
+ 
+
+agency",program participant,department,regulated_entity,,unclassified,True
+tx_traiga,66,The department,department,department,regulated_entity,department,government,True
+tx_traiga,67,The department,department,department,regulated_entity,department,government,True
+tx_traiga,69,A program participant,program participant,program,regulated_entity,,unclassified,True
+tx_traiga,70,The report,report,The report,unclassified,,unclassified,False
+tx_traiga,71,The,the,The,unclassified,,unclassified,False
+tx_traiga,72,The report,report,The report,unclassified,,unclassified,False
+tx_traiga,81,The Department of Information Resources and the council,department,council,regulated_entity,department,government,True
+tx_traiga,83,The governor,governor,The governor,unclassified,,unclassified,False
+tx_traiga,84,Members of the council,members,council,regulated_entity,,unclassified,True
+tx_traiga,85,The council,council,council,regulated_entity,council,government,True
+tx_traiga,89,The council,council,council,regulated_entity,council,government,True
+tx_traiga,90,The council,council,council,regulated_entity,council,government,True
+tx_traiga,91,The,the,The,unclassified,,unclassified,False
+tx_traiga,92,The council,council,council,regulated_entity,council,government,True
+il_hb3773,60,an employer,employer,employer,regulated_entity,employer,regulated_entity,False
+il_hb3773,69,The employer,employer,employer,regulated_entity,employer,regulated_entity,False
+il_hb3773,73,Nothing in this Section,nothing,Nothing in this Section,unclassified,,unclassified,False
+il_hb3773,82,the employer,employer,employer,regulated_entity,employer,regulated_entity,False
+il_hb3773,83,The employee,employee,The employee,unclassified,,unclassified,False
+il_hb3773,87,No employer,employer,employer,regulated_entity,employer,regulated_entity,False
+il_hb3773,97,the Department,department,department,government,department,government,False
+il_hb3773,98,the Department,department,department,government,department,government,False
+il_hb3773,101,an employer,employer,employer,regulated_entity,employer,regulated_entity,False

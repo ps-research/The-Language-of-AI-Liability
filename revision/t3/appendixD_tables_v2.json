@@ -1,0 +1,57 @@
+{
+  "hedge": {
+    "appropriate": 76,
+    "where applicable": 47,
+    "reasonable": 47,
+    "as appropriate": 39,
+    "reasonably": 39,
+    "adequate": 23,
+    "as applicable": 23,
+    "materially": 20,
+    "where appropriate": 18,
+    "sufficient": 16,
+    "as necessary": 13,
+    "proportionate": 11,
+    "where necessary": 10,
+    "feasible": 9,
+    "significant": 8,
+    "sufficiently": 5,
+    "material": 5,
+    "significantly": 4,
+    "suitable": 3,
+    "appropriately": 2,
+    "to the extent possible": 2,
+    "adequately": 1
+  },
+  "precise": {
+    "full date (Month D, YYYY)": 30,
+    "annually": 14,
+    "within N days/hours/weeks/months/years": 13,
+    "no later than": 8,
+    "on or before [Month D]": 8,
+    "by [Month D] / by [date]": 1,
+    "quarterly": 1
+  },
+  "vague": {
+    "without (undue) delay": 30,
+    "regularly": 6,
+    "promptly": 5,
+    "periodically": 3,
+    "as soon as possible": 1,
+    "in a timely manner": 1,
+    "from time to time": 1
+  },
+  "conditional": {
+    "where": 249,
+    "if": 124,
+    "provided": 85,
+    "subject to": 64,
+    "unless": 22,
+    "except when/where/that/as": 16,
+    "provided that": 14,
+    "in (the) case of/that/where": 14,
+    "to the extent that": 11,
+    "notwithstanding": 7,
+    "in the event that": 2
+  }
+}
