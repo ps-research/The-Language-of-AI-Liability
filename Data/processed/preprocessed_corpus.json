@@ -342,8 +342,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": false
       },
@@ -1043,8 +1043,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -5203,8 +5203,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -5448,8 +5448,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "SOFT_OBLIGATION",
-          "PERMISSION"
+          "PERMISSION",
+          "SOFT_OBLIGATION"
         ],
         "is_obligation": true
       },
@@ -7309,8 +7309,8 @@
           }
         ],
         "deontic_categories": [
-          "SOFT_OBLIGATION",
-          "PERMISSION"
+          "PERMISSION",
+          "SOFT_OBLIGATION"
         ],
         "is_obligation": true
       },
@@ -9238,8 +9238,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -9460,8 +9460,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -9697,8 +9697,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -11645,8 +11645,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -12035,8 +12035,8 @@
           }
         ],
         "deontic_categories": [
-          "SOFT_OBLIGATION",
-          "PERMISSION"
+          "PERMISSION",
+          "SOFT_OBLIGATION"
         ],
         "is_obligation": true
       },
@@ -12737,8 +12737,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -24807,8 +24807,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -25488,8 +25488,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -26006,7 +26006,7 @@
       "name": "Colorado SB 24-205",
       "jurisdiction": "Colorado",
       "year": 2024,
-      "status": "Delayed to Jun 2026",
+      "status": "Repealed May 2026 (replaced by SB 26-189)",
       "source_type": "official_english"
     },
     "stats": {
@@ -26292,8 +26292,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "SOFT_OBLIGATION",
-          "PERMISSION"
+          "PERMISSION",
+          "SOFT_OBLIGATION"
         ],
         "is_obligation": true
       },
@@ -27785,8 +27785,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },
@@ -27991,8 +27991,8 @@
         ],
         "deontic_categories": [
           "HARD_OBLIGATION",
-          "PROHIBITION",
-          "PERMISSION"
+          "PERMISSION",
+          "PROHIBITION"
         ],
         "is_obligation": true
       },

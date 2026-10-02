@@ -7,21 +7,22 @@
     },
     "total_obligation": 710,
     "category_counts": {
-      "unclassified": 144,
-      "government": 148,
       "regulated_entity": 59,
-      "generic": 25
+      "government": 163,
+      "generic": 1,
+      "anaphoric": 28,
+      "unclassified": 125
     },
-    "hhi": 0.14134958382877527,
-    "coverage": 0.6170212765957447,
+    "hhi": 0.6042952804198758,
+    "coverage": 0.5930851063829787,
     "total_active": 376,
-    "classified_real_actors": 232,
+    "classified_real_actors": 223,
     "top_actors": {
       "commission": 54,
-      "authority": 43,
-      "provider": 36,
-      "office": 22,
-      "state": 21
+      "provider": 34,
+      "authority": 26,
+      "office": 21,
+      "notified body": 20
     }
   },
   "china_genai": {
@@ -33,7 +34,10 @@
     "total_obligation": 16,
     "category_counts": {
       "regulated_entity": 9,
-      "unclassified": 3
+      "government": 0,
+      "generic": 0,
+      "anaphoric": 1,
+      "unclassified": 2
     },
     "hhi": 1.0,
     "coverage": 0.75,
@@ -51,20 +55,21 @@
     },
     "total_obligation": 102,
     "category_counts": {
-      "government": 34,
-      "unclassified": 18,
-      "regulated_entity": 5,
-      "generic": 2
+      "regulated_entity": 3,
+      "government": 38,
+      "generic": 2,
+      "anaphoric": 0,
+      "unclassified": 16
     },
-    "hhi": 0.3111243307555027,
-    "coverage": 0.6949152542372882,
+    "hhi": 0.7879935100054083,
+    "coverage": 0.7288135593220338,
     "total_active": 59,
-    "classified_real_actors": 41,
+    "classified_real_actors": 43,
     "top_actors": {
-      "minister": 16,
-      "government": 16,
-      "ai business operator": 2,
-      "ai industry": 1,
+      "minister": 17,
+      "government": 15,
+      "committee": 5,
+      "operator": 3,
       "affected person": 1
     }
   },
@@ -76,20 +81,20 @@
     },
     "total_obligation": 56,
     "category_counts": {
-      "regulated_entity": 16,
-      "unclassified": 7,
-      "government": 4
+      "regulated_entity": 13,
+      "government": 3,
+      "generic": 2,
+      "anaphoric": 0,
+      "unclassified": 9
     },
-    "hhi": 0.28,
-    "coverage": 0.7407407407407407,
+    "hhi": 0.5617283950617284,
+    "coverage": 0.6666666666666666,
     "total_active": 27,
-    "classified_real_actors": 20,
+    "classified_real_actors": 18,
     "top_actors": {
-      "developer": 9,
-      "covered model": 4,
+      "developer": 13,
       "agency": 3,
-      "computing cluster": 2,
-      "board": 1
+      "person": 2
     }
   },
   "ca_sb53": {
@@ -100,20 +105,22 @@
     },
     "total_obligation": 54,
     "category_counts": {
-      "unclassified": 7,
-      "regulated_entity": 8,
-      "government": 6
+      "regulated_entity": 6,
+      "government": 6,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 9
     },
-    "hhi": 0.25510204081632654,
-    "coverage": 0.6666666666666666,
+    "hhi": 0.5,
+    "coverage": 0.5714285714285714,
     "total_active": 21,
-    "classified_real_actors": 14,
+    "classified_real_actors": 12,
     "top_actors": {
-      "frontier developer": 6,
+      "developer": 6,
       "department": 3,
-      "frontier model": 1,
       "office": 1,
-      "attorney general": 1
+      "attorney general": 1,
+      "agency": 1
     }
   },
   "ca_sb942": {
@@ -125,15 +132,17 @@
     "total_obligation": 13,
     "category_counts": {
       "regulated_entity": 4,
-      "unclassified": 2,
-      "government": 1
+      "government": 1,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 2
     },
     "hhi": 0.6800000000000002,
     "coverage": 0.7142857142857143,
     "total_active": 7,
     "classified_real_actors": 5,
     "top_actors": {
-      "covered provider": 4,
+      "provider": 4,
       "attorney general": 1
     }
   },
@@ -145,7 +154,11 @@
     },
     "total_obligation": 3,
     "category_counts": {
-      "regulated_entity": 1
+      "regulated_entity": 1,
+      "government": 0,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 0
     },
     "hhi": 1.0,
     "coverage": 1.0,
@@ -163,19 +176,20 @@
     },
     "total_obligation": 25,
     "category_counts": {
-      "unclassified": 2,
-      "government": 4,
-      "regulated_entity": 8
+      "regulated_entity": 8,
+      "government": 3,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 3
     },
-    "hhi": 0.375,
-    "coverage": 0.8571428571428571,
+    "hhi": 0.6033057851239669,
+    "coverage": 0.7857142857142857,
     "total_active": 14,
-    "classified_real_actors": 12,
+    "classified_real_actors": 11,
     "top_actors": {
-      "deployer": 6,
-      "attorney general": 4,
-      "developer": 1,
-      "artificial intelligence system": 1
+      "deployer": 7,
+      "attorney general": 3,
+      "developer": 1
     }
   },
   "tx_traiga": {
@@ -186,20 +200,21 @@
     },
     "total_obligation": 43,
     "category_counts": {
-      "regulated_entity": 11,
+      "regulated_entity": 0,
+      "government": 9,
       "generic": 3,
-      "unclassified": 11,
-      "government": 1
+      "anaphoric": 0,
+      "unclassified": 14
     },
-    "hhi": 0.2533333333333334,
-    "coverage": 0.5769230769230769,
+    "hhi": 0.625,
+    "coverage": 0.46153846153846156,
     "total_active": 26,
-    "classified_real_actors": 15,
+    "classified_real_actors": 12,
     "top_actors": {
-      "council": 6,
+      "council": 4,
       "person": 3,
       "department": 3,
-      "artificial intelligence system": 1,
+      "agency": 1,
       "attorney general": 1
     }
   },
@@ -212,8 +227,10 @@
     "total_obligation": 16,
     "category_counts": {
       "regulated_entity": 5,
-      "unclassified": 2,
-      "government": 2
+      "government": 2,
+      "generic": 0,
+      "anaphoric": 0,
+      "unclassified": 2
     },
     "hhi": 0.5918367346938775,
     "coverage": 0.7777777777777778,

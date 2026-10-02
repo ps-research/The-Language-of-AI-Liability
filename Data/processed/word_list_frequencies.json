@@ -23,6 +23,19 @@
     "to the extent possible": 2,
     "adequately": 1
   },
+  "conditional": {
+    "where": 249,
+    "if": 124,
+    "provided": 85,
+    "subject to": 64,
+    "unless": 22,
+    "except when/where/that/as": 16,
+    "provided that": 14,
+    "in (the) case of/that/where": 14,
+    "to the extent that": 11,
+    "notwithstanding": 7,
+    "in the event that": 2
+  },
   "precise": {
     "full date (Month D, YYYY)": 30,
     "annually": 14,
@@ -40,18 +53,5 @@
     "as soon as possible": 1,
     "in a timely manner": 1,
     "from time to time": 1
-  },
-  "conditional": {
-    "where": 249,
-    "if": 124,
-    "provided": 85,
-    "subject to": 64,
-    "unless": 22,
-    "except when/where/that/as": 16,
-    "provided that": 14,
-    "in (the) case of/that/where": 14,
-    "to the extent that": 11,
-    "notwithstanding": 7,
-    "in the event that": 2
   }
 }

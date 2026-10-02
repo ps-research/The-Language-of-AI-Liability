@@ -192,8 +192,8 @@
     "html_issues": [],
     "stats": {
       "word_count": 6106,
-      "line_count": 765,
-      "non_empty_lines": 765,
+      "line_count": 758,
+      "non_empty_lines": 758,
       "character_count": 40936,
       "rough_sentence_count": 110
     },
@@ -247,8 +247,8 @@
       "word_count": 3887,
       "line_count": 1035,
       "non_empty_lines": 518,
-      "character_count": 27517,
-      "rough_sentence_count": 72
+      "character_count": 26475,
+      "rough_sentence_count": 133
     },
     "section_markers": {
       "Section": 5,
